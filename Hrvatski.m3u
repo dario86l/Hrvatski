@@ -2,98 +2,48 @@
 #EXTINF:-1,### (HR) CROATIA ###
 http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10703
 #EXTINF:-1,(HR) HRT 1
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10702
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1,(HR) HRT 1 HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10701
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1,(HR) HRT 2
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10700
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1,(HR) HRT 2 HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10699
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
 #EXTINF:-1,(HR) HRT 3
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10698
-#EXTINF:-1,(HR) HRT 3 HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10697
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 #EXTINF:-1,(HR) HRT 4
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10696
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1,(HR) HRT 4 HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10695
-#EXTINF:-1,(HR) HRT 5
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10694
-#EXTINF:-1 ,HRT 1 720p
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 ,HRT 2 720p
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 ,HRT 3 720p
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1 ,HRT 4 720p
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1 ,RTL TV 720p
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1,(HR) NOVA TV HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10693
-#EXTINF:-1,(HR) NOVA TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10692
-#EXTINF:-1,(HR) DOMA TV HD
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10691
-#EXTINF:-1,(HR) DOMA TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10690
-#EXTINF:-1,(HR) RTL HR
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10689
+#EXTINF:-1,(HR) RTL HD
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1,(HR) RTL 2
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10688
-#EXTINF:-1,(HR) RTL CRIME
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10687
-#EXTINF:-1,(HR) RTL LIVING
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10686
-#EXTINF:-1,(HR) RTL PASSION
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10685
-#EXTINF:-1,(HR) N1 HR
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10684
-#EXTINF:-1,(HR) OSJECKA TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10683
-#EXTINF:-1,(HR) VINKOVACKA TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10682
-#EXTINF:-1,(HR) TV BANOVINA
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10681
-#EXTINF:-1,(HR) Z 1
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10680
-#EXTINF:-1,(HR) LAUDATO TV
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10679
-#EXTINF:-1,(EXYU) ARENA SPORT 10 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240020
-#EXTINF:-1,(EXYU) ARENA SPORT 9 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240019
-#EXTINF:-1,(EXYU) ARENA SPORT 8 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240018
-#EXTINF:-1,(EXYU) ARENA SPORT 7 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240017
-#EXTINF:-1,(EXYU) ARENA SPORT 6 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/240016
-#EXTINF:-1,(EXYU) ARENA SPORT 1 BIH
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10211
-#EXTINF:-1,(EXYU) ARENA SPORT 1 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10210
-#EXTINF:-1,(EXYU) ARENA SPORT 2 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10209
-#EXTINF:-1,(EXYU) ARENA SPORT 3 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10208
-#EXTINF:-1,(EXYU) ARENA SPORT 4 HD (SRB)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10207
-#EXTINF:-1,(EXYU) ARENA SPORT 1 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10206
-#EXTINF:-1,(EXYU) ARENA SPORT 2 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10205
-#EXTINF:-1,(EXYU) ARENA SPORT 3 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10204
-#EXTINF:-1,(EXYU) ARENA SPORT 4 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10203
-#EXTINF:-1,(EXYU) ARENA SPORT 5 HD (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10202
-#EXTINF:-1,(EXYU) HNTV (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10230
-#EXTINF:-1,(EXYU) SPORTSKA TV (HR)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10229
-#EXTINF:-1,(EXYU) MOJA TV (BH)
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10228
-#EXTINF:-1,(EXYU) NOVA SPORT
-http://line.crystalline.me:80/ES7N0VQANS/VCKPXMFHMF/10226
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1,(HR) RTL Kockice
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1,(HR) JADRAN TV
+https://stream-08.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJdf23PYkJxAFMlMVeYGoUmGOTGNIMYTVSJzOe64hVTD)/dm/3/x670ug8/s/live-2.m3u8
+#EXTINF:-1,(HR) Z1
+ttps://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/chunklist_b4628000.m3u8?p=79&s=1673563877&e=1673564477&h=36553acc6b797bf04cf9778921c629c1
+#EXTINF:-1,(HR) HRT INT
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt5.smil/1/chunk_uj807plxw_ctvideo_cfm4s_ridp0va0br1100000_cinit_mpd.m4s
+#EXTINF:-1,(HR) HRT 1 Dario
+https://vod1.laki.eu/hrt1/video.m3u8
+#EXTINF:-1,(HR) HRT 1 Dario 2
+https://webtvstream.bhtelecom.ba/hls6/hrt1.m3u8
+#EXTINF:-1,(HR) HRT 1 Dario 3
+http://webtvstream.bhtelecom.ba/hls6/hrt1_1200.m3u8
+#EXTINF:-1,(BiH) OBN
+http://htlb2.dobratv.net:44865/hlsr/ThENAhdcQFwaAFMCXQFbXAAAC1QEUgcEAQEBB1cFCV4AUQcFUFBSXlwWTkFKRkoAUwxmC1AUCAULAVdOE0VDA0dsDAdGDkBXAAVATxtGUQhXQwNSGBRCWlcUXkADBwdVDBFJQQFMFgNKWgMPZlZdE1sCXEAOWEdfXxpGDV9vVANYUgsHRg5AVhoYQApKQhpfXBRVDhgUUFpHRAUWVBIKRAQEXFNGGEAFV0EMF0tLGl8QI3hAGBRXS0dTChFYX15EDxEIUBEMQEoaXRE8S1dLEUAEWA9RRBAJEQdGThNdUR5qUAoNClEBElFbDBAbCBpUAlEbThZbXV1aQgsQbkBZAhcJR1FXAFdERQ==/ProxyIPTV/112233445566/6873/ff0fe2487742955f539c85a37c5f63cf/6873_702.ts
+#EXTINF:-1,(HR) CMC
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1,(HR) HRT 2 Dario
+https://live2.cdn-canlitv.com/hrt2__1673565025-4-278927504.hls.ts
+#EXTINF:-1,(HR) HRT 2 Dario 2
+https://live2.cdn-canlitv.com/hrt2.m3u8?anahtar=8uBz-9HFwu2qSmQVDx213g&sure=1673586626&ip=178.236.82.68
+#EXTINF:-1,(HR) HRT 1 Dario 4
+https://live.cdn-canlitv.com/hrt1__1673565205-4-278927534.hls.ts
+#EXTINF:-1,(HR) HRT1 Dario 5
+https://live.cdn-canlitv.com/hrt1.m3u8?anahtar=iotPMG6XqfXEdZeWGqiE1A&sure=1673586816&ip=178.236.82.68
