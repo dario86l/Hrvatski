@@ -42,8 +42,8 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1,(HR) HRT 2 Dario
 https://live2.cdn-canlitv.com/hrt2__1673565025-4-278927504.hls.ts
 #EXTINF:-1,(HR) HRT 2 Dario 2
-https://live2.cdn-canlitv.com/hrt2.m3u8?anahtar=8uBz-9HFwu2qSmQVDx213g&sure=1673586626&ip=178.236.82.68
+https://live2.cdn-canlitv.com/hrt2.m3u8
 #EXTINF:-1,(HR) HRT 1 Dario 4
 https://live.cdn-canlitv.com/hrt1__1673565205-4-278927534.hls.ts
 #EXTINF:-1,(HR) HRT1 Dario 5
-https://live.cdn-canlitv.com/hrt1.m3u8?anahtar=iotPMG6XqfXEdZeWGqiE1A&sure=1673586816&ip=178.236.82.68
+https://live.cdn-canlitv.com/hrt1.m3u8
