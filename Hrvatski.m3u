@@ -23,10 +23,6 @@ https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1,(HR) JADRAN TV
 https://stream-08.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJdf23PYkJxAFMlMVeYGoUmGOTGNIMYTVSJzOe64hVTD)/dm/3/x670ug8/s/live-2.m3u8
-#EXTINF:-1,(HR) Z1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/chunklist_b4628000.m3u8
-#EXTINF:-1,(HR) HRT INT
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt5.smil/1/chunk_uj807plxw_ctvideo_cfm4s_ridp0va0br1100000_cinit_mpd.m4s
 #EXTINF:-1,(HR) HRT 1 Dario
 https://vod1.laki.eu/hrt1/video.m3u8
 #EXTINF:-1,(HR) HRT 1 Dario 2
@@ -37,27 +33,5 @@ http://webtvstream.bhtelecom.ba/hls6/hrt1_1200.m3u8
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 #EXTINF:-1,(HR) CMC
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1,(HR) HRT 2 Dario
-https://live2.cdn-canlitv.com/hrt2__1673565025-4-278927504.hls.ts
-#EXTINF:-1,(HR) HRT 2 Dario 2
-https://live2.cdn-canlitv.com/hrt2.m3u8
-#EXTINF:-1,(HR) HRT 1 Dario 4
-https://vod1.laki.eu/hrt1/video.m3u8
-#EXTINF:-1,(HR) HRT1 Dario 5
-https://live.cdn-canlitv.com/hrt1.m3u8
 #EXTINF:-1,(HR) RTV Herceg-Bosna
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1,(Sport) ARENA 1
-https://no2.webtv1.lol/ddy1/premium134/tracks-v1a1/mono.m3u8
-#EXTINF:-1,(Sport) ARENA 1 HR
-https://newtest.webtv1.lol/ddy6/premium432/tracks-v1a1/mono.m3u8
-#EXTINF:-1,(Sport) ARENA 2 HR
-https://newtest.webtv1.lol/ddy6/premium433/tracks-v1a1/mono.m3u8
-#EXTINF:-1,(Sport) ARENA 3 HR
-https://webudi.webtv1.lol/lb/premium434/index.m3u8
-#EXTINF:-1,(Sport) MAX SPORT HR
-https://newtest.webtv1.lol/ddy4/premium19/tracks-v1a1/mono.m3u8
-#EXTINF:-1,(Music) MTV USA
-https://no2.webtv1.lol/ddy1/premium371/tracks-v1a1/mono.m3u8
-#EXTINF:-1,(USA) A&E
-https://newtest.webtv1.lol/ddy6/premium302/tracks-v1a1/mono.m3u8
