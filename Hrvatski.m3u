@@ -47,3 +47,5 @@ https://cdn1.oiv.hr/hrtliveorigin/hrt4single.smil/playlist.m3u8?DVR
 https://cdn1.oiv.hr/hrtliveorigin/hrt5.smil/playlist.m3u8?DVR
 #EXTINF:-1,(HR) Z1
 https://iframe.dacast.com/live/c9333166-8b5f-52e8-f7f9-d79aaa828b31/d05ab737-2fd3-8e33-27de-58d48f73eebb
+#EXTINF:-1 ,RTL TV (Ja Gledam)
+http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
