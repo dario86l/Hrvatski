@@ -41,7 +41,17 @@ http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 ,(HR) LTV TS
 https://stream.luci.xyz/hls/LTV-162502.ts
-#EXTINF:-1 ,(HR) Osječka TV
-https://playback2.akamaized.net/streams/27681961_8347875_lsicr6v5avsuvmq7cp6_1/exp=1677703150~acl=/*~data=hdntl~hmac=2564b9c222cb3a0f4017951cd5192b39c537cf64ac8e1df7726ab7fa0a78b00a/media/27681961_8347875_lsicr6v5avsuvmq7cp6_1@678000p.m3u8?dw=14400&ts=1677614400
 #EXTINF:-1 ,(HR) Poljoprivredna TV
 https://frn.rtsp.me/MaLi_R6GS938Gie2JsAOgQ/1677620539/hls/zfd26eiT.m3u8?ip=178.236.82.40
+#EXTINF:-1 ,(HR) HRT 1 - Dario
+https://live.cdn-canlitv.com/hrt1.m3u8?anahtar=Jy5unQ3kf9e8ggpFD1lezQ&sure=1677639758&ip=178.236.82.40
+#EXTINF:-1 ,(HR) HRT 2 - Dario
+https://live2.cdn-canlitv.com/hrt2.m3u8?anahtar=U1Nx0kgvAHF6TTzQ4pEO8Q&sure=1677639837&ip=178.236.82.40
+#EXTINF:-1 ,(HR) HRT 3 - Dario
+https://live.cdn-canlitv.com/hrt3.m3u8?anahtar=98JMYiGgS3ZAovDk-4cpeA&sure=1677639924&ip=178.236.82.40
+#EXTINF:-1 ,(HR) HRT 4 - Dario
+https://live.cdn-canlitv.com/hrt4.m3u8?anahtar=COzlq1lNSdg_leernaCiZA&sure=1677639993&ip=178.236.82.40
+#EXTINF:-1 ,(SRB) NOVA - Dario
+https://vod1.laki.eu/novas/2023/02/28/21/08/04-11060.ts
+#EXTINF:-1 ,(HR) Z1 - Dario
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/chunklist_b4628000.m3u8?p=79&s=1677618725&e=1677619325&h=e9ce3a3ab8f05d577947cc8704fa013c
