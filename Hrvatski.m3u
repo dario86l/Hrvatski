@@ -41,12 +41,5 @@ http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1 ,(HR) Poljoprivredna TV
 https://frn.rtsp.me/MaLi_R6GS938Gie2JsAOgQ/1677620539/hls/zfd26eiT.m3u8
-#EXTINF:-1 ,(HR) HRT 1 - Dario
-https://live.cdn-canlitv.com/hrt1.m3u8
-https://live2.cdn-canlitv.com/hrt2.m3u8
-#EXTINF:-1 ,(HR) HRT 3 - Dario
-https://live.cdn-canlitv.com/hrt3.m3u8
-#EXTINF:-1 ,(HR) HRT 4 - Dario
-https://live.cdn-canlitv.com/hrt4.m3u8
 #EXTINF:-1 ,(HR) Z1 - Dario
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/chunklist_b4628000.m3u8?p=79&s=1677618725&e=1677619325&h=e9ce3a3ab8f05d577947cc8704fa013c
