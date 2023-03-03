@@ -38,10 +38,7 @@ https://origin-hls.rtl.hr/live/KOCKICA/0/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 ,RTL TV (Ja Gledam)
 http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1 ,(HR) LTV 
-https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1,(USA) HLN  
-https://1876572335.rsc.cdn77.org/6DD62ya4VCQ7TlkRWguNWw==,1677708772/1876572335/tracks-v1a1/mono.m3u8
-#EXTINF:-1,(USA) HLN (2)
+https://stream.luci.xyz/hls/LTV.m3u8#EXTINF:-1,(USA) HLN 
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1,(USA) NBC NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_5_596000.m3u8
