@@ -45,12 +45,12 @@ https://origin-hls.rtl.hr/live/KOCKICA/0/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ey
 http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1 ,(HR) LTV 
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1,(USA) HLN 
-https://tve-live-ctl.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1,(CAD) HLN 
+http://pandar.plus:25461/ziwdeskpz33kH3c/SIZBjLJDHQJ8ZiP/94138
 #EXTINF:-1 (USA) HLN Live (720p)
 http://stream.streamhubtv.xyz:8080/marina/marina/22548?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1 (USA) HLN Live 2
-http://51.222.82.89:22829/1212/1212/353682?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1 (USA) HLN 
+http://k6.koalatv.xyz:2052/311021746983/66137364/98519
 #EXTINF:-1,(USA) NBC NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_5_596000.m3u8
 #EXTINF:-1,(CAD) GLOBAL NEWS
