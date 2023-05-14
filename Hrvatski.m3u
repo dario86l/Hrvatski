@@ -48,7 +48,9 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1,(USA) HLN 
 https://tve-live-ctl.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 (USA) HLN Live (720p)
-https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+http://stream.streamhubtv.xyz:8080/marina/marina/22548?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1 (USA) HLN Live 2
+http://51.222.82.89:22829/1212/1212/353682?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1,(USA) NBC NEWS
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_5_596000.m3u8
 #EXTINF:-1,(CAD) GLOBAL NEWS
