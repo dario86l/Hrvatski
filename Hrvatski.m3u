@@ -47,7 +47,7 @@ https://origin-hls.rtl.hr/live/KOCKICA/0/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ey
 http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1,(HR) LTV 
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1,(USA) HLN 
+#EXTINF:-1,(USA) HLN
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6346
 #EXTINF:-1,(CAD) CP24
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/476
