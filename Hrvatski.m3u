@@ -85,3 +85,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1,(BIH) (270p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1,(HR) HRT 2 (GledajTV)
+https://webtvstream.bhtelecom.ba/hls9/hrt2_1200-33124.ts
+#EXTINF:-1,(HR) HRT 2 (GledajTV) (2)
+https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
+#EXTINF:-1,(HR) HRT 2 (GledajTV) (3)
+https://live2.cdn-canlitv.com/hrt2.m3u8?anahtar=Ui2SrdFLebx99YA6gAPXgQ&sure=1687232343&ip=178.218.162.117
