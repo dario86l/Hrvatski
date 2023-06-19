@@ -89,3 +89,5 @@ https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
 https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 #EXTINF:-1,(SR) Happy TV (GledajTV) 
 https://live.cdn-canlitv.com/happytv.m3u8
+#EXTINF:-1,(BiH) OBN (GledajTV) 
+https://live2.cdn-canlitv.com/obntv__2023/06/19/21/45/39-06000.ts
