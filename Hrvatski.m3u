@@ -47,51 +47,41 @@ https://origin-hls.rtl.hr/live/KOCKICA/0/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ey
 http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 #EXTINF:-1 ,(HR) LTV 
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1,(CAD) HLN 
-http://pandar.plus:25461/ziwdeskpz33kH3c/SIZBjLJDHQJ8ZiP/94138
-#EXTINF:-1 (USA) HLN Live (720p)
-http://stream.streamhubtv.xyz:8080/marina/marina/22548?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1 (USA) HLN 
-http://k6.koalatv.xyz:2052/311021746983/66137364/98519
-#EXTINF:-1,(USA) NBC NEWS
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_5_596000.m3u8
-#EXTINF:-1,(CAD) GLOBAL NEWS
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6346
 #EXTINF:-1,(CAD) CP24
-http://pandar.plus:25461/ziwdeskpz33kH3c/SIZBjLJDHQJ8ZiP/94107
-#EXTINF:-1,(CAD) CP24 HD
-http://pandar.plus:25461/ziwdeskpz33kH3c/SIZBjLJDHQJ8ZiP/268671
-#EXTINF:-1 tvg-id="" status="online",STV (720p)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/476
+#EXTINF:-1,(HR),STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="LibertasTV.hr",Libertas TV (1080p)
+#EXTINF:-1,(HR),Libertas TV (1080p)
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="OTV.hr",OTV (720p)
+#EXTINF:-1,(HR) OTV (720p)
 https://stream.agatin.hr:3559/live/otvlive.m3u8
-#EXTINF:-1 tvg-id="HRT1.hr",HRT 1 (720p)
+#EXTINF:-1,(HR) HRT 1 (720p)
 https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
-#EXTINF:-1 tvg-id="TVJadran.hr",TV Jadran (720p) [Not 24/7]
+#EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 tvg-id="CMCTV.hr",CMC TV (1080p)
+#EXTINF:-1,(HR) CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="KlapeiTambureTV.hr",Klape i Tambure TV (1080p)
+#EXTINF:-1,(HR) Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr",Radio Televizija Banovina (720p)
+#EXTINF:-1,(HR) Televizija Banovina (720p)
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="TVZapad.hr",TV Zapad (1080p)
+#EXTINF:-1, (HR) TV Zapad (1080p)
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="KlasikTV.hr",Klasik TV (576p) [Not 24/7]
+#EXTINF:-1,(HR) Klasik TV (576p) [Not 24/7]
 https://178.253.194.105/klasiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLCroatia.hr",RTL Croatia (1080p)
+#EXTINF:-1,(HR) RTL Croatia (1080p)
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLKockica.hr",RTL Kockica (1080p)
+#EXTINF:-1,(HR) RTL Kockica (1080p)
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="",Trend TV (480p)
+#EXTINF:-1,(HR) Trend TV (480p)
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="DoxTV.hr",Dox TV (576p)
+#EXTINF:-1,(HR) Dox TV (576p)
 https://vod1.laki.eu/dox/index.m3u8
-#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba",María+Visión Medjugorje (720p)
+#EXTINF:-1, (HR) María+Visión Medjugorje (720p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="BHRT.ba",BHRT (720p) [Geo-blocked]
+#EXTINF:-1,(BIH) BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 tvg-id="BHRT.ba",BHRT (270p) [Geo-blocked]
+#EXTINF:-1,(BIH) (270p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
