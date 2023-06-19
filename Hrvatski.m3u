@@ -51,7 +51,7 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6346
 #EXTINF:-1,(CAD) CP24
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/476
-#EXTINF:-1,(HR),STV (720p)
+#EXTINF:-1,(HR) STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1,(HR),Libertas TV (1080p)
 https://stream.luci.xyz/hls/LTV.m3u8
