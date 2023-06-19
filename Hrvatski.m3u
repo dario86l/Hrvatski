@@ -57,8 +57,14 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1,(HR) OTV (720p)
 https://stream.agatin.hr:3559/live/otvlive.m3u8
-#EXTINF:-1,(HR) HRT 1 (720p)
+#EXTINF:-1,(HR) HRT 1 (GledajTV)
 https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+EXTINF:-1,(HR) HRT 2 (GledajTV)
+https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
+EXTINF:-1,(HR) HRT 3 (GledajTV)
+https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+EXTINF:-1,(HR) HRT 4 (GledajTV)
+https://live.cdn-canlitv.com/hrt4.m3u8?anahtar=J1F_A-RFmqwPQQn0AdRQ2g&sure=1687233270&ip=178.236.83.98
 #EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1,(HR) CMC TV (1080p)
@@ -85,9 +91,3 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1,(BIH) (270p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
-#EXTINF:-1,(HR) HRT 2 (GledajTV)
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
-#EXTINF:-1,(SR) Happy TV (GledajTV) 
-https://live.cdn-canlitv.com/happytv.m3u8
-#EXTINF:-1,(BiH) OBN (GledajTV) 
-https://live2.cdn-canlitv.com/obntv__2023/06/19/21/45/39-06000.ts
