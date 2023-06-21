@@ -1,4 +1,410 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13f04ed1fed1952011a48330beac26e9.png" group-title="Canada ➾ Documentary",CA: A&E
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1729
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC Spark" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04f43391b1d803993bba912b8702656b.jpg" group-title="Canada ➾ Movie",CA: ABC Spark
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13236
+#EXTINF:-1 tvg-id="" tvg-name="CA: Addik TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5e861a3a513d7a067771e58d8a6f10ca.png" group-title="Canada ➾ Movie",CA: Addik TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2592
+#EXTINF:-1 tvg-id="adultswim.ca" tvg-name="CA: Adult Swim" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d5c58112babfd62f5385d2340fbea818.png" group-title="Canada ➾ LifeStyle",CA: Adult Swim
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9218
+#EXTINF:-1 tvg-id="" tvg-name="CA: Amazing Discoveries TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/da5175a79b557f86a313ec33d61ceb3f.jpg" group-title="Canada",CA: Amazing Discoveries TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/193443
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d43019d899bda40802bf0fa6e3d8666f.png" group-title="Canada ➾ Movie",CA: AMC
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/503
+#EXTINF:-1 tvg-id="" tvg-name="CA: AMI" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/fd7bc52123a5ed88106e7749f026477e.png" group-title="Canada",CA: AMI
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/193215
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="CA: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/817e7fdec49c50192f11ad1039a5273a.png" group-title="Canada ➾ Nature",CA: ANIMAL PLANET
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9259
+#EXTINF:-1 tvg-id="" tvg-name="CA: APTN W" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/d883d25d7029235c8181aac6dba1b609.png" group-title="Canada ➾ LifeStyle",CA: APTN W
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9294
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7c07efb5599972e022017294d3666dbc.png" group-title="Canada ➾ Football",CA: beIN Sports
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13239
+#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA: BNN Bloomberg" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/52586ab40772d1a469e5e0b022d8e6b2.png" group-title="Canada ➾ News",CA: BNN Bloomberg
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/504
+#EXTINF:-1 tvg-id="" tvg-name="CA: Canal D" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/e0dc4d1cfc8f6a928da4f99a1d5ff354.png" group-title="Canada ➾ Documentary",CA: Canal D
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2593
+#EXTINF:-1 tvg-id="" tvg-name="CA: Canal Savoir" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/f7f7f461adc145566e667fce3dc8adff.png" group-title="Canada ➾ Documentary",CA: Canal Savoir
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/491
+#EXTINF:-1 tvg-id="" tvg-name="CA: Canal Vie (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f31e84e7ebc934992b591ab161250d8b.jpg" group-title="Canada ➾ LifeStyle",CA: Canal Vie (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/290652
+#EXTINF:-1 tvg-id="" tvg-name="CA: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/99c3edcb269c216e26bc148281cce876.png" group-title="Canada ➾ Kids",CA: Cartoon Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/505
+#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA: Casa (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7d766ce664312ef4c23150ebb5f34c7e.png" group-title="Canada ➾ LifeStyle",CA: Casa (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/487
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA: CBC Calgary CBRT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/58e257b26be174adbb29e6b9dfadd1d9.jpeg" group-title="Canada ➾ News",CA: CBC Calgary CBRT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/11619
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Charlottetown" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7b13ad87ed3364875ed9954dd3462bc9.png" group-title="Canada ➾ News",CA: CBC Charlottetown
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/34734
+#EXTINF:-1 tvg-id="cbcedmonton.ca" tvg-name="CA: CBC Edmonton CBXT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/73e7c6cc648cb12b171877ee909b9103.png" group-title="Canada ➾ News",CA: CBC Edmonton CBXT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/76729
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Halifax CBHT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4765eb0aaac8bbd3d7b9db04ab97edac.jpeg" group-title="Canada ➾ News",CA: CBC Halifax CBHT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/425
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Montreal CBMT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/26fc9af487741d6560e4a951a19c76b9.png" group-title="Canada ➾ News",CA: CBC Montreal CBMT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/426
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC New Brunswick" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/309e2aa7d7d9ab05ccf79d7269a100e6.png" group-title="Canada ➾ News",CA: CBC New Brunswick
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296807
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC News Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/db9b59c7a813e74b52ebd8a0d835481b.png" group-title="Canada ➾ News",CA: CBC News Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/11611
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Ottawa CBOT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5fd89013e269a050b82255f941ef26d6.png" group-title="Canada ➾ News",CA: CBC Ottawa CBOT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/427
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Regina CBKT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/9315a6c41dd692a09cc24a33e5d2d02d.png" group-title="Canada ➾ News",CA: CBC Regina CBKT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/428
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC ST Johns" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",CA: CBC ST Johns
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/193446
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC Toronto CBLT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/fa9327f7cb5583629396952f0ae9e322.jpeg" group-title="Canada ➾ News",CA: CBC Toronto CBLT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/429
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Vancouver CBUT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/15b918aaca645fce480a51cad2f0a66f.jpeg" group-title="Canada ➾ News",CA: CBC Vancouver CBUT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/430
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Windsor CBET DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7d8041e50848d09cf7ee9bcf3c38560d.png" group-title="Canada ➾ News",CA: CBC Windsor CBET DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/431
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Winnipeg CBWT DT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/3ca44df3a29a8b4cfe85c76ad9c39dde.jpg" group-title="Canada ➾ News",CA: CBC Winnipeg CBWT DT
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/432
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBC Yellowknife" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/81115b28db83ecf8045e9fad97115916.jpg" group-title="Canada",CA: CBC Yellowknife
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/168529
+#EXTINF:-1 tvg-id="" tvg-name="CA: CBS East" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2bacaec436582655a0c7820a72d32a1b.png" group-title="Canada ➾ News",CA: CBS East
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/170018
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA: CHCH TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ed8c102a6fe6661792083b721edca5b2.png" group-title="Canada ➾ News",CA: CHCH TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9246
+#EXTINF:-1 tvg-id="" tvg-name="CA: Cinepop" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/ffd294b82bbd28e9988b55fb22b33115.jpg" group-title="Canada ➾ Movie",CA: Cinepop
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/24842
+#EXTINF:-1 tvg-id="" tvg-name="CA: CityNews Toronto" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2bc7a5ae342739230d452248505d37e2.svg" group-title="Canada ➾ News",CA: CityNews Toronto
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296809
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA: Citytv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bfc215ae82e2d8a9b1bb1691b5a18aa4.png" group-title="Canada ➾ News",CA: Citytv
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/483
+#EXTINF:-1 tvg-id="" tvg-name="CA: Citytv Montreal" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/e975e1490c1060f0a850eb03b17e49a6.png" group-title="Canada ➾ LifeStyle",CA: Citytv Montreal
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13263
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA: CMT Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e6b9d3f12a18bc5bd361aee5afcd623b.png" group-title="Canada ➾ LifeStyle",CA: CMT Canada
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/482
+#EXTINF:-1 tvg-id="" tvg-name="CA: CNBC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5a32a5ed3d3dd459f7ab61ba806ba506.svg" group-title="Canada",CA: CNBC
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297321
+#EXTINF:-1 tvg-id="" tvg-name="CA: CNN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/eeb470948d2348b6f6fddf49375b86ab.png" group-title="Canada ➾ News",CA: CNN
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298594
+#EXTINF:-1 tvg-id="" tvg-name="CA: Cooking Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/aef23b9772229ef5d5fc459621cb7b8f.png" group-title="Canada ➾ LifeStyle",CA: Cooking Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/478
+#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA: Cottage Life TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5890bc3d04644de5d9f25db5e70ef6ca.png" group-title="Canada ➾ LifeStyle",CA: Cottage Life TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/477
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA: CP 24" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fca600f2e44ea27e7bf259c55fc81ba.png" group-title="Canada ➾ News",CA: CP 24
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/476
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA: CPAC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4363c1bc496c270f40b699ea7344e33d.png" group-title="Canada ➾ LifeStyle",CA: CPAC
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/475
+#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA: Crave 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1a903915785d960fc87d74ddfe8ae64d.png" group-title="Canada ➾ Movie",CA: Crave 1
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13244
+#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA: Crave 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3afd1ea1bddb07b12b272ada37f7a39b.png" group-title="Canada ➾ Movie",CA: Crave 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13245
+#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA: Crave 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a2805980b00534b6930ef68ff2620465.png" group-title="Canada ➾ Movie",CA: Crave 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9283
+#EXTINF:-1 tvg-id="" tvg-name="CA: Crave 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/fad5d7643894ac39f7d5849c768a8adb.jpg" group-title="Canada ➾ Movie",CA: Crave 4
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13246
+#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8c9b3be2b2a9adbc0d2cb66a8be494b6.png" group-title="Canada ➾ Documentary",CA: Crime+ Investigation
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9308
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b4734eb5f62a306273a572dc9926feb3.png" group-title="Canada ➾ News",CA: CTV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/473
+#EXTINF:-1 tvg-id="ctv2.ca" tvg-name="CA: CTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/88919c0e9383e36349b19128fe4cedcf.png" group-title="Canada ➾ LifeStyle",CA: CTV 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9315
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 Atlantic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f73abd6c1c908aa48229ef1e81d80097.png" group-title="Canada ➾ News",CA: CTV 2 Atlantic
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13228
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 Barrie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/92ba2cad2219cb24d623da9841753dd1.png" group-title="Canada ➾ News",CA: CTV 2 Barrie
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296813
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 London" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/514e7eb73d98fe8cde00505defe96972.png" group-title="Canada ➾ News",CA: CTV 2 London
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296810
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV 2 Ottawa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cf8319bb4810f729e77d18a6c95bc33e.png" group-title="Canada ➾ News",CA: CTV 2 Ottawa
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296814
+#EXTINF:-1 tvg-id="ctvvancouver.ca" tvg-name="CA: CTV 2 Vancouver" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/0cec0325ad8b069dec3a0b4c4db3eda9.png" group-title="Canada",CA: CTV 2 Vancouver
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6143
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Calgary" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6a23585c77d577bed549a5ec5fe325f1.png" group-title="Canada",CA: CTV Calgary
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/40631
+#EXTINF:-1 tvg-id="comedygold.ca" tvg-name="CA: CTV Comedy Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b7a6d51c17e5ea3245e89ba0573e6076.png" group-title="Canada ➾ Movie",CA: CTV Comedy Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/479
+#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA: CTV Drama Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/427f8f5d125aaafe6c07f378fec9a1b9.png" group-title="Canada ➾ Movie",CA: CTV Drama Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9220
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Kitchener" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/3bd41d59d3e4be80c3985a4fe00ea338.png" group-title="Canada ➾ LifeStyle",CA: CTV Kitchener
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298184
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV London" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/835401ce795d3553b8aac90b3ff5decc.png" group-title="Canada",CA: CTV London
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267750
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Montreal" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/349a86779758014d3487a70c7a8a33a7.png" group-title="Canada",CA: CTV Montreal
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298186
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV News Atlantic" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/853d623423e380ef65f8b3cc0f1538f0.png" group-title="Canada ➾ News",CA: CTV News Atlantic
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298183
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA: CTV News Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d8b981e43a3201ced02c6986fd1baea0.png" group-title="Canada ➾ News",CA: CTV News Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/474
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV sci-fi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b0de99132f443e1a81aa2b565cd58243.png" group-title="Canada ➾ Movie",CA: CTV sci-fi
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/60157
+#EXTINF:-1 tvg-id="" tvg-name="CA: CTV Toronto" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/4473c97c2f845834909b6dfbdae68958.png" group-title="Canada",CA: CTV Toronto
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298187
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA: DejaView" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f4cb78dffe82ba8298c5e22b7d403b19.png" group-title="Canada ➾ LifeStyle",CA: DejaView
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/472
+#EXTINF:-1 tvg-id="" tvg-name="CA: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8b518ca76ae985c61a9723de69ac1132.jpg" group-title="Canada ➾ Documentary",CA: Discovery Science
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295051
+#EXTINF:-1 tvg-id="" tvg-name="CA: Discovery Velocity" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/897f255af4614ec1b651200fcce5bb5d.png" group-title="Canada ➾ Documentary",CA: Discovery Velocity
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/36720
+#EXTINF:-1 tvg-id="" tvg-name="CA: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5cd2618cbbf8039811d0e52a037bcfba.png" group-title="Canada ➾ Kids",CA: Disney Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6146
+#EXTINF:-1 tvg-id="" tvg-name="CA: Disney Junior (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f57e3bc438fc8a83d70ffb611831921.png" group-title="Canada ➾ Kids",CA: Disney Junior (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/78229
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9e9bef84f3c14025b4d62cc92a3641c0.png" group-title="Canada ➾ Kids",CA: Disney XD
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/470
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA: Dtour" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/de03e1ea5fabaedb85c44c4d2545ba1b.png" group-title="Canada ➾ LifeStyle",CA: Dtour
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9238
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5b9e58eefcc7e4b9ee69cc4596a86e6c.png" group-title="Canada ➾ LifeStyle",CA: E!
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/468
+#EXTINF:-1 tvg-id="" tvg-name="CA: Elle Fictions" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/f6cecbe1fd5b48458815b21eccaf7afd.jpg" group-title="Canada ➾ LifeStyle",CA: Elle Fictions
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/12739
+#EXTINF:-1 tvg-id="" tvg-name="CA: Evasion" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/89396379f2695555149936d962bfa698.png" group-title="Canada ➾ Documentary",CA: Evasion
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/489
+#EXTINF:-1 tvg-id="" tvg-name="CA: EWTN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2f720e5c9d7adcd932cd612f250ab834.png" group-title="Canada",CA: EWTN
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296817
+#EXTINF:-1 tvg-id="" tvg-name="CA: Fairchild TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6b2b941aad8d4e5b84a76aefcc85e0af.png" group-title="Canada",CA: Fairchild TV 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298595
+#EXTINF:-1 tvg-id="" tvg-name="CA: Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/06b3204742fce68e35389ec578747a01.png" group-title="Canada ➾ Movie",CA: Family
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/29268
+#EXTINF:-1 tvg-id="" tvg-name="CA: Family Jr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2b8d61b01bb5cbd91b4c42afee3a8cbc.png" group-title="Canada ➾ Kids",CA: Family Jr
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/471
+#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="CA: FIGHT Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/0acf73a8d84e27437ea2ec13b3576666.png" group-title="Canada ➾ Sports",CA: FIGHT Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9235
+#EXTINF:-1 tvg-id="" tvg-name="CA: Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1843b3b1749bb1936f483a6f985873d9.png" group-title="Canada ➾ LifeStyle",CA: Food Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1724
+#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b18a06b1c5654b9d7a8a78f204244f13.png" group-title="Canada ➾ LifeStyle",CA: FX
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/11616
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA: FXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/88ebcce98c124546e1f730a659a9d30f.png" group-title="Canada ➾ LifeStyle",CA: FXX
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6148
+#EXTINF:-1 tvg-id="" tvg-name="CA: Game Show Network" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/94d89e035d884893edf6b49133251f70.png" group-title="Canada",CA: Game Show Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297323
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="CA: Game TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bc78cc10fa1f11435424432b75fc2f.png" group-title="Canada ➾ LifeStyle",CA: Game TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/15472
+#EXTINF:-1 tvg-id="" tvg-name="CA: Game+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/02b6e05e000946ea7f1b4e918b41db41.png" group-title="Canada ➾ LifeStyle",CA: Game+
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13217
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV BC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/82e7b190ca4d91ce9eac4c5720609ac0.png" group-title="Canada ➾ News",CA: Global TV BC
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/280591
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Calgary" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/0d91c3ac4fce0ec98c14f7f516c84a27.png" group-title="Canada ➾ News",CA: Global TV Calgary
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283850
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Edmonton" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d4303c19035fbf81ba7ee3fd91f168eb.jpg" group-title="Canada ➾ News",CA: Global TV Edmonton
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283851
+#EXTINF:-1 tvg-id="globalbc.ca" tvg-name="CA: Global TV Halifax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2172e683ee47d8bb3668c1b5260b2592.png" group-title="Canada ➾ News",CA: Global TV Halifax
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/464
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Kingston" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d3ab3e03cbd5dbcc5747379079e240bb.jpg" group-title="Canada ➾ News",CA: Global TV Kingston
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283853
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Lethbridge" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/0d3e94fd0aac031fef4d0908a87c942b.png" group-title="Canada ➾ News",CA: Global TV Lethbridge
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298964
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Montreal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5953523b52d8ca318fbf133a3df82ada.jpg" group-title="Canada ➾ News",CA: Global TV Montreal
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283855
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/631bebd74ae8d8522b95d6e9923f4502.png" group-title="Canada ➾ News",CA: Global TV News
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283856
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Okanagan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/959b4a68a48e70d48c1fc382d46dfe05.png" group-title="Canada ➾ News",CA: Global TV Okanagan
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283857
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Peterborough" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/265cf96668fcfb0f0827cb8c290927c6.jpg" group-title="Canada ➾ News",CA: Global TV Peterborough
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283858
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Saskatoon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/dede01ee36bf3a524886dbffcf76cf6f.png" group-title="Canada ➾ News",CA: Global TV Saskatoon
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283860
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA: Global TV Toronto" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2c84507bc5d845992d38cecfe553c8f8.png" group-title="Canada ➾ News",CA: Global TV Toronto
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/465
+#EXTINF:-1 tvg-id="" tvg-name="CA: Global TV Winnipeg" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b07f4860b7868d3aa2aab21395a1ab4.png" group-title="Canada ➾ News",CA: Global TV Winnipeg
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298596
+#EXTINF:-1 tvg-id="" tvg-name="CA: Hard Knocks" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/568411330b2f20cbd4db69f1f079f6f5.png" group-title="Canada ➾ Sports",CA: Hard Knocks
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/282286
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/30fc09641e10bdd1f244879dfa93aca5.png" group-title="Canada ➾ Movie",CA: HBO 1
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/463
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/895239a428204ad423302e2cefa3234e.png" group-title="Canada ➾ Movie",CA: HBO 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9284
+#EXTINF:-1 tvg-id="" tvg-name="CA: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/732417b0d68b539bb533d0fb18d67281.png" group-title="Canada ➾ Movie",CA: HBO Signature
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295079
+#EXTINF:-1 tvg-id="" tvg-name="CA: HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/4e73c113ad6bd9e93ca7666806fd2c74.png" group-title="Canada ➾ LifeStyle",CA: HGTV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/283117
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2b3f7b83b3365022f4bc98fe09d96b72.png" group-title="Canada ➾ Documentary",CA: History
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/462
+#EXTINF:-1 tvg-id="" tvg-name="CA: Ici arTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/df553fd56cfb7579a15798f8fb811a52.svg" group-title="Canada ➾ LifeStyle",CA: Ici arTV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13257
+#EXTINF:-1 tvg-id="" tvg-name="CA: Ici Radio Canada Tele Montreal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3e3e5916acb56dd9c9b03c9cfbecedcb.png" group-title="Canada ➾ News",CA: Ici Radio Canada Tele Montreal
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/490
+#EXTINF:-1 tvg-id="" tvg-name="CA: Ici RDI (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/7087fd62e7178e4ea76b368412ef3842.png" group-title="Canada ➾ News",CA: Ici RDI (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9257
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICI Tele Montreal" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/bd7512e5a3fdbdfc3b5fd2b68fecb816.png" group-title="Canada",CA: ICI Tele Montreal
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/147416
+#EXTINF:-1 tvg-id="" tvg-name="CA: Ici TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2d8249f642c31e68f0266e1c20b17c42.png" group-title="Canada ➾ LifeStyle",CA: Ici TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165424
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICi Vancouver (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f92cbb1f709ad087e502159b2e6d65a6.png" group-title="Canada ➾ News",CA: ICi Vancouver (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/281013
+#EXTINF:-1 tvg-id="" tvg-name="CA: Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/28c2810061fc5e3736261de0ba41cfc5.jpg" group-title="Canada ➾ Documentary",CA: Investigation Discovery
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9319
+#EXTINF:-1 tvg-id="" tvg-name="CA: knowledge kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7be49370eaf20a3e8be431d2ae9d3df8.png" group-title="Canada ➾ Kids",CA: knowledge kids
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13276
+#EXTINF:-1 tvg-id="" tvg-name="CA: LCN (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5b898be60d107905eb95ec871659c922.png" group-title="Canada ➾ News",CA: LCN (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9300
+#EXTINF:-1 tvg-id="" tvg-name="CA: Lifetime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/41f60d9f84f6ee472a453c48ca128269.png" group-title="Canada ➾ LifeStyle",CA: Lifetime
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/460
+#EXTINF:-1 tvg-id="" tvg-name="CA: Lifetime Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/a181c4b4b1955aa66c43b5b4c7cf3d3b.png" group-title="Canada",CA: Lifetime Movies
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298189
+#EXTINF:-1 tvg-id="" tvg-name="CA: Love Nature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2ae9dc5bdadecdbfbb20948cbc268cda.png" group-title="Canada ➾ Nature",CA: Love Nature
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1723
+#EXTINF:-1 tvg-id="" tvg-name="CA: Magnolia Network" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/065b54960fd316fd32d0968482d2a62d.png" group-title="Canada",CA: Magnolia Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298188
+#EXTINF:-1 tvg-id="" tvg-name="CA: Makeful TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0102805bce4315f5446b0c419831dba6.png" group-title="Canada ➾ LifeStyle",CA: Makeful TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9228
+#EXTINF:-1 tvg-id="" tvg-name="CA: MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/dc501b7e7e61c2fb1d8b24edacc553ae.png" group-title="Canada",CA: MAX
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297726
+#EXTINF:-1 tvg-id="" tvg-name="CA: Miracle Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/bebc4f0ea0594cdf54f6adac7192efde.png" group-title="Canada ➾ LifeStyle",CA: Miracle Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9323
+#EXTINF:-1 tvg-id="moicie.ca" tvg-name="CA: MOI & CIE (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/255d2d1dfe4a97f747afaae39924b1c2.png" group-title="Canada ➾ LifeStyle",CA: MOI & CIE (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/493
+#EXTINF:-1 tvg-id="" tvg-name="CA: MovieTime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4cb890ab668036ca5e027f99e1c9c304.png" group-title="Canada ➾ Movie",CA: MovieTime
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9204
+#EXTINF:-1 tvg-id="" tvg-name="CA: MTV Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/44c13cab60011638dcae59fe2506df1e.png" group-title="Canada ➾ Music",CA: MTV Canada
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2584
+#EXTINF:-1 tvg-id="" tvg-name="CA: Much Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4b94dddf5d49c89669bcba641aa5e341.png" group-title="Canada ➾ LifeStyle",CA: Much Canada
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/281909
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1a1f5bef159f74abd349b746d3c592d2.png" group-title="Canada ➾ Documentary",CA: NAT GEO
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/456
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/177fc2d876f98de1cd0ceccc0f3b6057.png" group-title="Canada ➾ Nature",CA: NAT GEO Wild
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/457
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA: NBA TV Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="Canada ➾ Sports",CA: NBA TV Canada
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13222
+#EXTINF:-1 tvg-id="" tvg-name="CA: Newfoundland TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/214ac2dc3716b456d7f1f25ef258bdde.png" group-title="Canada",CA: Newfoundland TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9325
+#EXTINF:-1 tvg-id="" tvg-name="CA: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6d91245e05f5d744aa3b063a8225409b.png" group-title="Canada ➾ Kids",CA: nickelodeon
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9202
+#EXTINF:-1 tvg-id="" tvg-name="CA: OLN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/07677e9aa64ece27e6c0c2937b4076f3.png" group-title="Canada ➾ LifeStyle",CA: OLN
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/454
+#EXTINF:-1 tvg-id="omni1.ca" tvg-name="CA: OMNI 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/32cbdc3103bea85a4efa6d5a2c6d5b6a.png" group-title="Canada",CA: OMNI 1
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/453
+#EXTINF:-1 tvg-id="omni2.ca" tvg-name="CA: OMNI 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dda4fc11cf49c3579f91b44e6e0d4f42.png" group-title="Canada",CA: OMNI 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/452
+#EXTINF:-1 tvg-id="" tvg-name="CA: One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d19bb59ebd5d57921eef2864d034315a.png" group-title="Canada ➾ LifeStyle",CA: One
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9326
+#EXTINF:-1 tvg-id="" tvg-name="CA: Oprah Winfrey Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/36ef22b5cbe2608eaf3b94ec0d37af00.png" group-title="Canada ➾ LifeStyle",CA: Oprah Winfrey Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295053
+#EXTINF:-1 tvg-id="" tvg-name="CA: Out TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/fc0692e7e14019823b9034b2394c18c3.png" group-title="Canada ➾ LifeStyle",CA: Out TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/61138
+#EXTINF:-1 tvg-id="paramountnetwork.ca" tvg-name="CA: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8c30374a72898355cff878c43cd42906.png" group-title="Canada ➾ Movie",CA: Paramount Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/451
+#EXTINF:-1 tvg-id="" tvg-name="CA: Players TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/abce92350997add8bce148c4268c465b.jpeg" group-title="Canada ➾ Sports",CA: Players TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/286218
+#EXTINF:-1 tvg-id="" tvg-name="CA: Prise 2 (FR)" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/5bf7c90b4e932ee3936f18a7b93492b6.jpg" group-title="Canada ➾ LifeStyle",CA: Prise 2 (FR)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/494
+#EXTINF:-1 tvg-id="" tvg-name="CA: QVTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/f234a24ec27d6f9f05b8ed820b58b784.jpeg" group-title="Canada",CA: QVTV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/286221
+#EXTINF:-1 tvg-id="" tvg-name="CA: RDS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/176e47ebfc4e431e697de50781950fac.png" group-title="Canada ➾ Sports",CA: RDS
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/280913
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA: RDS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af260f2a3c38b476b3c56ed3544e8034.png" group-title="Canada ➾ Sports",CA: RDS 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/495
+#EXTINF:-1 tvg-id="" tvg-name="CA: RDS Info" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1c552a7170175a7c79f12b60cfed89dc.png" group-title="Canada ➾ Sports",CA: RDS Info
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/496
+#EXTINF:-1 tvg-id="" tvg-name="CA: Rogers TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",CA: Rogers TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/286822
+#EXTINF:-1 tvg-id="" tvg-name="CA: Series Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/85a858999b4fab92f74cf316581dfeaa.png" group-title="Canada ➾ Movie",CA: Series Plus
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13277
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5b89cd9b905aed7b59c8f6dfc858b9a9.png" group-title="Canada ➾ Movie",CA: Showcase
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9210
+#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA: Silver Screen Classics" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0497f0af46dfdb09bda4bdc509b29836.png" group-title="Canada ➾ Movie",CA: Silver Screen Classics
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9328
+#EXTINF:-1 tvg-id="" tvg-name="CA: Slice" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/869e96fd5e8a8ef07298b11a7d4f9548.png" group-title="Canada ➾ LifeStyle",CA: Slice
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13215
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA: Smithsonian Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6d681f6fe45416657379864fef191ac0.png" group-title="Canada",CA: Smithsonian Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/34738
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet 360" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/beb0a4cdd5804ef138370bf719125239.png" group-title="Canada ➾ Sports",CA: SportsNet 360
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/3377
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA: SportsNet East" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/aeac71628001dc07258d9d9c1aef7be6.png" group-title="Canada ➾ Sports",CA: SportsNet East
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1720
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet New York" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5dc076ddf2c73e4a3fcf4a39421cc03c.png" group-title="Canada ➾ Sports",CA: SportsNet New York
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6436
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a53f84431bcf29de008a0011c8ff5c64.png" group-title="Canada ➾ Sports",CA: SportsNet One
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/3378
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet Ontario" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d5d179c85d81ff4368e207b20b156949.png" group-title="Canada ➾ Sports",CA: SportsNet Ontario
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/280602
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet Pacific" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/aeee15d2afc2bba13a84567ba9f03425.png" group-title="Canada ➾ Sports",CA: SportsNet Pacific
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/5511
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet PPV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",CA: SportsNet PPV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13240
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet Spectrum" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/9a702b832ab58c8b3d882502e16383ad.png" group-title="Canada ➾ Sports",CA: SportsNet Spectrum
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295024
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet West" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/15ad4601d4cc0b4b218defbfce4ee505.png" group-title="Canada ➾ Sports",CA: SportsNet West
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/72575
+#EXTINF:-1 tvg-id="" tvg-name="CA: SportsNet World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/dfe331d195b301431fef3cd4c927ae87.png" group-title="Canada ➾ Sports",CA: SportsNet World
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/280568
+#EXTINF:-1 tvg-id="" tvg-name="CA: Stingray Classica" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e21a32500f89bfd12f74678754e89662.png" group-title="Canada",CA: Stingray Classica
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2088
+#EXTINF:-1 tvg-id="" tvg-name="CA: Stingray IConcerts" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b727694952c7b6e2e33637731c86e75.png" group-title="Canada ➾ Music",CA: Stingray IConcerts
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/17059
+#EXTINF:-1 tvg-id="" tvg-name="CA: Super Channel Fuse" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22aabdc94a2aa91da842be0ce868b1b8.jpg" group-title="Canada ➾ Movie",CA: Super Channel Fuse
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/62633
+#EXTINF:-1 tvg-id="" tvg-name="CA: Super Channel Heart & Home" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3cfa6e3b30c26b5fd19aed2cab73f78e.jpg" group-title="Canada ➾ Movie",CA: Super Channel Heart & Home
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13247
+#EXTINF:-1 tvg-id="" tvg-name="CA: Super Channel Vault" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/fce6113382e6254f0b1dd6edd0057690.jpg" group-title="Canada ➾ Movie",CA: Super Channel Vault
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/62634
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA: Super Ecran 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f6bb82b4cd87744c22be621138b754a.png" group-title="Canada ➾ Movie",CA: Super Ecran 1
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2603
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA: Super Ecran 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/12755b853632233279f634a801c45f4d.png" group-title="Canada ➾ Movie",CA: Super Ecran 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2604
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA: Super Ecran 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ebe38d2bc668b7152d5dac0b8de55dee.png" group-title="Canada ➾ Movie",CA: Super Ecran 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9333
+#EXTINF:-1 tvg-id="" tvg-name="CA: Super Ecran 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/52950cae585a7b0f79546135c3cd8394.png" group-title="Canada ➾ Movie",CA: Super Ecran 4
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2605
+#EXTINF:-1 tvg-id="" tvg-name="CA: TCM Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/a35e18087332b83114ce8f12d8d119ab.png" group-title="Canada ➾ Movie",CA: TCM Canada
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/275882
+#EXTINF:-1 tvg-id="" tvg-name="CA: Tele Quebec" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/931016ca2d4fa274d64d24cf1173341c.png" group-title="Canada ➾ Kids",CA: Tele Quebec
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296630
+#EXTINF:-1 tvg-id="" tvg-name="CA: Telemagino" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ef5ed594547d084514ff3cab0607fb61.jpg" group-title="Canada",CA: Telemagino
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/40677
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA: TeleToon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/937244d005d01c4149622ec8d46e6fca.png" group-title="Canada ➾ Kids",CA: TeleToon
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9252
+#EXTINF:-1 tvg-id="" tvg-name="CA: The Shopping Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/859823eed78b8416736052c272523896.png" group-title="Canada",CA: The Shopping Channel
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9327
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA: The Weather Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d6000b1dd6b75985fb2e62b502fa1c82.png" group-title="Canada ➾ News",CA: The Weather Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/447
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6807857fdab7f27ca507657e3f6b85c3.png" group-title="Canada ➾ LifeStyle",CA: TLC
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9255
+#EXTINF:-1 tvg-id="" tvg-name="CA: Travel Escape" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b750037c8dc7610844c154ea07287b8d.jpg" group-title="Canada ➾ LifeStyle",CA: Travel Escape
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9329
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA: Treehouse TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/959ce1ae57950d695d6e1d65bc5c90f5.png" group-title="Canada ➾ Kids",CA: Treehouse TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/449
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA: TSN 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="Canada ➾ Sports",CA: TSN 1
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/770
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="Canada ➾ Sports",CA: TSN 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/771
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA: TSN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png" group-title="Canada ➾ Sports",CA: TSN 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/772
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png" group-title="Canada ➾ Sports",CA: TSN 4
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/773
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="Canada ➾ Sports",CA: TSN 5
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/774
+#EXTINF:-1 tvg-id="" tvg-name="CA: TV Francophonie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4be3685b09350c33de7e63e621441cc1.png" group-title="Canada",CA: TV Francophonie
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165427
+#EXTINF:-1 tvg-id="" tvg-name="CA: TV5 Quebec" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/897f0f076bef8ccd830c55b4fe32b575.png" group-title="Canada ➾ LifeStyle",CA: TV5 Quebec
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9303
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA Montreal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ce9f81ada8cb21bef24a7d258152ae63.png" group-title="Canada ➾ LifeStyle",CA: TVA Montreal
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2608
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/26dd4e61185371551abaf69e3f1ae0a2.png" group-title="Canada ➾ Sports",CA: TVA Sports
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/500
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/405561f4506324361217be30de2da595.jpg" group-title="Canada ➾ Sports",CA: TVA Sports 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/295157
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVO Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/612502585947a629e11da4024d10cbaf.png" group-title="Canada ➾ Kids",CA: TVO Kids
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/448
+#EXTINF:-1 tvg-id="" tvg-name="CA: Unis TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9cc041b8690e5afcd491dbef177907d1.png" group-title="Canada ➾ LifeStyle",CA: Unis TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13233
+#EXTINF:-1 tvg-id="" tvg-name="CA: Uvagut TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/47bf69e6c064ac0740896e277bffe393.png" group-title="Canada",CA: Uvagut TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/276053
+#EXTINF:-1 tvg-id="" tvg-name="CA: Vision TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2a8ebe603040d3f75309d8b84232bf7a.png" group-title="Canada ➾ LifeStyle",CA: Vision TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/1718
+#EXTINF:-1 tvg-id="" tvg-name="CA: VRAK TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/2ca3cbd181a319a9075d4f4aaa351ba0.png" group-title="Canada ➾ LifeStyle",CA: VRAK TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2586
+#EXTINF:-1 tvg-id="" tvg-name="CA: W Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0fa0e59950894b9c6b04d3ae19e695dc.jpg" group-title="Canada ➾ LifeStyle",CA: W Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9200
+#EXTINF:-1 tvg-id="" tvg-name="CA: Weatherspy" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a92c1a4d5c80a04ed1ddf5592f92421f.jpg" group-title="Canada",CA: Weatherspy
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/286254
+#EXTINF:-1 tvg-id="" tvg-name="CA: Wild TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/aab4b967c174361ac4dd6d7afe44c85c.png" group-title="Canada ➾ Nature",CA: Wild TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9332
+#EXTINF:-1 tvg-id="" tvg-name="CA: WildBrain TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/83defc28e33a579281a7ac5ce394e2d3.png" group-title="Canada",CA: WildBrain TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/13225
+#EXTINF:-1 tvg-id="" tvg-name="CA: World Fishing Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f87f3fb06ed321e373b32e47f92ee185.png" group-title="Canada ➾ Nature",CA: World Fishing Network
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/12983
+#EXTINF:-1 tvg-id="" tvg-name="CA: Yes TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/b0c39a28132d0ea3df294bfe0d780e00.png" group-title="Canada",CA: Yes TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/446
+#EXTINF:-1 tvg-id="" tvg-name="CA: Yoopa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/467e6c5c4ec3605b5f91906e4f43bcbf.png" group-title="Canada ➾ Kids",CA: Yoopa
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/12743
+#EXTINF:-1 tvg-id="" tvg-name="CA: YTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/77a5ad78c77123574f4a27ffe4cfd5b6.png" group-title="Canada ➾ Kids",CA: YTV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/9199
+#EXTINF:-1 tvg-id="" tvg-name="CA: Z Tele" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7dd21c6d218235e896f33a58e5e05714.png" group-title="Canada ➾ Documentary",CA: Z Tele
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/78280
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA: Zeste" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2136bbb0854489b2acd004b03b2b118a.png" group-title="Canada ➾ LifeStyle",CA: Zeste
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/502
 #EXTINF:-1,CA: A & E
 http://onrev.xyz:80/SPIDER_nStx6M/sTfrb3rbxR/155920
 #EXTINF:-1,CA: ABC EAST
