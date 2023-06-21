@@ -49,8 +49,12 @@ http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1,(USA) HLN
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6346
+#EXTINF:-1,HLN
+http://1.revportal.eu:80/mag00:1A:79:5C:4A:C0/a17SpVwGlL/155613
 #EXTINF:-1,(CAD) CP24
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/476
+#EXTINF:-1,CA: CP24
+http://1.revportal.eu:80/mag00:1A:79:5C:4A:C0/a17SpVwGlL/155960
 #EXTINF:-1,(HR) STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1,(HR),Libertas TV (1080p)
