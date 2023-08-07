@@ -62,7 +62,8 @@ http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39759
 #EXTINF:-1,HR: Vinkovacka TV
 http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36574
 #EXTINF:-1,HR: Z1
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36573#EXTINF:-1,(HR) HRT 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36573
+#EXTINF:-1,(HR) HRT 1
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
 #EXTINF:-1,(HR) HRT 1 HD
 http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
