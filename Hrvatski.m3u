@@ -179,3 +179,41 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com&c
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="News" tvg-id="OTV.hr" tvg-name="OTV.hr", OTV (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWMHnOG.png" group-title="News" tvg-id="TVJadran.hr" tvg-name="TVJadran.hr", TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="General" tvg-id="LibertasTV.hr" tvg-name="LibertasTV.hr", Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIampxZ.png" group-title="General" tvg-id="SBTV.hr" tvg-name="SBTV.hr", SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3yRl17.png" group-title="General" tvg-id="STV.hr" tvg-name="STV.hr", STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SmNISY.jpg" group-title="General" tvg-id="TrendTV.hr" tvg-name="TrendTV.hr", Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgCeX12.png" group-title="General" tvg-id="TVZapad.hr" tvg-name="TVZapad.hr", TV Zapad (1080p) [Not 24/7]
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lDSctzX.png" group-title="Undefined" tvg-id="HRT1.hr" tvg-name="HRT1.hr", HRT 1 (720p)
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyePcl1.png" group-title="Undefined" tvg-id="HRT2.hr" tvg-name="HRT2.hr", HRT 2 (720p)
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Undefined" tvg-id="HRT3.hr" tvg-name="HRT3.hr", HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Undefined" tvg-id="Klasik.hr" tvg-name="Klasik.hr", Klasik TV (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUAsUcR.png" group-title="Undefined" tvg-id="LaudatoTV.hr" tvg-name="LaudatoTV.hr", Laudato TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCMNltXN6fWur0K8Z1oubFPA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="Undefined" tvg-id="RadioTelevizijaBanovina.hr" tvg-name="RadioTelevizijaBanovina.hr", Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C7H5bJs.png" group-title="Undefined" tvg-id="RTLKockica.hr" tvg-name="RTLKockica.hr", RTL Kockica (1080p)
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative" tvg-id="EbS.be" tvg-name="EbS.be", EbS Live (Europe by Satellite) (1080p)
+https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative" tvg-id="EbSPlus.be" tvg-name="EbSPlus.be", EbS+ Live (Europe by Satellite) (1080p)
+https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCb7Ag2.png" group-title="Music" tvg-id="CMCTV.hr" tvg-name="CMCTV.hr", CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKj3dgc.png" group-title="Music" tvg-id="KlapeiTambureTV.hr" tvg-name="KlapeiTambureTV.hr", Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment" tvg-id="TVNova.hr" tvg-name="TVNova.hr", TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
