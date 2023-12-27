@@ -207,3 +207,139 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment" tvg-id="TVNova.hr" tvg-name="TVNova.hr", TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-logo="http://go4.pw/FLAGS/flag_croatia.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", ##### |EXYU| CROATIA #####
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74670
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 1" tvg-name="HRT 1", HR - HRT 1
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74671
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 1 FHD" tvg-name="HRT 1 FHD", HR - HRT 1 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74672
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 2" tvg-name="HRT 2", HR- HRT 2
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74673
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 2 FHD" tvg-name="HRT 2 FHD", HR - HRT 2 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74674
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 3" tvg-name="HRT 3", HR - HRT 3
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74675
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 3 FHD" tvg-name="HRT 3 FHD", HR - HRT 3 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74676
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 4 FHD" tvg-name="HRT 4 FHD", HR - HRT 4
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74677
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/HRT.png" group-title="EU | EX-YU" tvg-id="HRT 4 FHD" tvg-name="HRT 4 FHD", HR - HRT 4 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74678
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/HRT5.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", HR - HRT 5
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/181618
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU" tvg-id="NOVA TV" tvg-name="NOVA TV", HR - NOVA TV HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74679
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EX-YU" tvg-id="NOVA TV" tvg-name="NOVA TV", HR - NOVA TV
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74680
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EX-YU" tvg-id="Doma TV" tvg-name="Doma TV", HR - DOMA TV HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74681
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EX-YU" tvg-id="Doma TV" tvg-name="Doma TV", HR - DOMA TV
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74682
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/PORTUGAL/CMC.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", HR - CMC HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/335627
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU" tvg-id="RTL" tvg-name="RTL", HR- RTL HR
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74683
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU" tvg-id="RTL 2" tvg-name="RTL 2", HR - RTL 2
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74684
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU" tvg-id="RTL Crime" tvg-name="RTL Crime", HR - RTL CRIME
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74686
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU" tvg-id="RTL Living" tvg-name="RTL Living", HR - RTL LIVING
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74687
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EX-YU" tvg-id="rtlpassion.hr" tvg-name="rtlpassion.hr", HR - RTL PASSION
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74688
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/N1BOSNA.png" group-title="EU | EX-YU" tvg-id="N1 HR" tvg-name="N1 HR", HR - N1 HR
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74689
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/OSJECKATV.png" group-title="EU | EX-YU" tvg-id="Osječka TV" tvg-name="Osječka TV", HR - OSJECKA TV
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74690
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/TVBANOVINA.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", HR - TV BANOVINA
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74692
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/VINKOVACKATV.png" group-title="EU | EX-YU" tvg-id="Vinkovačka" tvg-name="Vinkovačka", HR - VINKOVACKA TV
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74691
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/LAUDATOTV.png" group-title="EU | EX-YU" tvg-id="laudatotv.hr" tvg-name="laudatotv.hr", HR - LAUDATO TV
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74694
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/Z1.png" group-title="EU | EX-YU" tvg-id="z1.hr" tvg-name="z1.hr", HR - Z 1
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74693
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/CRO/MAXSPORT1.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", HR - MAX SPORT 1 HD Manchester City - England - : - Crvena Zvezda - Serbia
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/306959
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/CRO/MAXSPORT2.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", HR - MAX SPORT 2 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/306960
+#EXTINF:-1 tvg-logo=" http://go4.pw/FLAGS/flag_exyu.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", ##### |EXYU| SPORT #####
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/271569
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/NOVA SPORT.png" group-title="EU | EX-YU" tvg-id="novasport.rs" tvg-name="novasport.rs", EXYU - NOVA SPORT
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/174903
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="SK HD" tvg-name="SK HD", EXYU - SPORTKLUB HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74878
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="sportklub1.rs" tvg-name="sportklub1.rs", EXYU - SPORTKLUB 1 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74879
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="sportklub2.rs" tvg-name="sportklub2.rs", EXYU - SPORTKLUB 2 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74880
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="sportklub3.rs" tvg-name="sportklub3.rs", EXYU - SPORTKLUB 3 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74881
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="SK1 HR SD" tvg-name="SK1 HR SD", EXYU - SPORT KLUB 1(HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74882
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="SK2 FHD" tvg-name="SK2 FHD", EXYU - SPORT KLUB 2 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74883
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="SK3 FHD" tvg-name="SK3 FHD", EXYU - SPORT KLUB 3 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74884
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 4" tvg-name="Sport Klub 4", EXYU - SPORT KLUB 4 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74885
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 5" tvg-name="Sport Klub 5", EXYU - SPORT KLUB 5 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74886
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 6" tvg-name="Sport Klub 6", EXYU - SPORT KLUB 6 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74887
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 7" tvg-name="Sport Klub 7", EXYU - SPORT KLUB 7 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74888
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 8" tvg-name="Sport Klub 8", EXYU - SPORT KLUB 8 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74889
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 9" tvg-name="Sport Klub 9", EXYU - SPORT KLUB 9 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74890
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU" tvg-id="Sport Klub 10" tvg-name="Sport Klub 10", EXYU - SPORT KLUB 10 (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74891
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA PREMIUM 1
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/273118
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA PREMIUM 2
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/273119
+#EXTINF:-1 tvg-logo="noimage.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA PREMIUM 3
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/273120
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU" tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD", EXYU - ARENA SPORT 1 BIH
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74892
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU" tvg-id="arenasport1.rs" tvg-name="arenasport1.rs", EXYU - ARENA SPORT 1 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74893
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_2-1.png" group-title="EU | EX-YU" tvg-id="arenasport2.rs" tvg-name="arenasport2.rs", EXYU - ARENA SPORT 2 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74894
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_3-1.png" group-title="EU | EX-YU" tvg-id="arenasport3.rs" tvg-name="arenasport3.rs", EXYU - ARENA SPORT 3 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74895
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_4-1.png" group-title="EU | EX-YU" tvg-id="arenasport4.rs" tvg-name="arenasport4.rs", EXYU - ARENA SPORT 4 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74896
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_5-1.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA SPORT 5 HD (SR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/267472
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_1-1.png" group-title="EU | EX-YU" tvg-id="Arena Sport 1 HR FHD" tvg-name="Arena Sport 1 HR FHD", EXYU - ARENA SPORT 1 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74897
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_2-1.png" group-title="EU | EX-YU" tvg-id="Arena Sport 2 HR FHD" tvg-name="Arena Sport 2 HR FHD", EXYU - ARENA SPORT 2 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74898
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_3-1.png" group-title="EU | EX-YU" tvg-id="Arena Sport 3 HR FHD" tvg-name="Arena Sport 3 HR FHD", EXYU - ARENA SPORT 3 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74899
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_4-1.png" group-title="EU | EX-YU" tvg-id="Arena Sport 4 HR FHD" tvg-name="Arena Sport 4 HR FHD", EXYU - ARENA SPORT 4 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74900
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/arena_sport_rs_5-1.png" group-title="EU | EX-YU" tvg-id="Arena Sport 5 HR FHD" tvg-name="Arena Sport 5 HR FHD", EXYU - ARENA SPORT 5 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74901
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/a-6.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA SPORT 6 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/264022
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/a.7.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA SPORT 7 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/264023
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/a.8.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA SPORT 8 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/264024
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/a.9.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA SPORT 9 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/264025
+#EXTINF:-1 tvg-logo="http://go4.pw/EXYU/a.10.png" group-title="EU | EX-YU" tvg-id="" tvg-name="", EXYU - ARENA SPORT 10 HD (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/264026
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EU | EX-YU" tvg-id="Eurosport 1 FHD" tvg-name="Eurosport 1 FHD", EXYU - EUROSPORT 1 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/77987
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EU | EX-YU" tvg-id="Eurosport 2 FHD" tvg-name="Eurosport 2 FHD", EXYU - EUROSPORT 2 HD
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/77988
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EX-YU" tvg-id="Sportska TV" tvg-name="Sportska TV", EXYU - SPORTSKA TV (HR)
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74875
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTNETWORK-1.png" group-title="EU | EX-YU" tvg-id="Fight Channel" tvg-name="Fight Channel", EXYU - FIGHT NETWORK
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/77989
+#EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU" tvg-id="FightBox" tvg-name="FightBox", EXYU - FIGHTBOX
+http://bigo12.xyz:80/73234F369C43/3D25C36F1406/77990
