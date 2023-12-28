@@ -34,11 +34,11 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&
 #EXTINF:-1,(HR) CMC
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1,(HR) NOVA TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/16590
+http://live.maxcimo.com:8000/ahmedgn/kech/3445
 #EXTINF:-1,(HR) RTV Herceg-Bosna
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1, RTL TV (Ja Gledam)
-http://195.29.70.84/PLTV/88888888/224/3221226195/04.m3u8
+http://live.maxcimo.com:8000/ahmedgn/kech/3451
 #EXTINF:-1,(HR) LTV 
 https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1,(USA) HLN
@@ -74,7 +74,7 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1,(HR) Trend TV (480p)
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1,(HR) Dox TV (576p)
-https://vod1.laki.eu/dox/index.m3u8
+https://vod1.laki.eu/dox/index.m3u8m
 #EXTINF:-1, (HR) María+Visión Medjugorje (720p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 #EXTINF:-1, (HR) María+Visión Medjugorje (2)
@@ -343,3 +343,136 @@ http://bigo12.xyz:80/73234F369C43/3D25C36F1406/74875
 http://bigo12.xyz:80/73234F369C43/3D25C36F1406/77989
 #EXTINF:-1 tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FIGHTBOXHD-1.png" group-title="EU | EX-YU" tvg-id="FightBox" tvg-name="FightBox", EXYU - FIGHTBOX
 http://bigo12.xyz:80/73234F369C43/3D25C36F1406/77990
+#EXTINF:-1,[EX-YU]_RTS 1
+http://live.maxcimo.com:8000/ahmedgn/kech/4274
+#EXTINF:-1,[EX-YU]_RTS 1 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/4275
+#EXTINF:-1,[EX-YU]_RTS 2
+http://live.maxcimo.com:8000/ahmedgn/kech/4277
+#EXTINF:-1,[EX-YU]_RTS 3
+http://live.maxcimo.com:8000/ahmedgn/kech/4276
+#EXTINF:-1,[EX-YU]_CINEMAX 1 HD 
+http://live.maxcimo.com:8000/ahmedgn/kech/706
+#EXTINF:-1,[EX-YU]_CINEMAX 2
+http://live.maxcimo.com:8000/ahmedgn/kech/705
+#EXTINF:-1,[EX-YU]_CINESTAR ACTION
+http://live.maxcimo.com:8000/ahmedgn/kech/703
+#EXTINF:-1,[EX-YU]_CINESTAR PREMIERE 1 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/50
+#EXTINF:-1,[EX-YU]_CINESTAR PREMIERE 2 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/702
+#EXTINF:-1,[EX-YU]_CINESTAR TV
+http://live.maxcimo.com:8000/ahmedgn/kech/704
+#EXTINF:-1,[EX-YU]_FOX CRIME
+http://live.maxcimo.com:8000/ahmedgn/kech/708
+#EXTINF:-1,[EX-YU]_FOX LIFE
+http://live.maxcimo.com:8000/ahmedgn/kech/707
+#EXTINF:-1,[EX-YU]_FOX MOVIES
+http://live.maxcimo.com:8000/ahmedgn/kech/731
+#EXTINF:-1,[EX-YU]_PINK ACTION
+http://live.maxcimo.com:8000/ahmedgn/kech/748
+#EXTINF:-1,[EX-YU]_PINK REALITY
+http://live.maxcimo.com:8000/ahmedgn/kech/736
+#EXTINF:-1,[EX-YU]_PINK FILM
+http://live.maxcimo.com:8000/ahmedgn/kech/738
+#EXTINF:-1,[EX-YU]_PINK HOROR
+http://live.maxcimo.com:8000/ahmedgn/kech/752
+#EXTINF:-1,[EX-YU]_PINK KIDS
+http://live.maxcimo.com:8000/ahmedgn/kech/781
+#EXTINF:-1,[EX-YU]_PINK MOVIES
+http://live.maxcimo.com:8000/ahmedgn/kech/747
+#EXTINF:-1,[EX-YU]_PINK PREMIUM
+http://live.maxcimo.com:8000/ahmedgn/kech/737
+#EXTINF:-1,[EX-YU]_PINK SCI-FI & FANTASY
+http://live.maxcimo.com:8000/ahmedgn/kech/782
+#EXTINF:-1,[EX-YU]_PINK WESTERN
+http://live.maxcimo.com:8000/ahmedgn/kech/780
+#EXTINF:-1,[EX-YU]_PINK CRIME & MYSTERY
+http://live.maxcimo.com:8000/ahmedgn/kech/783
+#EXTINF:-1,[EX-YU]_PINK COMEDY
+http://live.maxcimo.com:8000/ahmedgn/kech/771
+#EXTINF:-1,[EX-YU]_PINK THRILLER
+http://live.maxcimo.com:8000/ahmedgn/kech/779
+#EXTINF:-1,[EX-YU]_PINK FOLK 1
+http://live.maxcimo.com:8000/ahmedgn/kech/7018
+#EXTINF:-1,[EX-YU]_PINK HITS 2
+http://live.maxcimo.com:8000/ahmedgn/kech/7019
+#EXTINF:-1,[EX-YU]_PINK ROMANCE
+http://live.maxcimo.com:8000/ahmedgn/kech/7020
+#EXTINF:-1,[EX-YU]_PINK EXTRA
+http://live.maxcimo.com:8000/ahmedgn/kech/7021
+#EXTINF:-1,[EX-YU]_PINK KUVAR
+http://live.maxcimo.com:8000/ahmedgn/kech/36213
+#EXTINF:-1,[EX-YU]_PINK LOL
+http://live.maxcimo.com:8000/ahmedgn/kech/36214
+#EXTINF:-1,[EX-YU]_PINK N ROLL
+http://live.maxcimo.com:8000/ahmedgn/kech/36215
+#EXTINF:-1,[EX-YU]_PINK PEDIA
+http://live.maxcimo.com:8000/ahmedgn/kech/36216
+#EXTINF:-1,[EX-YU]_PINK PLUS
+http://live.maxcimo.com:8000/ahmedgn/kech/36217
+#EXTINF:-1,[EX-YU]_PINK SERIJE
+http://live.maxcimo.com:8000/ahmedgn/kech/36218
+#EXTINF:-1,[EX-YU]_PINK SOAP
+http://live.maxcimo.com:8000/ahmedgn/kech/36219
+#EXTINF:-1,[EX-YU]_PINK WORLD CINEMA
+http://live.maxcimo.com:8000/ahmedgn/kech/36220
+#EXTINF:-1,[EX-YU]_PINK CLASSIC
+http://live.maxcimo.com:8000/ahmedgn/kech/36208
+#EXTINF:-1,[EX-YU]_PINK FAMILY
+http://live.maxcimo.com:8000/ahmedgn/kech/36209
+#EXTINF:-1,[EX-YU]_PINK FASHION
+http://live.maxcimo.com:8000/ahmedgn/kech/36210
+#EXTINF:-1,[EX-YU]_PINK HAHA
+http://live.maxcimo.com:8000/ahmedgn/kech/36211
+#EXTINF:-1,[EX-YU]_PINK KONCERT
+http://live.maxcimo.com:8000/ahmedgn/kech/36212
+#EXTINF:-1,[EX-YU]_NAT GEO
+http://live.maxcimo.com:8000/ahmedgn/kech/10727
+#EXTINF:-1,[EX-YU]_B92 TV
+http://live.maxcimo.com:8000/ahmedgn/kech/36233
+#EXTINF:-1,[EX-YU]_N1 SR
+http://live.maxcimo.com:8000/ahmedgn/kech/36234
+#EXTINF:-1,[EX-YU]_HAPPY TV
+http://live.maxcimo.com:8000/ahmedgn/kech/36235
+#EXTINF:-1,[EX-YU]_K1
+http://live.maxcimo.com:8000/ahmedgn/kech/36236
+#EXTINF:-1,[EX-YU]_PRVA PLUS
+http://live.maxcimo.com:8000/ahmedgn/kech/36223
+#EXTINF:-1,[EX-YU]_PRVA WORLD
+http://live.maxcimo.com:8000/ahmedgn/kech/36224
+#EXTINF:-1,[EX-YU]_RTS DRAMA
+http://live.maxcimo.com:8000/ahmedgn/kech/36225
+#EXTINF:-1,[EX-YU]_RTS KOLO
+http://live.maxcimo.com:8000/ahmedgn/kech/36226
+#EXTINF:-1,[EX-YU]_RTS MUZIKA
+http://live.maxcimo.com:8000/ahmedgn/kech/36227
+#EXTINF:-1,[EX-YU]_RTS SVET
+http://live.maxcimo.com:8000/ahmedgn/kech/36228
+#EXTINF:-1,[EX-YU]_RTS ZIVOT
+http://live.maxcimo.com:8000/ahmedgn/kech/36229
+#EXTINF:-1,[EX-YU]_RTV 1
+http://live.maxcimo.com:8000/ahmedgn/kech/36230
+#EXTINF:-1,[EX-YU]_RTV 2
+http://live.maxcimo.com:8000/ahmedgn/kech/36231
+#EXTINF:-1,[EX-YU]_PRVA TV
+http://live.maxcimo.com:8000/ahmedgn/kech/36232
+#EXTINF:-1,[EX-YU]_PRVA KICK
+http://live.maxcimo.com:8000/ahmedgn/kech/36221
+#EXTINF:-1,[EX-YU]_PRVA MAX
+http://live.maxcimo.com:8000/ahmedgn/kech/36222
+#EXTINF:-1,[EX-YU]_PINK 1
+http://live.maxcimo.com:8000/ahmedgn/kech/36205
+#EXTINF:-1,[EX-YU]_RED
+http://live.maxcimo.com:8000/ahmedgn/kech/36206
+#EXTINF:-1,[EX-YU]_VESTI
+http://live.maxcimo.com:8000/ahmedgn/kech/36207
+#EXTINF:-1,[AL]_ARENA SPORT 1 PREMIUM
+http://live.maxcimo.com:8000/ahmedgn/kech/31315
+#EXTINF:-1,[AL]_ARENA SPORT 2 PREMIUM
+http://live.maxcimo.com:8000/ahmedgn/kech/31313
+#EXTINF:-1,[AL]_ARENA SPORT 3 PREMIUM
+http://live.maxcimo.com:8000/ahmedgn/kech/31303
+
+
+
