@@ -52,11 +52,15 @@ https://stream.luci.xyz/hls/LTV.m3u8
 #EXTINF:-1,(HR) OTV (720p)
 https://stream.agatin.hr:3559/live/otvlive.m3u8
 #EXTINF:-1,(HR) HRT 1 (GledajTV)
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+https://live3.cdn-canlitv.com/hrt1.m3u8
 #EXTINF:-1,(HR) HRT 2 (GledajTV)
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
+https://live3.cdn-canlitv.com/hrt2.m3u8
 #EXTINF:-1,(HR) HRT 3 (GledajTV)
-https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+https://live3.cdn-canlitv.com/hrt3.m3u8
+#EXTINF:-1,(HR) HRT 4 (GledajTV)
+https://live3.cdn-canlitv.com/hrt4.m3u8
+#EXTINF:-1,(BiH) NOVA  (GledajTV)
+https://live3.cdn-canlitv.com/novabih.m3u8
 #EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1,(HR) CMC TV (1080p)
