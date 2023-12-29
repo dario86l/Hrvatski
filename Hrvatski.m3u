@@ -81,6 +81,14 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/chunklist_b1428000.m3u8
 #EXTINF:-1, (HR) DOMA TV
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/3398
+#EXTINF:-1,[CRO]_HRT 1
+http://live.maxcimo.com:8000/ahmedgn/kech/6000
+#EXTINF:-1,[CRO]_HRT_2
+http://live.maxcimo.com:8000/ahmedgn/kech/6001
+#EXTINF:-1,[CRO]_HRT 3
+http://live.maxcimo.com:8000/ahmedgn/kech/6002
+#EXTINF:-1,[CRO]_HRT_4
+http://live.maxcimo.com:8000/ahmedgn/kech/6003
 #EXTINF:-1,(BIH) BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1,(BIH) BHRT (270p) [Geo-blocked]
@@ -475,5 +483,23 @@ http://live.maxcimo.com:8000/ahmedgn/kech/31313
 http://live.maxcimo.com:8000/ahmedgn/kech/31303
 #EXTINF:-1,[AL]_ARENA FIGHT HD
 http://live.maxcimo.com:8000/ahmedgn/kech/31308
-
-
+#EXTINF:-1,[SPORT]_SPORT KLUB 1 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/429
+#EXTINF:-1,[SPORT]_SPORT KLUB 2 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/430
+#EXTINF:-1,[SPORT]_SPORT KLUB 3 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/431
+#EXTINF:-1,[SPORT]_SPORT KLUB 4 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/428
+#EXTINF:-1,[SPORT]_SPORT KLUB 5 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/298
+#EXTINF:-1,[SPORT]_ARENASPORT 1 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/65
+#EXTINF:-1,[SPORT]_ARENASPORT 2 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/64
+#EXTINF:-1,[SPORT]_ARENASPORT 3 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/63
+#EXTINF:-1,[SPORT]_ARENASPORT 4 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/62
+#EXTINF:-1,[SPORT]_ARENASPORT 5 HD
+http://live.maxcimo.com:8000/ahmedgn/kech/61
