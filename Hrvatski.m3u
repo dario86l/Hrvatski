@@ -41,10 +41,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 http://live.maxcimo.com:8000/ahmedgn/kech/3451
 #EXTINF:-1,(HR) LTV 
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1,(USA) HLN
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/6346
-#EXTINF:-1,HLN
-http://1.revportal.eu:80/mag00:1A:79:5C:4A:C0/a17SpVwGlL/155613
 #EXTINF:-1,(HR) STV (720p)
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1,(HR),Libertas TV (1080p)
@@ -57,8 +53,6 @@ https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 #EXTINF:-1,(HR) HRT 3 (GledajTV)
 https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
-#EXTINF:-1,(HR) HRT 4 (GledajTV)
-https://webtvstream.bhtelecom.ba/hls16/hrt4_1200.m3u8
 #EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1,(HR) CMC TV (1080p)
