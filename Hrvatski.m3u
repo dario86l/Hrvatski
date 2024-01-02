@@ -111,8 +111,6 @@ http://live.maxcimo.com:8000/ahmedgn/kech/6001
 http://live.maxcimo.com:8000/ahmedgn/kech/6002
 #EXTINF:-1,[CRO]_HRT_4
 http://live.maxcimo.com:8000/ahmedgn/kech/6003
-#EXTINF:-1,(HR)YouTube
-https://raw.githubusercontent.com/mario86cro/YouTubeToM3U8/main/youtube.m3u8
 #EXTINF:-1,(BIH) BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
