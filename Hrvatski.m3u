@@ -218,9 +218,9 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Undefined" tvg-id="HRT3.hr" tvg-name="HRT3.hr", HRT 3 (720p)
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Undefined" tvg-id="Klasik.hr" tvg-name="Klasik.hr", Klasik TV (576p) [Not 24/7]
-https://178.253.194.105/klasiktv/playlist.m3u8
+http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/42
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUAsUcR.png" group-title="Undefined" tvg-id="LaudatoTV.hr" tvg-name="LaudatoTV.hr", Laudato TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCMNltXN6fWur0K8Z1oubFPA.m3u8
+http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/44
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="Undefined" tvg-id="RadioTelevizijaBanovina.hr" tvg-name="RadioTelevizijaBanovina.hr", Radio Televizija Banovina (1080p) [Not 24/7]
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C7H5bJs.png" group-title="Undefined" tvg-id="RTLKockica.hr" tvg-name="RTLKockica.hr", RTL Kockica (1080p)
@@ -419,10 +419,6 @@ http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/38
 http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/39
 #EXTINF:-1 tvg-id="" tvg-name="RTL Living DAMIR ALEN" tvg-logo="" group-title="",RTL Living DAMIR ALEN
 http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/41
-#EXTINF:-1 tvg-id="" tvg-name="Klasik TV DAMIR ALEN" tvg-logo="" group-title="",Klasik TV DAMIR ALEN
-http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/42
-#EXTINF:-1 tvg-id="" tvg-name="Laudato TV DAMIR MYTV" tvg-logo="" group-title="",Laudato TV DAMIR MYTV
-http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/44
 #EXTINF:-1 tvg-id="" tvg-name="Osjecka TV ALEN MY TV" tvg-logo="" group-title="TV",Osjecka TV ALEN MY TV
 http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/45
 #EXTINF:-1 tvg-id="" tvg-name="Slavonska TV ALEN MYTV" tvg-logo="" group-title="TV",Slavonska TV ALEN MYTV
