@@ -634,3 +634,389 @@ http://alternator.pro:80/live/DOBRANIC-Luka1/0Luz6aFtTkg/62593.ts
 http://alternator.pro:80/live/DOBRANIC-Luka1/0Luz6aFtTkg/36410.ts
 #EXTINF:-1 tvg-id="arena-sport-1x2" tvg-name="Arena Sport 1x2" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif" group-title="Sport",Arena Sport 1x2
 http://alternator.pro:80/live/DOBRANIC-Luka1/0Luz6aFtTkg/66260.ts
+#EXTINF:-1 tvg-id="" tvg-name="HRT 1 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 1 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22713
+#EXTINF:-1 tvg-id="" tvg-name="HRT 2 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 2 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22714
+#EXTINF:-1 tvg-id="" tvg-name="HRT 3 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 3 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22715
+#EXTINF:-1 tvg-id="" tvg-name="HRT 4 (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT 4 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22716
+#EXTINF:-1 tvg-id="" tvg-name="HRT INT (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT INT (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22717
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HD (HR)" tvg-logo="" group-title="HR: HIRVASKI",NOVA HD (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22718
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",NOVA TV (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22719
+#EXTINF:-1 tvg-id="" tvg-name="DOMA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",DOMA TV (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22720
+#EXTINF:-1 tvg-id="" tvg-name="RTL TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL TV (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22721
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL 2 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22722
+#EXTINF:-1 tvg-id="" tvg-name="RTL LIVING (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL LIVING (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22725
+#EXTINF:-1 tvg-id="" tvg-name="RTL PASSION (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL PASSION (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22726
+#EXTINF:-1 tvg-id="" tvg-name="RTL KOCKICA (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL KOCKICA (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22727
+#EXTINF:-1 tvg-id="" tvg-name="OSIJECKA (HR)" tvg-logo="" group-title="HR: HIRVASKI",OSIJECKA (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22729
+#EXTINF:-1 tvg-id="" tvg-name="LAUDATO TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",LAUDATO TV (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22730
+#EXTINF:-1 tvg-id="" tvg-name="KLASIK (HR)" tvg-logo="" group-title="HR: HIRVASKI",KLASIK (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22731
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL  (HR)" tvg-logo="" group-title="HR: HIRVASKI",CAPITAL  (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22732
+#EXTINF:-1 tvg-id="" tvg-name="TREND TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",TREND TV (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22734
+#EXTINF:-1 tvg-id="" tvg-name="SLAVONSKA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",SLAVONSKA TV (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22735
+#EXTINF:-1 tvg-id="" tvg-name="Z1 (HR)" tvg-logo="" group-title="HR: HIRVASKI",Z1 (HR)
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22740
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CineStar Premiere 2" tvg-logo="" group-title="EX: YU",EX YU: CineStar Premiere 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36183
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CineStar Premiere 1" tvg-logo="" group-title="EX: YU",EX YU: CineStar Premiere 1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36184
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CineStar Action HR" tvg-logo="" group-title="EX: YU",EX YU: CineStar Action HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36185
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Cinemax 2 HD" tvg-logo="" group-title="EX: YU",EX YU: Cinemax 2 HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36186
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Cinemax HD" tvg-logo="" group-title="EX: YU",EX YU: Cinemax HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36187
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Zabava" tvg-logo="" group-title="EX: YU",EX YU: Pink Zabava
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36188
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Movies" tvg-logo="" group-title="EX: YU",EX YU: Pink Movies
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36189
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink M" tvg-logo="" group-title="EX: YU",EX YU: Pink M
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36190
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Horror" tvg-logo="" group-title="EX: YU",EX YU: Pink Horror
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36191
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Crime & Mystery" tvg-logo="" group-title="EX: YU",EX YU: Pink Crime & Mystery
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36192
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Lov i Ribolov" tvg-logo="" group-title="EX: YU",EX YU: Lov i Ribolov
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36193
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayatovci" tvg-logo="" group-title="EX: YU",EX YU: Hayatovci
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36194
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: O Kanal HD" tvg-logo="" group-title="EX: YU",EX YU: O Kanal HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36195
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL Kockica" tvg-logo="" group-title="EX: YU",EX YU: RTL Kockica
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36196
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Folk 2" tvg-logo="" group-title="EX: YU",EX YU: Pink Folk 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36197
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Happy Tv" tvg-logo="" group-title="EX: YU",EX YU: Happy Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36198
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX Movies" tvg-logo="" group-title="EX: YU",EX YU: FOX Movies
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36199
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX" tvg-logo="" group-title="EX: YU",EX YU: FOX
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36200
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: DM Sat" tvg-logo="" group-title="EX: YU",EX YU: DM Sat
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36201
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: BHT 1" tvg-logo="" group-title="EX: YU",EX YU: BHT 1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36202
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 3 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36203
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 2 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 2 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36204
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 1 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 1 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36205
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 1 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 1 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36206
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 2 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 2 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36207
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 3 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 3 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36208
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Al Jazzera Balkan" tvg-logo="" group-title="EX: YU",EX YU: Al Jazzera Balkan
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36209
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva Plus" tvg-logo="" group-title="EX: YU",EX YU: Prva Plus
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36210
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 2 HD" tvg-logo="" group-title="EX: YU",EX YU: HBO 2 HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36211
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 1 HD" tvg-logo="" group-title="EX: YU",EX YU: HBO 1 HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36212
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayat Plus" tvg-logo="" group-title="EX: YU",EX YU: Hayat Plus
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36213
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Grand TV" tvg-logo="" group-title="EX: YU",EX YU: Grand TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36214
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Doma Tv" tvg-logo="" group-title="EX: YU",EX YU: Doma Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36215
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: CMC" tvg-logo="" group-title="EX: YU",EX YU: CMC
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36216
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Reality" tvg-logo="" group-title="EX: YU",EX YU: Pink Reality
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36217
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Music" tvg-logo="" group-title="EX: YU",EX YU: Pink Music
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36219
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Kids" tvg-logo="" group-title="EX: YU",EX YU: Pink Kids
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36220
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Folk" tvg-logo="" group-title="EX: YU",EX YU: Pink Folk
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36221
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Film" tvg-logo="" group-title="EX: YU",EX YU: Pink Film
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36222
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Extra" tvg-logo="" group-title="EX: YU",EX YU: Pink Extra
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36223
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Comedy" tvg-logo="" group-title="EX: YU",EX YU: Pink Comedy
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36224
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: N1 HR" tvg-logo="" group-title="EX: YU",EX YU: N1 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36226
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Klasik TV" tvg-logo="" group-title="EX: YU",EX YU: Klasik TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36227
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTS 1" tvg-logo="" group-title="EX: YU",EX YU: RTS 1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36229
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL Living" tvg-logo="" group-title="EX: YU",EX YU: RTL Living
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36230
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL 2 HD" tvg-logo="" group-title="EX: YU",EX YU: RTL 2 HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36231
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva Tv" tvg-logo="" group-title="EX: YU",EX YU: Prva Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36232
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Premium" tvg-logo="" group-title="EX: YU",EX YU: Pink Premium
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36233
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL HD" tvg-logo="" group-title="EX: YU",EX YU: RTL HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36234
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Kuvar" tvg-logo="" group-title="EX: YU",EX YU: Pink Kuvar
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36235
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Mtv Igman" tvg-logo="" group-title="EX: YU",EX YU: Mtv Igman
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36236
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayat Music" tvg-logo="" group-title="EX: YU",EX YU: Hayat Music
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36237
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: E!" tvg-logo="" group-title="EX: YU",EX YU: E!
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36238
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Duga TV" tvg-logo="" group-title="EX: YU",EX YU: Duga TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36239
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Banovina Tv" tvg-logo="" group-title="EX: YU",EX YU: Banovina Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36240
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Animal Planet HD" tvg-logo="" group-title="EX: YU",EX YU: Animal Planet HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36241
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink 3 Info" tvg-logo="" group-title="EX: YU",EX YU: Pink 3 Info
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36242
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: BN TV" tvg-logo="" group-title="EX: YU",EX YU: BN TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36243
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: BN Music" tvg-logo="" group-title="EX: YU",EX YU: BN Music
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36244
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink 2" tvg-logo="" group-title="EX: YU",EX YU: Pink 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36245
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink HD" tvg-logo="" group-title="EX: YU",EX YU: Pink HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36246
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: OBN" tvg-logo="" group-title="EX: YU",EX YU: OBN
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36247
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Nova S" tvg-logo="" group-title="EX: YU",EX YU: Nova S
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36248
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Action" tvg-logo="" group-title="EX: YU",EX YU: Pink Action
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36249
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink World" tvg-logo="" group-title="EX: YU",EX YU: Pink World
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36250
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Western" tvg-logo="" group-title="EX: YU",EX YU: Pink Western
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36251
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Thriller" tvg-logo="" group-title="EX: YU",EX YU: Pink Thriller
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36252
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Soap" tvg-logo="" group-title="EX: YU",EX YU: Pink Soap
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36253
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Sci-FI & Fantasy" tvg-logo="" group-title="EX: YU",EX YU: Pink Sci-FI & Fantasy
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36254
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayat Folk" tvg-logo="" group-title="EX: YU",EX YU: Hayat Folk
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36255
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Hayat" tvg-logo="" group-title="EX: YU",EX YU: Hayat
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36256
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX Life" tvg-logo="" group-title="EX: YU",EX YU: FOX Life
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36257
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FOX Crime" tvg-logo="" group-title="EX: YU",EX YU: FOX Crime
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36258
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Face Tv" tvg-logo="" group-title="EX: YU",EX YU: Face Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36259
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: b92" tvg-logo="" group-title="EX: YU",EX YU: b92
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36260
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Plus" tvg-logo="" group-title="EX: YU",EX YU: Pink Plus
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36261
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT 4" tvg-logo="" group-title="EX: YU",EX YU: HRT 4
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36262
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT 3" tvg-logo="" group-title="EX: YU",EX YU: HRT 3
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36263
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT TV2 FHD" tvg-logo="" group-title="EX: YU",EX YU: HRT TV2 FHD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36264
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT 1" tvg-logo="" group-title="EX: YU",EX YU: HRT 1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36265
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: 24 Kitchen" tvg-logo="" group-title="EX: YU",EX YU: 24 Kitchen
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36266
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Alfa TV Sarajevo" tvg-logo="" group-title="EX: YU",EX YU: Alfa TV Sarajevo
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36267
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: AXN" tvg-logo="" group-title="EX: YU",EX YU: AXN
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36268
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Balkanika HD" tvg-logo="" group-title="EX: YU",EX YU: Balkanika HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36269
+#EXTINF:-1 tvg-id="" tvg-name="DE: Boomerang" tvg-logo="" group-title="EX: YU",DE: Boomerang
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36270
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: City Tv" tvg-logo="" group-title="EX: YU",EX YU: City Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36271
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Discovery Channel" tvg-logo="" group-title="EX: YU",EX YU: Discovery Channel
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36273
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Eurosport 2 SR" tvg-logo="" group-title="EX: YU",EX YU: Eurosport 2 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36274
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Fashion TV" tvg-logo="" group-title="EX: YU",EX YU: Fashion TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36275
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FilmBox Extra" tvg-logo="" group-title="EX: YU",EX YU: FilmBox Extra
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36276
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: FilmBox Stars" tvg-logo="" group-title="EX: YU",EX YU: FilmBox Stars
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36277
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Grand Tv 2" tvg-logo="" group-title="EX: YU",EX YU: Grand Tv 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36278
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Ha Ha" tvg-logo="" group-title="EX: YU",EX YU: Ha Ha
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36279
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HBO 3 HD" tvg-logo="" group-title="EX: YU",EX YU: HBO 3 HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36280
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: History Channel" tvg-logo="" group-title="EX: YU",EX YU: History Channel
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36281
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: HRT Int." tvg-logo="" group-title="EX: YU",EX YU: HRT Int.
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36282
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Jugoton TV" tvg-logo="" group-title="EX: YU",EX YU: Jugoton TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36283
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Kanal 5 Mk" tvg-logo="" group-title="EX: YU",EX YU: Kanal 5 Mk
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36284
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Kanal 6 HD" tvg-logo="" group-title="EX: YU",EX YU: Kanal 6 HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36285
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: KCN 1" tvg-logo="" group-title="EX: YU",EX YU: KCN 1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36286
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: KCN 2" tvg-logo="" group-title="EX: YU",EX YU: KCN 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36287
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: KCN 3" tvg-logo="" group-title="EX: YU",EX YU: KCN 3
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36288
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Kino Tv" tvg-logo="" group-title="EX: YU",EX YU: Kino Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36289
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: LOL" tvg-logo="" group-title="EX: YU",EX YU: LOL
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36290
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Minimax" tvg-logo="" group-title="EX: YU",EX YU: Minimax
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36291
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: MRT 1" tvg-logo="" group-title="EX: YU",EX YU: MRT 1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36292
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Nat Geo Wild" tvg-logo="" group-title="EX: YU",EX YU: Nat Geo Wild
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36293
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Nickelodeon" tvg-logo="" group-title="EX: YU",EX YU: Nickelodeon
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36295
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Nova TV" tvg-logo="" group-title="EX: YU",EX YU: Nova TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36296
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Nova BH HD" tvg-logo="" group-title="EX: YU",EX YU: Nova BH HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36297
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Novi Pazar" tvg-logo="" group-title="EX: YU",EX YU: Novi Pazar
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36298
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink" tvg-logo="" group-title="EX: YU",EX YU: Pink
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36299
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Classic" tvg-logo="" group-title="EX: YU",EX YU: Pink Classic
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36300
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Family" tvg-logo="" group-title="EX: YU",EX YU: Pink Family
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36301
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Hits" tvg-logo="" group-title="EX: YU",EX YU: Pink Hits
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36302
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Hits 2" tvg-logo="" group-title="EX: YU",EX YU: Pink Hits 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36303
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Music 2" tvg-logo="" group-title="EX: YU",EX YU: Pink Music 2
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36304
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Romance" tvg-logo="" group-title="EX: YU",EX YU: Pink Romance
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36305
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink Style" tvg-logo="" group-title="EX: YU",EX YU: Pink Style
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36306
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Pink World Cinema" tvg-logo="" group-title="EX: YU",EX YU: Pink World Cinema
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36307
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Planeta tv" tvg-logo="" group-title="EX: YU",EX YU: Planeta tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36308
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: POP TV ( SLO )" tvg-logo="" group-title="EX: YU",EX YU: POP TV ( SLO )
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36309
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Posavina Tv" tvg-logo="" group-title="EX: YU",EX YU: Posavina Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36310
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva Max" tvg-logo="" group-title="EX: YU",EX YU: Prva Max
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36312
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Prva World" tvg-logo="" group-title="EX: YU",EX YU: Prva World
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36313
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL Crime" tvg-logo="" group-title="EX: YU",EX YU: RTL Crime
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36315
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTL Passion" tvg-logo="" group-title="EX: YU",EX YU: RTL Passion
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36316
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTRS" tvg-logo="" group-title="EX: YU",EX YU: RTRS
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36317
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTRS Plus" tvg-logo="" group-title="EX: YU",EX YU: RTRS Plus
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36318
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTS 3" tvg-logo="" group-title="EX: YU",EX YU: RTS 3
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36319
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTS Zivot" tvg-logo="" group-title="EX: YU",EX YU: RTS Zivot
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36321
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sandzak Tv" tvg-logo="" group-title="EX: YU",EX YU: Sandzak Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36322
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sehara TV HD" tvg-logo="" group-title="EX: YU",EX YU: Sehara TV HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36323
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sitel" tvg-logo="" group-title="EX: YU",EX YU: Sitel
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36324
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sitel HD" tvg-logo="" group-title="EX: YU",EX YU: Sitel HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36325
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: RTV Slon" tvg-logo="" group-title="EX: YU",EX YU: RTV Slon
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36328
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: SOS" tvg-logo="" group-title="EX: YU",EX YU: SOS
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36329
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 4 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 4 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36330
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sportska TV" tvg-logo="" group-title="EX: YU",EX YU: Sportska TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36331
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Studio B" tvg-logo="" group-title="EX: YU",EX YU: Studio B
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36332
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sutel TV" tvg-logo="" group-title="EX: YU",EX YU: Sutel TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36333
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Telma Mk" tvg-logo="" group-title="EX: YU",EX YU: Telma Mk
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36334
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: TK" tvg-logo="" group-title="EX: YU",EX YU: TK
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36335
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: TLC" tvg-logo="" group-title="EX: YU",EX YU: TLC
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36336
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: TV Sarajevo HD" tvg-logo="" group-title="EX: YU",EX YU: TV Sarajevo HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36337
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Mini Tv" tvg-logo="" group-title="EX: YU",EX YU: Mini Tv
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36338
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: USK HD" tvg-logo="" group-title="EX: YU",EX YU: USK HD
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36339
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: VH1" tvg-logo="" group-title="EX: YU",EX YU: VH1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36340
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Viasat History" tvg-logo="" group-title="EX: YU",EX YU: Viasat History
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36341
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Viasat Nature" tvg-logo="" group-title="EX: YU",EX YU: Viasat Nature
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36342
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Z1" tvg-logo="" group-title="EX: YU",EX YU: Z1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36343
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 1 HR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 1 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36344
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 4 HR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 4 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36347
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 6 HR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 6 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36349
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 7 HR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 7 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36350
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 9 HR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 9 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36352
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 10 HR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 10 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36353
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 3 SR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 3 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36356
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 4 SR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 4 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36357
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Arena Sport 5 SR" tvg-logo="" group-title="EX: YU",EX YU: Arena Sport 5 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36358
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36363
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 5 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 5 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36365
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 6 HR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 6 HR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36366
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 5 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 5 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36367
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 6 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 6 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36368
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 7 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 7 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36369
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 8 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 8 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36370
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub 9 SR" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub 9 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36371
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport Klub Golf" tvg-logo="" group-title="EX: YU",EX YU: Sport Klub Golf
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36373
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport TV 1 SLO" tvg-logo="" group-title="EX: YU",EX YU: Sport TV 1 SLO
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36374
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport TV 2 SLO" tvg-logo="" group-title="EX: YU",EX YU: Sport TV 2 SLO
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36375
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Sport TV 3 SLO" tvg-logo="" group-title="EX: YU",EX YU: Sport TV 3 SLO
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36376
+#EXTINF:-1 tvg-id="" tvg-name="EX YU: Eurosport 1 SR" tvg-logo="" group-title="EX: YU",EX YU: Eurosport 1 SR
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/36377
