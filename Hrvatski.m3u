@@ -60,7 +60,7 @@ http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22731
 #EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1,(HR) Z1
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22740
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/chunklist_b4628000.m3u8?p=79&s=1707139588&e=1707140188&h=a11b0537e08fae66247b97c22918f9e7
 #EXTINF:-1,(HR) LAUDATO
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22730
 #EXTINF:-1,(HR) CMC TV (1080p)
@@ -428,8 +428,6 @@ http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22726
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22727
 #EXTINF:-1 tvg-id="" tvg-name="OSIJECKA (HR)" tvg-logo="" group-title="HR: HIRVASKI",OSIJECKA (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22729
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL  (HR)" tvg-logo="" group-title="HR: HIRVASKI",CAPITAL  (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22732
 #EXTINF:-1 tvg-id="" tvg-name="TREND TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",TREND TV (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22734
 #EXTINF:-1 tvg-id="" tvg-name="SLAVONSKA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",SLAVONSKA TV (HR)
