@@ -35,6 +35,8 @@ https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1,(HR) NOVA TV
 http://live.maxcimo.com:8000/ahmedgn/kech/3450
+#EXTINF:-1,(HR) DOMA TV
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22720
 #EXTINF:-1,(HR) RTV Herceg-Bosna
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
 #EXTINF:-1, RTL TV (Ja Gledam)
@@ -54,13 +56,15 @@ https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 #EXTINF:-1,(HR) HRT 3 (GledajTV)
 https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
 #EXTINF:-1,(HR) KLASIK
-http://xtream.supermagicx.com:25461/skyspeed2/3g2ACllhrY/42
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22731
 #EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1,(HR) Z1
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22740
+#EXTINF:-1,(HR) LAUDATO
+http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22730
 #EXTINF:-1,(HR) CMC TV (1080p)
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1,(HR) LAUDATO
-http://xtream.supermagicx.com:25461/skyspeed2/3g2ACllhrY/44
 #EXTINF:-1,(HR) Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1,(HR) Televizija Banovina (720p)
@@ -75,8 +79,6 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1, (HR) María+Visión Medjugorje 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/chunklist_b1428000.m3u8
-#EXTINF:-1, (HR) DOMA TV
-http://alternator.pro:80/live/DZUDZEVIC-Adis11/hVG8Tx/112.ts
 #EXTINF:-1,[CRO]_HRT 1
 http://live.maxcimo.com:8000/ahmedgn/kech/6000
 #EXTINF:-1,[CRO]_HRT_2
@@ -414,12 +416,6 @@ http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22715
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22716
 #EXTINF:-1 tvg-id="" tvg-name="HRT INT (HR)" tvg-logo="" group-title="HR: HIRVASKI",HRT INT (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22717
-#EXTINF:-1 tvg-id="" tvg-name="NOVA HD (HR)" tvg-logo="" group-title="HR: HIRVASKI",NOVA HD (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22718
-#EXTINF:-1 tvg-id="" tvg-name="NOVA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",NOVA TV (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22719
-#EXTINF:-1 tvg-id="" tvg-name="DOMA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",DOMA TV (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22720
 #EXTINF:-1 tvg-id="" tvg-name="RTL TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL TV (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22721
 #EXTINF:-1 tvg-id="" tvg-name="RTL 2 (HR)" tvg-logo="" group-title="HR: HIRVASKI",RTL 2 (HR)
@@ -432,15 +428,9 @@ http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22726
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22727
 #EXTINF:-1 tvg-id="" tvg-name="OSIJECKA (HR)" tvg-logo="" group-title="HR: HIRVASKI",OSIJECKA (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22729
-#EXTINF:-1 tvg-id="" tvg-name="LAUDATO TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",LAUDATO TV (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22730
-#EXTINF:-1 tvg-id="" tvg-name="KLASIK (HR)" tvg-logo="" group-title="HR: HIRVASKI",KLASIK (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22731
 #EXTINF:-1 tvg-id="" tvg-name="CAPITAL  (HR)" tvg-logo="" group-title="HR: HIRVASKI",CAPITAL  (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22732
 #EXTINF:-1 tvg-id="" tvg-name="TREND TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",TREND TV (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22734
 #EXTINF:-1 tvg-id="" tvg-name="SLAVONSKA TV (HR)" tvg-logo="" group-title="HR: HIRVASKI",SLAVONSKA TV (HR)
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22735
-#EXTINF:-1 tvg-id="" tvg-name="Z1 (HR)" tvg-logo="" group-title="HR: HIRVASKI",Z1 (HR)
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22740
