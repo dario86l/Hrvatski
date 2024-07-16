@@ -77,14 +77,6 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1, (HR) María+Visión Medjugorje 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/chunklist_b1428000.m3u8
-#EXTINF:-1,[CRO]_HRT 1
-https://list.iptvcat.com/my_list/s/a3a692cad1cd61f05126e67c1494d5ac.m3u8
-#EXTINF:-1,[CRO]_HRT_2
-https://list.iptvcat.com/my_list/s/6837b817e926f80a0b8e15f5b1049245.m3u8
-#EXTINF:-1,[CRO]_HRT 3
-https://list.iptvcat.com/my_list/s/05ae0fd2d2760995b6ce0d8b4420ae8d.m3u8
-#EXTINF:-1,[CRO]_HRT_4
-http://live.maxcimo.com:8000/ahmedgn/kech/6003
 #EXTINF:-1,(BIH) BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
@@ -191,10 +183,6 @@ https://webtvstream.bhtelecom.ba/hrt1.m3u8
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Undefined" tvg-id="HRT3.hr" tvg-name="HRT3.hr", HRT 3 (720p)
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Undefined" tvg-id="Klasik.hr" tvg-name="Klasik.hr", Klasik TV (576p) [Not 24/7]
-http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/42
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUAsUcR.png" group-title="Undefined" tvg-id="LaudatoTV.hr" tvg-name="LaudatoTV.hr", Laudato TV (1080p) [Not 24/7]
-http://xtream.supermagicx.com:25461/skyspeed6/G9zs3rulKA/44
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCFgC5D.png" group-title="Undefined" tvg-id="RadioTelevizijaBanovina.hr" tvg-name="RadioTelevizijaBanovina.hr", Radio Televizija Banovina (1080p) [Not 24/7]
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C7H5bJs.png" group-title="Undefined" tvg-id="RTLKockica.hr" tvg-name="RTLKockica.hr", RTL Kockica (1080p)
@@ -209,10 +197,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFjJ7YB.png" group-title="Entertainment" tvg-id="TVNova.hr" tvg-name="TVNova.hr", TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" group-title="Croatia",HRT 1
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
-#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" group-title="Croatia",HRT 2
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" group-title="Croatia",HRT 3
