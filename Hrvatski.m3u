@@ -223,449 +223,99 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" group-title="Croatia",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8#EXTINF:-1,[EX-YU]_RTS 1
-#EXTINF:-1,Arena Sport 1 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3987
-#EXTINF:-1,Arena Sport 2 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3986
-#EXTINF:-1,Arena Sport 3 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3985
-#EXTINF:-1,Arena Sport 4 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3997
-#EXTINF:-1,Arena Sport 5 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3998
-#EXTINF:-1,Arena Premium 1 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4241
-#EXTINF:-1,Arena Premium 2 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4242
-#EXTINF:-1,Arena Premium 3 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4243
-#EXTINF:-1,Arena Fight
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4519
-#EXTINF:-1,ART SPORT 1
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3708
-#EXTINF:-1,ART SPORT 2
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3709
-#EXTINF:-1,ART SPORT 3
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3710
-#EXTINF:-1,ART SPORT 4
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4317
-#EXTINF:-1,ART SPORT 5
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4321
-#EXTINF:-1,ART SPORT 6
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4322
-#EXTINF:-1,SP 1
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/997
-#EXTINF:-1,SP 2
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/998
-#EXTINF:-1,SP 3
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/999
-#EXTINF:-1,SP 4
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1000
-#EXTINF:-1,TSport 1 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/205
-#EXTINF:-1,TSport 2 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/204
-#EXTINF:-1,TSport 3 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/203
-#EXTINF:-1,TSport 4 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/202
-#EXTINF:-1,Kujtesa SPORT 1
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/810
-#EXTINF:-1,Kujtesa SPORT 2
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1427
-#EXTINF:-1,Kujtesa SPORT 3
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1514
-#EXTINF:-1,Kujtesa SPORT 4
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1724
-#EXTINF:-1,SK 1
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2069
-#EXTINF:-1,SK 2
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2070
-#EXTINF:-1,SK 3
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2071
-#EXTINF:-1,SK 4
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2151
-#EXTINF:-1,SK 5
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2173
-#EXTINF:-1,SK 6
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2174
-#EXTINF:-1,GOLF
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/2158
-#EXTINF:-1,EuroSport 1 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/201
-#EXTINF:-1,EuroSport 2 HD
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/200
-#EXTINF:-1,ARENA SPORT 1 HR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/199
-#EXTINF:-1,ARENA SPORT 2 HR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/198
-#EXTINF:-1,ARENA SPORT 3 HR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/197
-#EXTINF:-1,ARENA SPORT 4 HR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/196
-#EXTINF:-1,Sky Sport Austria 1
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/4544
-#EXTINF:-1,FIGHTBOX
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3108
-#EXTINF:-1,SPORT TV 1 (TEST)
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3111
-#EXTINF:-1,SPORT TV 2 (test)
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3112
-#EXTINF:-1,SPORT TV 3 (test)
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3114
-#EXTINF:-1,SPORT TV 4 (test)
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3115
-#EXTINF:-1,SPORT TV 5 (test)
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3116
-#EXTINF:-1,BEIN SPORTS 1 TR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/176
-#EXTINF:-1,BEIN SPORTS 2 TR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/174
-#EXTINF:-1,BEIN SPORTS 3 TR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/173
-#EXTINF:-1,NOVA TV
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/3125
-#EXTINF:-1,RTL HR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1947
-#EXTINF:-1,RTL 2 HR
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1948
-#EXTINF:-1,RTL Living
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/1950
-#EXTINF:-1,HRT 1
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/126
-#EXTINF:-1,HRT 2
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/125
-#EXTINF:-1,HRT 3
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/124
-#EXTINF:-1,HRT 4
-http://pubgamers.net:80/IlhamiKrelani/5IPgke2DYX/123
-#EXTINF:-1 tvg-id="Nova HR HD" tvg-name="NOVA TV" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA",NOVA TV
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9270
-#EXTINF:-1 tvg-id="Nova HR HD" tvg-name="NOVA TV HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA",NOVA TV HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9278
-#EXTINF:-1 tvg-id="Nova HR HD" tvg-name="NOVA TV HD (Hevc)" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA",NOVA TV HD (Hevc)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12090
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="RTS 1 HD" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA",RTS 1 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/521
-#EXTINF:-1 tvg-id="rts2.sr" tvg-name="RTS 2 HD" tvg-logo="http://116.203.156.75/logo/RTS2_logo.png" group-title="SRBIJA",RTS 2 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/520
-#EXTINF:-1 tvg-id="RTS 3" tvg-name="RTS 3 HD" tvg-logo="http://116.203.156.75/logo/rts3.png" group-title="SRBIJA",RTS 3 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/519
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="RTS 1" tvg-logo="http://nova-iptv.com/logo/RTS1_logo.png" group-title="SRBIJA",RTS 1
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/6886
-#EXTINF:-1 tvg-id="rts2.sr" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTS2_logo.png" group-title="SRBIJA",RTS 2
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9353
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 1 HD" tvg-logo="http://nova-iptv.com/logo/max-sport-1-bg.png" group-title="SPORTSKI",MAX SPORT 1 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12540
-#EXTINF:-1 tvg-id="" tvg-name="MAX SPORT 2 HD" tvg-logo="" group-title="SPORTSKI",MAX SPORT 2 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12986
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Sport 1 Premium HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 1 Premium HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12342
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Sport 2 Premium HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 2 Premium HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12343
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Sport 3 Premium HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 3 Premium HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12344
-#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="Arena Sport 1 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 1 Premium
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12362
-#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="Arena Sport 2 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 2 Premium
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12363
-#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="Arena Sport 3 Premium" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 3 Premium
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12392
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 1 Premium BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13011
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 2 Premium BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13012
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium BIH" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Arena_Sport_3_Premium_RS_logo.png" group-title="SPORTSKI",Arena Sport 3 Premium BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13013
-#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-name="Arena Sport 1 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI",Arena Sport 1 BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12166
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI",Arena Sport 2 BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13002
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI",Arena Sport 3 BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13003
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI",Arena Sport 4 BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13004
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI",Arena Sport 5 BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13005
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 BIH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORTSKI",Arena Sport 6 BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13006
-#EXTINF:-1 tvg-id="BN TV" tvg-name="Arena Sport 1 HD BIH" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI",Arena Sport 1 HD BIH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/6776
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-name="Arena Sport 1 HD SRB" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI",Arena Sport 1 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/490
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 HD SRB" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI",Arena Sport 2 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12051
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-name="Arena Sport 3 HD SRB" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI",Arena Sport 3 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12050
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 HD SRB" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI",Arena Sport 4 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12049
-#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="Arena Sport 5 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI",Arena Sport 5 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/491
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI",Arena Sport 6 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13068
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI",Arena Sport 7 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13069
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI",Arena Sport 8 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13070
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI",Arena Sport 9 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13071
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10 HD SRB" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI",Arena Sport 10 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13072
-#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-name="Arena Sport 1 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI",Arena Sport 1 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/486
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI",Arena Sport 2 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/485
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI",Arena Sport 3 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12052
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI",Arena Sport 4 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12053
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORTSKI",Arena Sport 5 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/482
-#EXTINF:-1 tvg-id="arena-sport-6-hr" tvg-name="Arena Sport 6 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORTSKI",Arena Sport 6 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/481
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORTSKI",Arena Sport 7 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12106
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORTSKI",Arena Sport 8 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12107
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORTSKI",Arena Sport 9 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12108
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORTSKI",Arena Sport 10 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12109
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1x2" tvg-logo="http://nova-iptv.com/logo/Arena_1x2_RS_logo.png" group-title="SPORTSKI",Arena Sport 1x2
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12533
-#EXTINF:-1 tvg-id="" tvg-name="Arena Fight" tvg-logo="http://nova-iptv.com/logo/Arena_Fight_RS_logo.png" group-title="SPORTSKI",Arena Fight
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12554
-#EXTINF:-1 tvg-id="" tvg-name="Arena Esport" tvg-logo="http://nova-iptv.com/logo/arena_esport_logo.png" group-title="SPORTSKI",Arena Esport
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12555
-#EXTINF:-1 tvg-id="tv-arena-sport-1.sport" tvg-name="Arena Sport 1" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORTSKI",Arena Sport 1
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/495
-#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORTSKI",Arena Sport 2
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12045
-#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-name="Arena Sport 3" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORTSKI",Arena Sport 3
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12046
-#EXTINF:-1 tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORTSKI",Arena Sport 4
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12047
-#EXTINF:-1 tvg-id="sport-klub-hd" tvg-name="Sport Klub HD" tvg-logo="http://nova-iptv.com/logo/SK_HD_RS_logo.png" group-title="SPORTSKI",Sport Klub HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9301
-#EXTINF:-1 tvg-id="sport-klub.sport" tvg-name="Sport Klub 1 HD SRB" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI",Sport Klub 1 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12037
-#EXTINF:-1 tvg-id="SK 2 HD (SR)" tvg-name="Sport Klub 2 HD SRB" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI",Sport Klub 2 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12038
-#EXTINF:-1 tvg-id="SK 3 HD (SR)" tvg-name="Sport Klub 3 HD SRB" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI",Sport Klub 3 HD SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12039
-#EXTINF:-1 tvg-id="SK 4 HD (SR)" tvg-name="Sport Klub 4 SRB" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI",Sport Klub 4 SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12040
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 SRB" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI",Sport Klub 5 SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9293
-#EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="Sport Klub 6 SRB" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI",Sport Klub 6 SRB
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12001
-#EXTINF:-1 tvg-id="sportklub-hr.sport" tvg-name="Sport Klub 1 HD HR" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI",Sport Klub 1 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12041
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD HR" tvg-logo="http://nova-iptv.com/logo/SK1_RS_logo.png" group-title="SPORTSKI",Sport Klub 2 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12042
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD HR" tvg-logo="http://nova-iptv.com/logo/SK3_HR_logo.png" group-title="SPORTSKI",Sport Klub 3 HD HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12043
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HR" tvg-logo="http://nova-iptv.com/logo/SK4_HR_logo.png" group-title="SPORTSKI",Sport Klub 4 HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12044
-#EXTINF:-1 tvg-id="sk5" tvg-name="Sport Klub 5 HR" tvg-logo="http://nova-iptv.com/logo/SK5_HR_logo.png" group-title="SPORTSKI",Sport Klub 5 HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9299
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HR" tvg-logo="http://nova-iptv.com/logo/SK6_HR_logo.png" group-title="SPORTSKI",Sport Klub 6 HR
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9300
-#EXTINF:-1 tvg-id="SK 7 (SR)" tvg-name="Sport Klub 7" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI",Sport Klub 7
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12239
-#EXTINF:-1 tvg-id="SK 8 (SR)" tvg-name="Sport Klub 8" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI",Sport Klub 8
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12236
-#EXTINF:-1 tvg-id="SK 9 (SR)" tvg-name="Sport Klub 9" tvg-logo="http://nova-iptv.com/logo/SK7_RS_logo.png" group-title="SPORTSKI",Sport Klub 9
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12237
-#EXTINF:-1 tvg-id="SK 10 (SR)" tvg-name="Sport Klub 10" tvg-logo="http://nova-iptv.com/logo/SK10_RS_logo.png" group-title="SPORTSKI",Sport Klub 10
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12238
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4K" tvg-logo="http://nova-iptv.com/logo/sk-4k.png" group-title="SPORTSKI",Sport Klub 4K
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12569
-#EXTINF:-1 tvg-id="SK Golf" tvg-name="Sport Klub Golf" tvg-logo="http://nova-iptv.com/logo/SK_Golf_HR_logo.png" group-title="SPORTSKI",Sport Klub Golf
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9303
-#EXTINF:-1 tvg-id="SK Esports" tvg-name="Sport Klub Esport" tvg-logo="http://nova-iptv.com/logo/SK_esports_RS_logo.png" group-title="SPORTSKI",Sport Klub Esport
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9302
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Fight" tvg-logo="" group-title="SPORTSKI",Sport Klub Fight
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12770
-#EXTINF:-1 tvg-id="Nova Sport HD" tvg-name="Nova Sport HD" tvg-logo="http://nova-iptv.com/logo/nova_sport.png" group-title="SPORTSKI",Nova Sport HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9288
-#EXTINF:-1 tvg-id="" tvg-name="Kuvo TV HD" tvg-logo="http://nova-iptv.com/kuvo.png" group-title="SPORTSKI",Kuvo TV HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12514
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="http://nova-iptv.com/logo/eurosport.png" group-title="SPORTSKI",EUROSPORT 1 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/6540
-#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="http://nova-iptv.com/logo/eurosport-2.png" group-title="SPORTSKI",EUROSPORT 2 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/467
-#EXTINF:-1 tvg-id="" tvg-name="GP 1 HD" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/GP1-logo.png" group-title="SPORTSKI",GP 1 HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12589
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT CHANNEL HD" tvg-logo="" group-title="SPORTSKI",FIGHT CHANNEL HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9277
-#EXTINF:-1 tvg-id="" tvg-name="Fight Box HD" tvg-logo="" group-title="SPORTSKI",Fight Box HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/5509
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title="SPORTSKI",Extreme Sports
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/10478
-#EXTINF:-1 tvg-id="" tvg-name="SOS" tvg-logo="" group-title="SPORTSKI",SOS
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/438
-#EXTINF:-1 tvg-id="" tvg-name="Partizan TV HD" tvg-logo="" group-title="SPORTSKI",Partizan TV HD
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/5508
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="" group-title="SPORTSKI",Zvezda TV
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/8302
-#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="" group-title="SPORTSKI",Sportska TV
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/439
-#EXTINF:-1 tvg-id="" tvg-name="Moja TV Premier Liga BiH" tvg-logo="" group-title="SPORTSKI",Moja TV Premier Liga BiH
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/480
-#EXTINF:-1 tvg-id="" tvg-name="HNTV" tvg-logo="" group-title="SPORTSKI",HNTV
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/464
-#EXTINF:-1 tvg-id="" tvg-name="Kreator TV" tvg-logo="" group-title="SPORTSKI",Kreator TV
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/463
-#EXTINF:-1 tvg-id="loviribolov" tvg-name="Lov i Ribolov" tvg-logo="" group-title="SPORTSKI",Lov i Ribolov
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/9304
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 1 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12055
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 2 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12056
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 3 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12057
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 4 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12058
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 5 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12059
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 6 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12060
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 7 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12061
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 8 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12062
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 9 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12063
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 10 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 10 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12064
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 1 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12065
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 2 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 2 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12066
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 3 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 3 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12067
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 4 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 4 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12068
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 5 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 5 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12069
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 6 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 6 HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12070
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport News HD (DE)" tvg-logo="" group-title="SPORTSKI",SKY Sport News HD (DE)
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12054
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Premier DE" tvg-logo="" group-title="SPORTSKI",Sky Sport Premier DE
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13027
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1" tvg-logo="" group-title="SPORTSKI",Sky Sport Austria 1
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/12075
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austira 6" tvg-logo="" group-title="SPORTSKI",Sky Sport Austira 6
-http://cms-portals.com:80/borislav_radovanovic111/W7tuqlAPuw/13032
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport F1 (DE)
-http://cms-portals.com:80/
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 HD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 1 HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/98899
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 1 FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56997
-#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 1 FHD (HEVC)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56996
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 HD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 2 HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/98898
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 2 FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56995
-#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 2 FHD (HEVC)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56994
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 HD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 3 HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/98897
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 3 FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56993
-#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 FHD (hevc)" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 3 FHD (hevc)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56992
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 HD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 4 HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/98911
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 4 FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56991
-#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT 4 FHD (HEVC)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56990
-#EXTINF:-1 tvg-id="htv5" tvg-name="HRT INT. HD" tvg-logo="" group-title="HRVATSKA/CROATIA",HRT INT. HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56989
-#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",NOVA TV FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56988
-#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV HD" tvg-logo="" group-title="HRVATSKA/CROATIA",NOVA TV HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56987
-#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV FHD (hevc)" tvg-logo="" group-title="HRVATSKA/CROATIA",NOVA TV FHD (hevc)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56986
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",DOMA TV FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56985
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV HD" tvg-logo="" group-title="HRVATSKA/CROATIA",DOMA TV HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56984
-#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV FHD (HEVC)" tvg-logo="" group-title="HRVATSKA/CROATIA",DOMA TV FHD (HEVC)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56983
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56982
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HR HD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL HR HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56981
-#EXTINF:-1 tvg-id="rtl" tvg-name="RTL FHD (HEVC)" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL FHD (HEVC)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56980
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL 2 FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56979
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 HR HD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL 2 HR HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56978
-#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 FHD (HEVC)" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL 2 FHD (HEVC)
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56977
-#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL ADRIA FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL ADRIA FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/100318
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL CRIME
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56975
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL LIVING
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56974
-#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL PASSION
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56973
-#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL CRIME FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56972
-#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL LIVING FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56971
-#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL PASSION FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56970
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR" tvg-logo="" group-title="HRVATSKA/CROATIA",N1 HR
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56969
-#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 HR FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",N1 HR FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56968
-#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="NOVA TV CINEMA FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",NOVA TV CINEMA FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/82511
-#EXTINF:-1 tvg-id="nova-plus-family" tvg-name="NOVA TV FAMILY FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",NOVA TV FAMILY FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/82510
-#EXTINF:-1 tvg-id="" tvg-name="NOVA PLUS HD" tvg-logo="" group-title="HRVATSKA/CROATIA",NOVA PLUS HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/105703
-#EXTINF:-1 tvg-id="" tvg-name="RTL CROATIA WORLD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL CROATIA WORLD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/105335
-#EXTINF:-1 tvg-id="" tvg-name="RTL + HD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL + HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/87155
-#EXTINF:-1 tvg-id="" tvg-name="RTL PLAY PREMIUM FHD" tvg-logo="" group-title="HRVATSKA/CROATIA",RTL PLAY PREMIUM FHD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/88732
-#EXTINF:-1 tvg-id="z1" tvg-name="Z1 HR" tvg-logo="" group-title="HRVATSKA/CROATIA",Z1 HR
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56965
-#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA TV" tvg-logo="" group-title="HRVATSKA/CROATIA",OSJECKA TV
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56963
-#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="STV SLAVONIJA HD" tvg-logo="" group-title="HRVATSKA/CROATIA",STV SLAVONIJA HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56962
-#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="PLAVA VINKOVACKA" tvg-logo="" group-title="HRVATSKA/CROATIA",PLAVA VINKOVACKA
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56961
-#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VTV" tvg-logo="" group-title="HRVATSKA/CROATIA",VTV
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56959
-#EXTINF:-1 tvg-id="libertas-tv" tvg-name="LIBERTAS TV HD" tvg-logo="" group-title="HRVATSKA/CROATIA",LIBERTAS TV HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56958
-#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-logo="" group-title="HRVATSKA/CROATIA",LAUDATO TV
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56957
-#EXTINF:-1 tvg-id="" tvg-name="MARIA VISION MEDUGORJE" tvg-logo="" group-title="HRVATSKA/CROATIA",MARIA VISION MEDUGORJE
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/88388
-#EXTINF:-1 tvg-id="" tvg-name="MARY TV MEDUGORJE" tvg-logo="" group-title="HRVATSKA/CROATIA",MARY TV MEDUGORJE
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/106108
-#EXTINF:-1 tvg-id="" tvg-name="JADRAN TV" tvg-logo="" group-title="HRVATSKA/CROATIA",JADRAN TV
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/98854
-#EXTINF:-1 tvg-id="" tvg-name="DALMACIJA TV" tvg-logo="" group-title="HRVATSKA/CROATIA",DALMACIJA TV
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/98853
-#EXTINF:-1 tvg-id="net" tvg-name="MREZA TV HD" tvg-logo="" group-title="HRVATSKA/CROATIA",MREZA TV HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56952
-#EXTINF:-1 tvg-id="" tvg-name="CRO TV HD" tvg-logo="" group-title="HRVATSKA/CROATIA",CRO TV HD
-http://mtv2go.resone1.com:80/ZeljkoAndrijevic/DJKoKBFP88/56953
+#EXTINF:-1 tvg-id="" tvg-name="*****CROATIA CHANNEL*****" tvg-logo="https://esozluk.ikv.org.tr/images/images/Croatia.png" group-title="CROATIA",*****CROATIA CHANNEL*****
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4956
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 1" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt1.png" group-title="CROATIA",HR: HRT 1
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3328
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 2" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt2.png" group-title="CROATIA",HR: HRT 2
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3329
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 3" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt3.png" group-title="CROATIA",HR: HRT 3
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3330
+#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 4" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt4.png" group-title="CROATIA",HR: HRT 4
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3333
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL HR" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtl.png" group-title="CROATIA",HR: RTL HR
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3331
+#EXTINF:-1 tvg-id="" tvg-name="HR: DOMA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/domat.png" group-title="CROATIA",HR: DOMA TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3334
+#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/nov.png" group-title="CROATIA",HR: NOVA TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3335
+#EXTINF:-1 tvg-id="" tvg-name="HR: BALKANIKA MUSIC" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/Balkanika_kvadrat.png" group-title="CROATIA",HR: BALKANIKA MUSIC
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3336
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL 2" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtl2.png" group-title="CROATIA",HR: RTL 2
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3338
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL CRIME" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtlcri.png" group-title="CROATIA",HR: RTL CRIME
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3340
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL LIVING" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtllv.png" group-title="CROATIA",HR: RTL LIVING
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3341
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL PASSION" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtlpas.png" group-title="CROATIA",HR: RTL PASSION
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3342
+#EXTINF:-1 tvg-id="" tvg-name="HR: RTL KOCKICA" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtlkoc.png" group-title="CROATIA",HR: RTL KOCKICA
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3343
+#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA TV HD" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/nov.png" group-title="CROATIA",HR: NOVA TV HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3344
+#EXTINF:-1 tvg-id="" tvg-name="HR: SB TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/sbtv.png" group-title="CROATIA",HR: SB TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3345
+#EXTINF:-1 tvg-id="" tvg-name="HR: OSIJECKA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/osjc.png" group-title="CROATIA",HR: OSIJECKA TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3346
+#EXTINF:-1 tvg-id="" tvg-name="HR: STV SLTV" tvg-logo="" group-title="CROATIA",HR: STV SLTV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3347
+#EXTINF:-1 tvg-id="" tvg-name="HR: VINKOVACKA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/plava-televizija.png" group-title="CROATIA",HR: VINKOVACKA TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3348
+#EXTINF:-1 tvg-id="" tvg-name="HR: N1 TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/n1.png" group-title="CROATIA",HR: N1 TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3349
+#EXTINF:-1 tvg-id="" tvg-name="HR: VTV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/tvt.png" group-title="CROATIA",HR: VTV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3360
+#EXTINF:-1 tvg-id="" tvg-name="HR: Z1 TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/z1.png" group-title="CROATIA",HR: Z1 TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/24137
+#EXTINF:-1 tvg-id="" tvg-name="HR: CMC TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/cmc.png" group-title="CROATIA",HR: CMC TV
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/26546
+#EXTINF:-1 tvg-id="" tvg-name="HR: EUROSPORT 1" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: EUROSPORT 1
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1093
+#EXTINF:-1 tvg-id="" tvg-name="HR: EUROSPORT 2" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: EUROSPORT 2
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1094
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 1" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 1
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1095
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 2" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 2
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1096
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 3" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 3
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1097
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 4" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 4
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1098
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 5" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 5
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1099
+#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 6
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1100
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 1 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 1 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1101
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 2 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 2 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1102
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 3 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 3 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1103
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 4 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 4 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1104
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 5 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 5 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1105
+#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 6 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 6 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1106
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 1 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 1 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/446
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 2 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 2 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/955
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 3 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 3 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1972
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 4 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 4 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/20805
+#EXTINF:-1 tvg-id="" tvg-name="HR: MAX SPORT 1" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: MAX SPORT 1
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/5830
+#EXTINF:-1 tvg-id="" tvg-name="HR: MAX SPORT 2" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: MAX SPORT 2
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/5844
+#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="SR: ARENA SPORT 1 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 1 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4575
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 2 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 2 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4576
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 3 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 3 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4577
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 4 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 4 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4868
+#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 5 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 5 HD
+http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4869
