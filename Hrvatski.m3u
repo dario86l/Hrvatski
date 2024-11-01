@@ -223,99 +223,365 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="*****CROATIA CHANNEL*****" tvg-logo="https://esozluk.ikv.org.tr/images/images/Croatia.png" group-title="CROATIA",*****CROATIA CHANNEL*****
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4956
-#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 1" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt1.png" group-title="CROATIA",HR: HRT 1
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3328
-#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 2" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt2.png" group-title="CROATIA",HR: HRT 2
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3329
-#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 3" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt3.png" group-title="CROATIA",HR: HRT 3
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3330
-#EXTINF:-1 tvg-id="" tvg-name="HR: HRT 4" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/hrt4.png" group-title="CROATIA",HR: HRT 4
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3333
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL HR" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtl.png" group-title="CROATIA",HR: RTL HR
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3331
-#EXTINF:-1 tvg-id="" tvg-name="HR: DOMA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/domat.png" group-title="CROATIA",HR: DOMA TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3334
-#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/nov.png" group-title="CROATIA",HR: NOVA TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3335
-#EXTINF:-1 tvg-id="" tvg-name="HR: BALKANIKA MUSIC" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/Balkanika_kvadrat.png" group-title="CROATIA",HR: BALKANIKA MUSIC
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3336
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL 2" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtl2.png" group-title="CROATIA",HR: RTL 2
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3338
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL CRIME" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtlcri.png" group-title="CROATIA",HR: RTL CRIME
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3340
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL LIVING" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtllv.png" group-title="CROATIA",HR: RTL LIVING
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3341
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL PASSION" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtlpas.png" group-title="CROATIA",HR: RTL PASSION
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3342
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL KOCKICA" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/rtlkoc.png" group-title="CROATIA",HR: RTL KOCKICA
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3343
-#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA TV HD" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/nov.png" group-title="CROATIA",HR: NOVA TV HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3344
-#EXTINF:-1 tvg-id="" tvg-name="HR: SB TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/sbtv.png" group-title="CROATIA",HR: SB TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3345
-#EXTINF:-1 tvg-id="" tvg-name="HR: OSIJECKA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/osjc.png" group-title="CROATIA",HR: OSIJECKA TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3346
-#EXTINF:-1 tvg-id="" tvg-name="HR: STV SLTV" tvg-logo="" group-title="CROATIA",HR: STV SLTV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3347
-#EXTINF:-1 tvg-id="" tvg-name="HR: VINKOVACKA TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/plava-televizija.png" group-title="CROATIA",HR: VINKOVACKA TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3348
-#EXTINF:-1 tvg-id="" tvg-name="HR: N1 TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/n1.png" group-title="CROATIA",HR: N1 TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3349
-#EXTINF:-1 tvg-id="" tvg-name="HR: VTV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/tvt.png" group-title="CROATIA",HR: VTV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/3360
-#EXTINF:-1 tvg-id="" tvg-name="HR: Z1 TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/z1.png" group-title="CROATIA",HR: Z1 TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/24137
-#EXTINF:-1 tvg-id="" tvg-name="HR: CMC TV" tvg-logo="https://logo.hdiptv.app/Ex-Yugo/cmc.png" group-title="CROATIA",HR: CMC TV
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/26546
-#EXTINF:-1 tvg-id="" tvg-name="HR: EUROSPORT 1" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: EUROSPORT 1
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1093
-#EXTINF:-1 tvg-id="" tvg-name="HR: EUROSPORT 2" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: EUROSPORT 2
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1094
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 1" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 1
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1095
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 2" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 2
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1096
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 3" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 3
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1097
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 4" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 4
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1098
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 5" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 5
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1099
-#EXTINF:-1 tvg-id="" tvg-name="HR: SPORT KLUB 6" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: SPORT KLUB 6
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1100
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 1 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 1 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1101
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 2 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 2 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1102
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 3 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 3 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1103
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 4 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 4 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1104
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 5 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 5 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1105
-#EXTINF:-1 tvg-id="" tvg-name="HR: ARENA SPORT 6 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: ARENA SPORT 6 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1106
-#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 1 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 1 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/446
-#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 2 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 2 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/955
-#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 3 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 3 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/1972
-#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 4 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: PLANET SPORT 4 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/20805
-#EXTINF:-1 tvg-id="" tvg-name="HR: MAX SPORT 1" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: MAX SPORT 1
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/5830
-#EXTINF:-1 tvg-id="" tvg-name="HR: MAX SPORT 2" tvg-logo="" group-title="ALL COUNTRY SPORTS",HR: MAX SPORT 2
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/5844
-#EXTINF:-1 tvg-id="Arena Sport 1 ex-Yu" tvg-name="SR: ARENA SPORT 1 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 1 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4575
-#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 2 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 2 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4576
-#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 3 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 3 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4577
-#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 4 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 4 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4868
-#EXTINF:-1 tvg-id="" tvg-name="SR: ARENA SPORT 5 HD" tvg-logo="" group-title="ALL COUNTRY SPORTS",SR: ARENA SPORT 5 HD
-http://net.hdiptv.in:8080/Huseyinsahanb/ptwSZYaQY5p4/4869
+#EXTINF:-1 xui-id="815" tvg-id="" tvg-name="=======  HRVATSKA  =======" tvg-logo="" group-title="HRVATSKA",=======  HRVATSKA  =======
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pEhxUNgoxFKzYVlFk9HSgM/ts
+#EXTINF:-1 xui-id="814" tvg-id="hrt1.hr" tvg-name="HRT 1 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 1 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hz92RJpc13Sv8nZGnFLh94/ts
+#EXTINF:-1 timeshift="5" xui-id="7674" tvg-id="hrt1.hr" tvg-name="HRT 1 HD (HR)" tvg-logo="" group-title="HRVATSKA",HRT 1 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0ieD-jqnzT72-QWPt7c69bk/ts
+#EXTINF:-1 xui-id="813" tvg-id="hrt2.hr" tvg-name="HRT 2 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 2 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0j0V23hmG1Nbvj8-VNLZx-U/ts
+#EXTINF:-1 timeshift="5" xui-id="7675" tvg-id="HRT 2 HD" tvg-name="HRT 2 HD (HR)" tvg-logo="" group-title="HRVATSKA",HRT 2 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tTb58m1COQLLtrb4dSRTQE/ts
+#EXTINF:-1 xui-id="812" tvg-id="hrt3.hr" tvg-name="HRT 3 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 3 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0lLQ9jDG4McQcMVB9wJfLsY/ts
+#EXTINF:-1 timeshift="5" xui-id="7676" tvg-id="hrt3.hr" tvg-name="HRT 3 HD (HR)" tvg-logo="" group-title="HRVATSKA",HRT 3 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iubmOXaZtVfu3gGEAE13sI/ts
+#EXTINF:-1 xui-id="811" tvg-id="HRT4CR" tvg-name="HRT 4 (HR)" tvg-logo="" group-title="HRVATSKA",HRT 4 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0m7zShFyqo4HDt9szV53kgk/ts
+#EXTINF:-1 xui-id="4949" tvg-id="HRT5CR" tvg-name="HRT 5 International (HR)" tvg-logo="" group-title="HRVATSKA",HRT 5 International (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tfk0EcuX-__JmfVe5iILG0/ts
+#EXTINF:-1 xui-id="7112" tvg-id="novatv.hr" tvg-name="Nova TV (HR)" tvg-logo="" group-title="HRVATSKA",Nova TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0l8WkSBGF4i1zHqrkq9k5a8/ts
+#EXTINF:-1 timeshift="5" xui-id="806" tvg-id="novatv.hr" tvg-name="Nova TV (HR) L2" tvg-logo="" group-title="HRVATSKA",Nova TV (HR) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0n9RFyOJC-mRuCiCV0AeSaA/ts
+#EXTINF:-1 timeshift="5" xui-id="7113" tvg-id="domatv.hr" tvg-name="Doma TV (HR)" tvg-logo="" group-title="HRVATSKA",Doma TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0l-IkAOzFMF653QNYsbkgq8/ts
+#EXTINF:-1 timeshift="5" xui-id="805" tvg-id="domatv.hr" tvg-name="Doma TV HD (HR)" tvg-logo="" group-title="HRVATSKA",Doma TV HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0od4Rn9r1KyT6vrCIiTDXGY/ts
+#EXTINF:-1 xui-id="13364" tvg-id="RTL Adria HD_max" tvg-name="RTL Adria (HR)" tvg-logo="" group-title="HRVATSKA",RTL Adria (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qWm8UZqxBNwpsGhOOnukcI/ts
+#EXTINF:-1 timeshift="5" xui-id="810" tvg-id="rtl.hr" tvg-name="RTL Televizija (HR)" tvg-logo="" group-title="HRVATSKA",RTL Televizija (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hkWzovBCBHDSZzrhPxSUkQ/ts
+#EXTINF:-1 timeshift="3" xui-id="9273" tvg-id="RTL HR HD" tvg-name="RTL Televizija (HR) L2" tvg-logo="" group-title="HRVATSKA",RTL Televizija (HR) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nm--aRw_0EOknGAstOoKo8/ts
+#EXTINF:-1 timeshift="5" xui-id="1232" tvg-id="RTL2" tvg-name="RTL 2 (HR)" tvg-logo="http://mysolutionsbn.xyz:12974/images/7881816a9354690942240f6dbe3a9acb.png" group-title="HRVATSKA",RTL 2 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0oGI4RVRSzUtmg7xfw1IBXY/ts
+#EXTINF:-1 xui-id="9274" tvg-id="HTV1" tvg-name="RTL 2 (HR) L2" tvg-logo="" group-title="HRVATSKA",RTL 2 (HR) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0ri3P0M0NGoGNBDyW6h2Pik/ts
+#EXTINF:-1 xui-id="807" tvg-id="rtlcrime.hr" tvg-name="RTL Crime (HR)" tvg-logo="" group-title="HRVATSKA",RTL Crime (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0ilAvz_9Eske9gcrGtU2A94/ts
+#EXTINF:-1 xui-id="1213" tvg-id="rtlpassion.hr" tvg-name="RTL Passion (HR)" tvg-logo="" group-title="HRVATSKA",RTL Passion (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kYZGIj5AhUt4unjLCp0xfw/ts
+#EXTINF:-1 xui-id="150" tvg-id="rtlliving.hr" tvg-name="RTL Living (HR)" tvg-logo="" group-title="HRVATSKA",RTL Living (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0q6VNgTlcotS7bLG0LM9OkE/ts
+#EXTINF:-1 timeshift="5" xui-id="3763" tvg-id="N1 HD (HR)" tvg-name="N1 Televizija (HR)" tvg-logo="" group-title="HRVATSKA",N1 Televizija (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0lFVXp_K5ygCJn9lrhZsWDg/ts
+#EXTINF:-1 xui-id="1212" tvg-id="z1.hr" tvg-name="Zagrebacka Televizija - Z1 TV (HR)" tvg-logo="" group-title="HRVATSKA",Zagrebacka Televizija - Z1 TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0joG4zY0bzAHnX7woShl7i8/ts
+#EXTINF:-1 xui-id="1838" tvg-id="TV ŠIBENIK" tvg-name="TV Sibenik (HR)" tvg-logo="" group-title="HRVATSKA",TV Sibenik (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nUDhnSrBPmFY36KkruDqOw/ts
+#EXTINF:-1 xui-id="2288" tvg-id="PLAVA Vinkovačka _max" tvg-name="Plava vinkovacka TV (HR)" tvg-logo="" group-title="HRVATSKA",Plava vinkovacka TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iaoStoAi7qO46FsJhYf4aM/ts
+#EXTINF:-1 xui-id="8506" tvg-id="osjeckatv.hr" tvg-name="OSJECKA TV (HR)" tvg-logo="" group-title="HRVATSKA",OSJECKA TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0spfATORPOQ32uXryJ4Ug0I/ts
+#EXTINF:-1 xui-id="3499" tvg-id="slavonskatv.hr" tvg-name="TV Slavonije i Baranje - Slavkonska TV (HR)" tvg-logo="" group-title="HRVATSKA",TV Slavonije i Baranje - Slavkonska TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0m9G54ifz9qXKfNViooo2T8/ts
+#EXTINF:-1 xui-id="7934" tvg-id="dutv.hr" tvg-name="Dubrovacka Televizija - DUTV (HR)" tvg-logo="" group-title="HRVATSKA",Dubrovacka Televizija - DUTV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0k6GCtAuiP-9nIlS5W4Hx-M/ts
+#EXTINF:-1 xui-id="3751" tvg-id="kanalri.hr" tvg-name="Kanal Rijeka (HR)" tvg-logo="" group-title="HRVATSKA",Kanal Rijeka (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0m6OtrMRGlNIJAbK0W9VFKQ/ts
+#EXTINF:-1 xui-id="3507" tvg-id="Zdrava TV_max" tvg-name="Zdrava televizija (HR)" tvg-logo="" group-title="HRVATSKA",Zdrava televizija (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qfD2kEu1C5fQVHsktyAz2I/ts
+#EXTINF:-1 xui-id="3735" tvg-id="laudatotv.hr" tvg-name="Laudato TV (HR)" tvg-logo="" group-title="HRVATSKA",Laudato TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vm5feE8CEn7dja5_rhtHIM/ts
+#EXTINF:-1 xui-id="4941" tvg-id="jabuka.hr" tvg-name="Jabuka TV (HR)" tvg-logo="" group-title="HRVATSKA",Jabuka TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0u-DjUT_HOHpyY_0UbMysx0/ts
+#EXTINF:-1 xui-id="7935" tvg-id="Libertas TV_max" tvg-name="Libertas TV (HR)" tvg-logo="" group-title="HRVATSKA",Libertas TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hBtEK_I-ROyqD20WSLIeqw/ts
+#EXTINF:-1 xui-id="4122" tvg-id="24kitchen.si" tvg-name="TV Istra (HR)" tvg-logo="" group-title="HRVATSKA",TV Istra (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rBsXZejtFcUT1jeA1aiazI/ts
+#EXTINF:-1 xui-id="4942" tvg-id="TV Jadran_max" tvg-name="TV Jadran (HR)" tvg-logo="" group-title="HRVATSKA",TV Jadran (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tDV-xOLMHzUxEcB44zjAB8/ts
+#EXTINF:-1 xui-id="7972" tvg-id="RTV Banovina" tvg-name="RTV Banovina (HR)" tvg-logo="" group-title="HRVATSKA",RTV Banovina (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0sHsndZ97XWRw6AEdaOndH4/ts
+#EXTINF:-1 xui-id="2287" tvg-id="posavinatv.ba" tvg-name="POSAVINA TV (HR)" tvg-logo="" group-title="HRVATSKA",POSAVINA TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kYscbnZBtOBIeeOzIkXkDE/ts
+#EXTINF:-1 xui-id="6912" tvg-id="POLJOPRIVREDNA TV" tvg-name="Poljoprivredna TV (HR)" tvg-logo="" group-title="HRVATSKA",Poljoprivredna TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vOSc1ga85zA_lFtmWH02Nk/ts
+#EXTINF:-1 xui-id="7974" tvg-id="Trend TV_max" tvg-name="Trend TV Karlovac (HR)" tvg-logo="" group-title="HRVATSKA",Trend TV Karlovac (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vHH5Dbck1jFa3yCJLVl2wI/ts
+#EXTINF:-1 xui-id="4132" tvg-id="VTV_max" tvg-name="Varazdinska Televizija - VTV (HR)" tvg-logo="" group-title="HRVATSKA",Varazdinska Televizija - VTV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nOyhgojbYktMqSoUZHWuZE/ts
+#EXTINF:-1 xui-id="13936" tvg-id="mrezazg.hr" tvg-name="Mreza TV Zagreb (HR)" tvg-logo="" group-title="HRVATSKA",Mreza TV Zagreb (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0jVZTyc5ZdZO9y2qq5S9e1Y/ts
+#EXTINF:-1 xui-id="20855" tvg-id="TV Zapad_max" tvg-name="TV Zapad" tvg-logo="" group-title="HRVATSKA",TV Zapad
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pqU_VtQu8mHk6Hp9s5nUB4/ts
+#EXTINF:-1 xui-id="7096" tvg-id="" tvg-name="=======  SPORT EX-YU =======" tvg-logo="" group-title="SPORT EX-YU",=======  SPORT EX-YU =======
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gAfFO0uIQ8VQgM8O-cotRI/ts
+#EXTINF:-1 xui-id="20264" tvg-id="MAXSport 1_max" tvg-name="MAXsport (HR)" tvg-logo="" group-title="SPORT EX-YU",MAXsport (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0khy5WD5ueTSQXczMxgkgNw/ts
+#EXTINF:-1 xui-id="20754" tvg-id="MAXSport 2_max" tvg-name="MAXsport 2 (HR)" tvg-logo="" group-title="SPORT EX-YU",MAXsport 2 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0r6C_VmxXNsHPSfpxkOjF0g/ts
+#EXTINF:-1 xui-id="10514" tvg-id="HTV1" tvg-name="Nova Sport HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Nova Sport HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pdaEYPQluoUAgz1jbsaMTg/ts
+#EXTINF:-1 xui-id="7971" tvg-id="Moja TV" tvg-name="MOJA Sport TV (BiH) BH Premier liga" tvg-logo="" group-title="SPORT EX-YU",MOJA Sport TV (BiH) BH Premier liga
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rukDSuJS-i3py-tSsrs1Vo/ts
+#EXTINF:-1 xui-id="20144" tvg-id="arenasport1x2.rs" tvg-name="Arena Sport 1x2 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 1x2 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0t8_zL2i8vYn-4jV8XGK9bQ/ts
+#EXTINF:-1 xui-id="3047" tvg-id="" tvg-name="Arena Sport 1 (BiH)" tvg-logo="http://mysolutionsbn.xyz:12974/images/Iflj5EoYVeI7fY65v1kwFT-7F6htIbr207k3gon1Fz3aO8JF2zlSZSy6R6tufTA0.png" group-title="SPORT EX-YU",Arena Sport 1 (BiH)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vQG5k-JNVF2IKCutkwuUGU/ts
+#EXTINF:-1 xui-id="23075" tvg-id="" tvg-name="A Sport Premium 1 (BiH)" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 1 (BiH)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tgiLYbWUbR9hKLr1Wo_zJ8/ts
+#EXTINF:-1 timeshift="5" xui-id="20325" tvg-id="arena-premium-1" tvg-name="A Sport Premium 1 (RS)" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 1 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hWj7bEAwQ7vEV6vd-2vXbI/ts
+#EXTINF:-1 timeshift="5" xui-id="20861" tvg-id="arena-premium-1" tvg-name="A Sport Premium 1 (RS) L2" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 1 (RS) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0q5ycDLSBy3hNO1dtH0peAo/ts
+#EXTINF:-1 timeshift="5" xui-id="20326" tvg-id="arenapremium2.rs" tvg-name="A Sport Premium 2 (RS)" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 2 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kPMEBqC_RoOvuFOdOPUQKE/ts
+#EXTINF:-1 timeshift="5" xui-id="20862" tvg-id="arenapremium2.rs" tvg-name="A Sport Premium 2 (RS) L2" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 2 (RS) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0uzuuUc-O9rw-l0dK6LZb18/ts
+#EXTINF:-1 timeshift="5" xui-id="20327" tvg-id="arenapremium3.rs" tvg-name="A Sport Premium 3 (RS)" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 3 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kesigpACaD7IJq6F-zMtrc/ts
+#EXTINF:-1 timeshift="5" xui-id="20863" tvg-id="arenapremium3.rs" tvg-name="A Sport Premium 3 (RS) L2" tvg-logo="" group-title="SPORT EX-YU",A Sport Premium 3 (RS) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kS5TtOrusEzDD0Em5LO36g/ts
+#EXTINF:-1 timeshift="5" xui-id="4895" tvg-id="tv-arena-sport-1.sport" tvg-name="Arena Sport 1 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 1 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vN6XCok6KuiF_da5QuGiQI/ts
+#EXTINF:-1 timeshift="5" xui-id="4894" tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 2 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qyCoZk1J8Gi-kZNCVd1FZA/ts
+#EXTINF:-1 timeshift="5" xui-id="4893" tvg-id="tv-arena-sport-3.sport" tvg-name="Arena Sport 3 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 3 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0maceQ6QBHjr_JKpbCNmf7Q/ts
+#EXTINF:-1 xui-id="4892" tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 4 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0q5RkZYx0MTYBl17KZIM1L0/ts
+#EXTINF:-1 xui-id="20398" tvg-id="arena-sport-5" tvg-name="Arena Sport 5 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 5 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0j5D2bbEMmvTfXoCBHc31Jw/ts
+#EXTINF:-1 xui-id="20395" tvg-id=" Arena Sport 6 HD" tvg-name="Arena Sport 6 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 6 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0mVjJDEqqF_mU2o1fEKutu8/ts
+#EXTINF:-1 xui-id="20396" tvg-id="Pink Show (SR)" tvg-name="Arena Sport 7 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 7 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0riSHeqfG1YxBcMi6j8_rTc/ts
+#EXTINF:-1 xui-id="20397" tvg-id="Arena Sport 8 HD" tvg-name="Arena Sport 8 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 8 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0o_s0fTAwlY2LIUXr4E3oro/ts
+#EXTINF:-1 xui-id="23953" tvg-id="arenasport9.rs" tvg-name="Arena sport 9 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena sport 9 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0jF6ev3vhQ_tU9bcl69ScqM/ts
+#EXTINF:-1 xui-id="23952" tvg-id="arenasport10.rs" tvg-name="Arena sport 10 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena sport 10 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qOiEi_SALfcuhg9WeGgjLk/ts
+#EXTINF:-1 xui-id="1039" tvg-id="tv-arena-sport-1.sport" tvg-name="Arena Sport 1 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 1 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0srfoq0teG24g9YpST1urto/ts
+#EXTINF:-1 xui-id="1038" tvg-id="tv-arena-sport-2.sport" tvg-name="Arena Sport 2 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 2 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0uuGmYilCKDcGnnLIGJOj5s/ts
+#EXTINF:-1 xui-id="1037" tvg-id="tv-arena-sport-3.sport" tvg-name="Arena Sport 3 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 3 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vfTkXsfIGIZsQdgs35Am80/ts
+#EXTINF:-1 xui-id="1036" tvg-id="tv-arena-sport-4" tvg-name="Arena Sport 4 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 4 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0s96zd3UO-n629Xl2Dup4Ic/ts
+#EXTINF:-1 xui-id="1035" tvg-id="arena-sport-5" tvg-name="Arena Sport 5 (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 5 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rRWWGlMcMBCyPlhjL6_0vk/ts
+#EXTINF:-1 timeshift="5" xui-id="1034" tvg-id="tv-arena-sport-1-hr.sport" tvg-name="Arena Sport 1 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 1 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0raq5NRXLNKUVrnbUTPqWNM/ts
+#EXTINF:-1 timeshift="5" xui-id="1033" tvg-id="ArenaSport2hr" tvg-name="Arena Sport 2 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 2 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iixpgOo0O3NiyiUWE-MtA8/ts
+#EXTINF:-1 timeshift="5" xui-id="1032" tvg-id="4565" tvg-name="Arena Sport 3 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 3 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hk-JCaReQHRNZPFdYx7AFA/ts
+#EXTINF:-1 xui-id="1031" tvg-id="4566" tvg-name="Arena Sport 4 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 4 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0n_K6f0GLx2RrjDnJ4BiBxA/ts
+#EXTINF:-1 xui-id="1030" tvg-id="4567" tvg-name="Arena Sport 5 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 5 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rsRD0C51Fa1S6VeVcym6lg/ts
+#EXTINF:-1 xui-id="1418" tvg-id="4568" tvg-name="Arena Sport 6 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 6 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pPmtrtDHXsWCudbwIrDhaQ/ts
+#EXTINF:-1 xui-id="20222" tvg-id="arenasport7.hr" tvg-name="Arena Sport 7 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 7 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0khSnN8bXoiUZFN_piy0v30/ts
+#EXTINF:-1 xui-id="20223" tvg-id="arenasport8.hr" tvg-name="Arena Sport 8 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 8 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0u2wFiil9oRmbtCHKpxu-H0/ts
+#EXTINF:-1 xui-id="20224" tvg-id="arenasport9.hr" tvg-name="Arena Sport 9 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 9 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0h8MShwVBSvaP4PlJOtAlxo/ts
+#EXTINF:-1 xui-id="20225" tvg-id="arenasport10.hr" tvg-name="Arena Sport 10 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Arena Sport 10 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0jQOphEW_fJc5LeShhThRok/ts
+#EXTINF:-1 xui-id="20860" tvg-id="arenafight.rs" tvg-name="Arena Fight (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena Fight (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0sRJcw-L5_EIAKw1QxZDKlk/ts
+#EXTINF:-1 xui-id="6987" tvg-id="arenaesport.rs" tvg-name="Arena ESport (RS)" tvg-logo="" group-title="SPORT EX-YU",Arena ESport (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0oGllvrsSlWuSY7Z-9Q3Jtw/ts
+#EXTINF:-1 xui-id="23981" tvg-id="SK Fight HD (SR)" tvg-name="SK FIGHT (RS)" tvg-logo="" group-title="SPORT EX-YU",SK FIGHT (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0szFS071Y3tZf0IYo86Oeuk/ts
+#EXTINF:-1 xui-id="3458" tvg-id="sportgolf.rs" tvg-name="Sport Klub Golf HD" tvg-logo="" group-title="SPORT EX-YU",Sport Klub Golf HD
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0uRP06PhqYqOGOWtYj3kJxY/ts
+#EXTINF:-1 xui-id="12759" tvg-id="skesports.rs" tvg-name="Sport Klub eSports" tvg-logo="" group-title="SPORT EX-YU",Sport Klub eSports
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0k6ex8jTARsIiZOKZZKs_wM/ts
+#EXTINF:-1 timeshift="5" xui-id="1860" tvg-id="sportklubhd.hr" tvg-name="Sport Klub HD" tvg-logo="" group-title="SPORT EX-YU",Sport Klub HD
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0mW3zNWXmWf04RyLzEzDh4E/ts
+#EXTINF:-1 timeshift="5" xui-id="1419" tvg-id="Sport Klub 1" tvg-name="Sport Klub 1 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 1 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vyj385aH0CaxneCV0P7sBQ/ts
+#EXTINF:-1 xui-id="23056" tvg-id="Sport Klub 1" tvg-name="Sport klub 1 (RS) L2" tvg-logo="" group-title="SPORT EX-YU",Sport klub 1 (RS) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hTjI168WE7y4cZsKUbQPPQ/ts
+#EXTINF:-1 timeshift="5" xui-id="1420" tvg-id="Sport Klub 2" tvg-name="Sport Klub 2 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 2 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0n8gzTxk4yJg8jmLkMwdFXI/ts
+#EXTINF:-1 xui-id="23870" tvg-id="sportklub2.rs" tvg-name="Sport Klub 2 HD (RS) L2" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 2 HD (RS) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0jJN-HiaB8gAJxkH7bL-AxM/ts
+#EXTINF:-1 timeshift="5" xui-id="1421" tvg-id="Sport Klub 3" tvg-name="Sport Klub 3 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 3 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gXSqLN9xOBL2fdtn3gIOHI/ts
+#EXTINF:-1 xui-id="7104" tvg-id="sportklub4.rs" tvg-name="Sport Klub 4 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 4 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0v5f46d5KuJM3m5hSv3VNZM/ts
+#EXTINF:-1 xui-id="1423" tvg-id="sportklub5.rs" tvg-name="Sport Klub 5 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 5 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iFBYm0ZPUzQq6A8ReRK1w0/ts
+#EXTINF:-1 xui-id="1424" tvg-id="sportklub6.rs" tvg-name="Sport Klub 6 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 6 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0knZ07UO3gf0DbwnLB8obh4/ts
+#EXTINF:-1 xui-id="6985" tvg-id="sportklub7.rs" tvg-name="Sport Klub 7 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 7 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rQ88FiiHSePjuTqmb_7ghE/ts
+#EXTINF:-1 xui-id="6986" tvg-id="sportklub8.rs" tvg-name="Sport Klub 8 (RS)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 8 (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0px2RFXMZUelGhbhAl5JQDQ/ts
+#EXTINF:-1 timeshift="5" xui-id="1042" tvg-id="Sport Klub 1" tvg-name="Sport Klub 1 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 1 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vyl2oSEU9ZsZtKY81ijBPk/ts
+#EXTINF:-1 timeshift="5" xui-id="1041" tvg-id="Sport Klub 2" tvg-name="Sport Klub 2 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 2 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0t2X2-tn2tuLT2-SyiJfMQY/ts
+#EXTINF:-1 timeshift="5" xui-id="1040" tvg-id="sportklub3.hr" tvg-name="Sport Klub 3 HD (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 3 HD (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0re9e-VHzsMLrDzhi8UPNNM/ts
+#EXTINF:-1 xui-id="1427" tvg-id="sportklub4.hr" tvg-name="Sport Klub 4 (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 4 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0r7RxrYg3QWQaS8YLoQ2rUo/ts
+#EXTINF:-1 xui-id="1428" tvg-id="sportklub5.hr" tvg-name="Sport Klub 5 (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 5 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gwzT3QvWURPL4qMoEPJVTQ/ts
+#EXTINF:-1 xui-id="1429" tvg-id="sportklub6.hr" tvg-name="Sport Klub 6 (HR)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 6 (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gkBpBHvak11UDussA_ASqY/ts
+#EXTINF:-1 timeshift="5" xui-id="7929" tvg-id="sportklub1.si" tvg-name="Sport klub 1 (SLO)" tvg-logo="" group-title="SPORT EX-YU",Sport klub 1 (SLO)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qkFDAVdZ0KF26eG3p5RaRE/ts
+#EXTINF:-1 timeshift="5" xui-id="20262" tvg-id="sportklub2.si" tvg-name="Sport Klub 2 (SLO)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 2 (SLO)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0n9X4CA-alXD5UiwNyAo9CY/ts
+#EXTINF:-1 xui-id="20263" tvg-id="sportklub3.si" tvg-name="Sport Klub 3 (SLO)" tvg-logo="" group-title="SPORT EX-YU",Sport Klub 3 (SLO)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kKV0lp0tSzfr5WULxuh54Y/ts
+#EXTINF:-1 timeshift="5" xui-id="1044" tvg-id="Pink Show (SR)" tvg-name="Eurosport 1 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Eurosport 1 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0lqyUfKrAM-zONzBQsa5mF4/ts
+#EXTINF:-1 timeshift="5" xui-id="1043" tvg-id="HTV1" tvg-name="Eurosport 2 HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Eurosport 2 HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0khmCYJafEP-eYBLOmG4rG8/ts
+#EXTINF:-1 xui-id="1486" tvg-id="SPORTSKA TV" tvg-name="Sportska TV - SPTV (HR)" tvg-logo="" group-title="SPORT EX-YU",Sportska TV - SPTV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0h7Pv24zHe7Mkvkn24FYhIk/ts
+#EXTINF:-1 xui-id="3500" tvg-id="kreatortv.hr" tvg-name="Kreator TV (HR)" tvg-logo="" group-title="SPORT EX-YU",Kreator TV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0ngWZXO7hlpoFH3YYmg6GP4/ts
+#EXTINF:-1 xui-id="1759" tvg-id="HNTV" tvg-name="HNTV (HR)" tvg-logo="" group-title="SPORT EX-YU",HNTV (HR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tw8v-uelPksiACxjn0Edrc/ts
+#EXTINF:-1 xui-id="1916" tvg-id="SOS Kanal" tvg-name="SOS (RS)" tvg-logo="" group-title="SPORT EX-YU",SOS (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gqIHNh9XLCosVHtBRVwWtg/ts
+#EXTINF:-1 xui-id="10777" tvg-id="Zvezda TV HD" tvg-name="Zvezda TV (RS)" tvg-logo="" group-title="SPORT EX-YU",Zvezda TV (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qFkGKBFGktezk6CvRVEXJQ/ts
+#EXTINF:-1 xui-id="10778" tvg-id="TV Partizan" tvg-name="Partizan TV HD (RS)" tvg-logo="" group-title="SPORT EX-YU",Partizan TV HD (RS)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hzBt2Jytjt7NDSGg8AvDlA/ts
+#EXTINF:-1 xui-id="4040" tvg-id="fightchannel.rs" tvg-name="Fight Channel" tvg-logo="" group-title="SPORT EX-YU",Fight Channel
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pAO7b3qWF8nYE0RGlMjRmw/ts
+#EXTINF:-1 xui-id="1045" tvg-id="" tvg-name="=======  SPORT INTERNATIONAL  =======" tvg-logo="" group-title="SPORT INTERNATIONAL",=======  SPORT INTERNATIONAL  =======
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0ma5sKTQydr8da26nlkOfEU/ts
+#EXTINF:-1 xui-id="1200" tvg-id="EUROHD" tvg-name="Eurosport 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Eurosport 1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0txJLykF1xVJvvJKJEq_HdU/ts
+#EXTINF:-1 xui-id="4023" tvg-id="EURS2HD" tvg-name="Eurosport 2 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Eurosport 2 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tU3Ez9kiOWMVwMt722BfdQ/ts
+#EXTINF:-1 xui-id="4042" tvg-id="ESPXTRA" tvg-name="Eurosport 2 Xtra HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Eurosport 2 Xtra HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qdefxBXzyrY3HIACGiqwYs/ts
+#EXTINF:-1 xui-id="3051" tvg-id="ORFSPPL" tvg-name="ORF Sport + HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",ORF Sport + HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0jdIZI2JGvXPnGUbeD-NCFo/ts
+#EXTINF:-1 xui-id="1763" tvg-id="SP1GERH" tvg-name="Sport1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pMN1eyAWVaU32kbzfJxjvU/ts
+#EXTINF:-1 xui-id="7945" tvg-id="Sport1Plus DE" tvg-name="Sport1+ (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sport1+ (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0txpAeNAXAwcTYJ1Z_NUZLE/ts
+#EXTINF:-1 xui-id="7946" tvg-id="SPODTV" tvg-name="Sportdigital (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",Sportdigital (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iqe86kcxF497GkOrkfm6UE/ts
+#EXTINF:-1 xui-id="7040" tvg-id="DAZN1HD" tvg-name="D A z n  1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",D A z n  1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gT3XrdJugI51MufwFRp6x0/ts
+#EXTINF:-1 xui-id="7041" tvg-id="DAZN2HD" tvg-name="D A z n  2 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",D A z n  2 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0sBP5EkGrykCiLNxfPZ2REU/ts
+#EXTINF:-1 xui-id="20829" tvg-id="DAZN1HD" tvg-name="D A z n  1 (DE) (2K-H265)" tvg-logo="" group-title="SPORT INTERNATIONAL",D A z n  1 (DE) (2K-H265)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0j_oX54CSGOvAjjKT1ayBhM/ts
+#EXTINF:-1 xui-id="20830" tvg-id="DAZN2HD" tvg-name="DAZN 2 HD (2K-H265)" tvg-logo="http://mysolutionsbn.xyz:12974/images/hUzne15UNWW_FIM-NJ9mbbI4YxWkJKTSPiHsO-7s_QnD-vCd0WUTk2om7P8kZ0oBrL-CVI4XmH8eaQ5AEZ3qvQ.png" group-title="SPORT INTERNATIONAL",DAZN 2 HD (2K-H265)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kkq1dO-AKcUFpILPM0uTrE/ts
+#EXTINF:-1 xui-id="20831" tvg-id="" tvg-name="DAZN 1 FHD VIP (ES)" tvg-logo="" group-title="SPORT INTERNATIONAL",DAZN 1 FHD VIP (ES)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kMZsZKRLhic8t-OzM9iXf8/ts
+#EXTINF:-1 xui-id="20833" tvg-id="" tvg-name="D A Z N F 1 (ES)" tvg-logo="" group-title="SPORT INTERNATIONAL",D A Z N F 1 (ES)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0g1F2HZG_QBMBeltLC82IAQ/ts
+#EXTINF:-1 xui-id="20234" tvg-id="SSPOF1" tvg-name="SSport F1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport F1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0pg1vR8U73FfMlymz5SG3Bc/ts
+#EXTINF:-1 xui-id="1417" tvg-id="SKYSNG" tvg-name="SSport News (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport News (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nsdzS7ysb7_Go0lZ7B6u5U/ts
+#EXTINF:-1 xui-id="1091" tvg-id="SKYSPA" tvg-name="SSport Austria 1 (AT)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Austria 1 (AT)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kl_jwatn2oUy8cqcKRFzmI/ts
+#EXTINF:-1 xui-id="13730" tvg-id="" tvg-name="SSport Austria 2 (Match Time)  (AT)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Austria 2 (Match Time)  (AT)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nkXb2k_tu5tzdhfHWe9xXc/ts
+#EXTINF:-1 xui-id="13731" tvg-id="" tvg-name="SSport Austria 3 (Match Time)  (AT)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Austria 3 (Match Time)  (AT)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0psmX902VwImHDI9nI0fBzA/ts
+#EXTINF:-1 xui-id="13732" tvg-id="" tvg-name="SSport Austria 4 (Match Time) (AT)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Austria 4 (Match Time) (AT)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0sGN28foUAXQGJmdUikDISU/ts
+#EXTINF:-1 xui-id="20775" tvg-id="I3.109803.schedulesdirect.org" tvg-name="SSport Golf HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Golf HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hyvD71--XOX1-DOtBjFKpY/ts
+#EXTINF:-1 xui-id="20776" tvg-id="" tvg-name="SSport Tenis HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Tenis HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0l_1TI3S8jQ026jyemQqGpc/ts
+#EXTINF:-1 xui-id="20777" tvg-id="" tvg-name="SSport Premier League HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport Premier League HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qmemWLFPVfvJJpnG1OvxOk/ts
+#EXTINF:-1 xui-id="1184" tvg-id="" tvg-name="SSport  TOP EVENT HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport  TOP EVENT HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0i5IoMVTCpI0VQAdW6GJ0FQ/ts
+#EXTINF:-1 xui-id="20773" tvg-id="sky-sports-mix" tvg-name="SSport MIX (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport MIX (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nm0U1jcrMckkumC-Xl_Xmw/ts
+#EXTINF:-1 xui-id="1018" tvg-id="SKYSP1G" tvg-name="SSport 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0lTqKG7YY8cFN5tb16j_pX8/ts
+#EXTINF:-1 xui-id="1017" tvg-id="SKYSP2G" tvg-name="SSport 2 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 2 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0i25riFPgBSqRvvF1QX6Y3Q/ts
+#EXTINF:-1 xui-id="1562" tvg-id="SKYS3HD" tvg-name="SSport 3 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 3 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hIZhOzLBbPWoQJ5gi2pthQ/ts
+#EXTINF:-1 xui-id="1563" tvg-id="" tvg-name="SSport 4 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 4 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tYNwAsY2fMTVSKIPP4GQ8I/ts
+#EXTINF:-1 xui-id="1564" tvg-id="" tvg-name="SSport 5 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 5 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rMrwDiJKwq00Nohs4Rxm1k/ts
+#EXTINF:-1 xui-id="4908" tvg-id="" tvg-name="SSport 6 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 6 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vMtcslSL-09u6JP9Npc_Yw/ts
+#EXTINF:-1 xui-id="4909" tvg-id="" tvg-name="SSport 7 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 7 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0j_pGZV0C8Gc2eIg1AqOtOI/ts
+#EXTINF:-1 xui-id="7037" tvg-id="" tvg-name="SSport 8 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 8 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0upps7mlCKUoq9hV1AyHkss/ts
+#EXTINF:-1 xui-id="7038" tvg-id="" tvg-name="SSport 9 HD (DE) (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSport 9 HD (DE) (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0oO-FGN7Wcto4m8EM9QMX-0/ts
+#EXTINF:-1 xui-id="7109" tvg-id="" tvg-name="BUNDESLIGA (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",BUNDESLIGA (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0uFKNo_PvZcmvIvh0x6Guho/ts
+#EXTINF:-1 xui-id="20774" tvg-id="" tvg-name="B.Liga HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0hBizC9tf1-Fz-v_UJ1lWw8/ts
+#EXTINF:-1 xui-id="1023" tvg-id="" tvg-name="B.Liga 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0s6eoZ5pwaamur6c06NkhrM/ts
+#EXTINF:-1 xui-id="13893" tvg-id="SSS Sport Bundesliga 1 DE" tvg-name="B.Liga 1 HD (DE) L2" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 1 HD (DE) L2
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tFqKDcOXSzctNkPuiu4-jg/ts
+#EXTINF:-1 xui-id="5075" tvg-id="FXSP6NL" tvg-name="B.LIGA 1 (2K-H265) (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.LIGA 1 (2K-H265) (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vdJBZOri1YsxLqBl2sAD7U/ts
+#EXTINF:-1 xui-id="1022" tvg-id="" tvg-name="B.Liga 2 HD (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 2 HD (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iwWdDwIlAzXbEdXdCa16fs/ts
+#EXTINF:-1 xui-id="1021" tvg-id="" tvg-name="B.Liga 3 HD (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 3 HD (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0uuJmO3QlL2FmcKtcwLi6Ic/ts
+#EXTINF:-1 xui-id="1020" tvg-id="" tvg-name="B.Liga 4 HD (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 4 HD (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0uUJG0e-vP3c_rWTxWhR1Uo/ts
+#EXTINF:-1 xui-id="1019" tvg-id="" tvg-name="B.Liga 5 HD (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 5 HD (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nIm1onJDwxAlGnPZLP8EeY/ts
+#EXTINF:-1 xui-id="1842" tvg-id="" tvg-name="B.Liga 6 (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 6 (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0ku4Ulrv1qBpq_zvKqdELks/ts
+#EXTINF:-1 xui-id="1843" tvg-id="" tvg-name="B.Liga 7 (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 7 (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tFAcbuAFWN8YkeXHXw0ooU/ts
+#EXTINF:-1 xui-id="1844" tvg-id="" tvg-name="B.Liga 8 (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 8 (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gntpIZFYVGxM2bazsjIIq0/ts
+#EXTINF:-1 xui-id="1845" tvg-id="" tvg-name="B.Liga 9 (Match Time)" tvg-logo="" group-title="SPORT INTERNATIONAL",B.Liga 9 (Match Time)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0p2Rcz3jHGWF3KZjFYmKw9A/ts
+#EXTINF:-1 xui-id="13759" tvg-id="" tvg-name="MAGENTA SPORT 1 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA SPORT 1 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iPhVKztC0hFeqD2vwnhf14/ts
+#EXTINF:-1 xui-id="13760" tvg-id="" tvg-name="MAGENTA SPORT 2 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA SPORT 2 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0upizonrTsmQy0P82StYdic/ts
+#EXTINF:-1 xui-id="13761" tvg-id="" tvg-name="MAGENTA SPORT 3 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA SPORT 3 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0oU04Z387qqJtx_7agCr8Ao/ts
+#EXTINF:-1 xui-id="13762" tvg-id="" tvg-name="MAGENTA SPORT 4 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA SPORT 4 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kJi6-KTWT-zJ6AcbDtBQ4E/ts
+#EXTINF:-1 xui-id="13763" tvg-id="" tvg-name="MAGENTA SPORT 5 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA SPORT 5 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0tIklBMJs25p5mPVcjLBb54/ts
+#EXTINF:-1 xui-id="13764" tvg-id="" tvg-name="MAGENTA SPORT 6 HD (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA SPORT 6 HD (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kXNiPaZEGBZzfDELyuqVA4/ts
+#EXTINF:-1 xui-id="13766" tvg-id="FC Bayern TV DE" tvg-name="MAGENTA sport 7 (DE)" tvg-logo="" group-title="SPORT INTERNATIONAL",MAGENTA sport 7 (DE)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0nGzRmgiqU2PmCzPp1_7cck/ts
+#EXTINF:-1 xui-id="1012" tvg-id="PRLITV" tvg-name="SSports PREMIER LEAGUE (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSports PREMIER LEAGUE (UK)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0rZSknkESP1tydM4dxjXYkw/ts
+#EXTINF:-1 xui-id="3480" tvg-id="SSPOF1" tvg-name="SSports F1 HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",SSports F1 HD (UK)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0mcaN7kKHR-ty9tjHIRKyVc/ts
+#EXTINF:-1 xui-id="10519" tvg-id="MFOR1HD" tvg-name="Movistar Formula 1 HD (ES)" tvg-logo="" group-title="SPORT INTERNATIONAL",Movistar Formula 1 HD (ES)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gGw3n4QAZBRhJnUvqKvmxM/ts
+#EXTINF:-1 xui-id="1149" tvg-id="BTSP1HD" tvg-name="BT Sport 1 HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 1 HD (UK)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0sEEvgUmzHilFA8-8ACCsU8/ts
+#EXTINF:-1 xui-id="1150" tvg-id="BTSP2HD" tvg-name="BT Sport 2 HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 2 HD (UK)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0v7ct5lDPXRE2tetUzIv4Wk/ts
+#EXTINF:-1 xui-id="1148" tvg-id="BTSP3HD" tvg-name="BT Sport 3 HD (UK) TNT SPORT 3" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 3 HD (UK) TNT SPORT 3
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0iNDQ0_-MaIKOoLN2AQDqMg/ts
+#EXTINF:-1 xui-id="1766" tvg-id="bt-sport-4k" tvg-name="BT Sport 4 (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",BT Sport 4 (UK)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0gCRMtRvlm3Bk_6jkJkH4s0/ts
+#EXTINF:-1 xui-id="7673" tvg-id="PRMSPRT" tvg-name="Premier Sports HD (UK)" tvg-logo="" group-title="SPORT INTERNATIONAL",Premier Sports HD (UK)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0kmlNWlg1_rmIsAJxW-1cao/ts
+#EXTINF:-1 xui-id="4924" tvg-id="bein-sports-1-en" tvg-name="beIN Sport 1 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 1 HD (AR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0vlpZyNcfJd3YuHnRZ2T2UA/ts
+#EXTINF:-1 xui-id="4923" tvg-id="bein-sports-2-en" tvg-name="beIN Sport 2 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 2 HD (AR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0k65jy_ZyAQpCIhNUX2bfrQ/ts
+#EXTINF:-1 xui-id="4922" tvg-id="bein-sports-3-en" tvg-name="beIN Sport 3 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 3 HD (AR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0oSus61CTYvkQbGTqGpMmQI/ts
+#EXTINF:-1 xui-id="1155" tvg-id="" tvg-name="beIN Sport 4 HD (AR)" tvg-logo="" group-title="SPORT INTERNATIONAL",beIN Sport 4 HD (AR)
+http://haloohaloo.xyz:12974/play/Vo1TqfwociMAzYAtaSah0qTqmotcM-V8FyxIyPAz85A/ts
