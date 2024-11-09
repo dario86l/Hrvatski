@@ -265,267 +265,471 @@ http://mytv-extra.com:88/3530943489/9761432288/161153
 http://mytv-extra.com:88/3530943489/9761432288/161149
 #EXTINF:-1 tvg-id="" tvg-name="HR - LIBERTAS TV" tvg-logo="https://lo1.in/exyu/liber.png" group-title="?EXYU | CROATIA",HR - LIBERTAS TV
 http://mytv-extra.com:88/3530943489/9761432288/161154
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 1 4K" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 1 4K
-http://mytv-extra.com:88/3530943489/9761432288/161157
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 2 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 2 HD
-http://mytv-extra.com:88/3530943489/9761432288/161158
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 3 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 3 HD
-http://mytv-extra.com:88/3530943489/9761432288/161159
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 4 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 4 HD
-http://mytv-extra.com:88/3530943489/9761432288/161160
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 5 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 5 HD
-http://mytv-extra.com:88/3530943489/9761432288/161161
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 6 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 6 HD
-http://mytv-extra.com:88/3530943489/9761432288/161162
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 7 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 7 HD
-http://mytv-extra.com:88/3530943489/9761432288/161163
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 8 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 8 HD
-http://mytv-extra.com:88/3530943489/9761432288/161164
-#EXTINF:-1 tvg-id="" tvg-name="HR - MAXCRO SELECT 9 HD" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",HR - MAXCRO SELECT 9 HD
-http://mytv-extra.com:88/3530943489/9761432288/161165
-#EXTINF:-1 tvg-id="" tvg-name="HR - POLJOPRIVREDNA TV" tvg-logo="https://lo1.in/exyu/polj10.png" group-title="?EXYU | CROATIA",HR - POLJOPRIVREDNA TV
-http://mytv-extra.com:88/3530943489/9761432288/161188
-#EXTINF:-1 tvg-id="posavinatv.ba" tvg-name="HR - POSAVINA TV" tvg-logo="https://lo1.in/exyu/posav.png" group-title="?EXYU | CROATIA",HR - POSAVINA TV
-http://mytv-extra.com:88/3530943489/9761432288/161189
-#EXTINF:-1 tvg-id="" tvg-name="HR - RTL ADRIA" tvg-logo="https://lo1.in/exyu/rtlad.png" group-title="?EXYU | CROATIA",HR - RTL ADRIA
-http://mytv-extra.com:88/3530943489/9761432288/161194
-#EXTINF:-1 tvg-id="scifich.hr" tvg-name="HR - SCIFI 4K" tvg-logo="https://lo1.in/exyu/scifi.png" group-title="?EXYU | CROATIA",HR - SCIFI 4K
-http://mytv-extra.com:88/3530943489/9761432288/161202
-#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-name="HR - SLAVONSKA TV" tvg-logo="https://lo1.in/exyu/slavk0.png" group-title="?EXYU | CROATIA",HR - SLAVONSKA TV
-http://mytv-extra.com:88/3530943489/9761432288/161203
-#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="HR - CINESTAR TV 1" tvg-logo="https://lo1.in/exyu/cinst.png" group-title="?EXYU | CROATIA",HR - CINESTAR TV 1
-http://mytv-extra.com:88/3530943489/9761432288/174646
-#EXTINF:-1 tvg-id="" tvg-name="HR - CINESTAR TV 2" tvg-logo="https://lo1.in/exyu/cinstr.png" group-title="?EXYU | CROATIA",HR - CINESTAR TV 2
-http://mytv-extra.com:88/3530943489/9761432288/174647
-#EXTINF:-1 tvg-id="kanalri.hr" tvg-name="HR - KANAL RI" tvg-logo="https://lo1.in/exyu/kanr.png" group-title="?EXYU | CROATIA",HR - KANAL RI
-http://mytv-extra.com:88/3530943489/9761432288/174672
-#EXTINF:-1 tvg-id="mrezast.hr" tvg-name="HR - MREZA SPLIT" tvg-logo="https://lo1.in/exyu/mrezsp.png" group-title="?EXYU | CROATIA",HR - MREZA SPLIT
-http://mytv-extra.com:88/3530943489/9761432288/174679
-#EXTINF:-1 tvg-id="varazdinskatelevizija.hr" tvg-name="HR - VARAŽDINSKA TV" tvg-logo="https://lo1.in/exyu/varz.png" group-title="?EXYU | CROATIA",HR - VARAŽDINSKA TV
-http://mytv-extra.com:88/3530943489/9761432288/174706
-#EXTINF:-1 tvg-id="zdravatv.hr" tvg-name="HR - ZDRAVA TV" tvg-logo="https://lo1.in/exyu/zdra.png" group-title="?EXYU | CROATIA",HR - ZDRAVA TV
-http://mytv-extra.com:88/3530943489/9761432288/161233
-#EXTINF:-1 tvg-id="" tvg-name="HR - HAFENSTADT HAUPTPLATZ ROVINJ" tvg-logo="https://lo1.in/exyu/cmra.png" group-title="?EXYU | CROATIA",HR - HAFENSTADT HAUPTPLATZ ROVINJ
-http://mytv-extra.com:88/3530943489/9761432288/399900
-#EXTINF:-1 tvg-id="" tvg-name="HR - KROATIEN TVRĐAVA KLIS" tvg-logo="https://lo1.in/exyu/cmra.png" group-title="?EXYU | CROATIA",HR - KROATIEN TVRĐAVA KLIS
-http://mytv-extra.com:88/3530943489/9761432288/399902
-#EXTINF:-1 tvg-id="" tvg-name="HR - PORT OF DUBROVNIK" tvg-logo="https://lo1.in/exyu/DUBROVNIK.png" group-title="?EXYU | CROATIA",HR - PORT OF DUBROVNIK
-http://mytv-extra.com:88/3530943489/9761432288/399904
-#EXTINF:-1 tvg-id="z1.hr" tvg-name="HR - Z1 TV HD" tvg-logo="https://lo1.in/exyu/z10.png" group-title="?EXYU | CROATIA",HR - Z1 TV HD
-http://mytv-extra.com:88/3530943489/9761432288/2102
-#EXTINF:-1 tvg-id="" tvg-name="HR - DMC TV HD" tvg-logo="https://lo1.in/exyu/DMC.png" group-title="?EXYU | CROATIA",HR - DMC TV HD
-http://mytv-extra.com:88/3530943489/9761432288/35450
-#EXTINF:-1 tvg-id="amc.hr" tvg-name="HR - AMC HD" tvg-logo="https://lo1.in/exyu/amc.png" group-title="?EXYU | CROATIA",HR - AMC HD
-http://mytv-extra.com:88/3530943489/9761432288/161099
-#EXTINF:-1 tvg-id="" tvg-name="HR - TV ZAPAD" tvg-logo="https://lo1.in/exyu/zapad.png" group-title="?EXYU | CROATIA",HR - TV ZAPAD
-http://mytv-extra.com:88/3530943489/9761432288/400154488
-#EXTINF:-1 tvg-id="" tvg-name="MK - CINESTAR TV ACTION AND THRILLER" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",MK - CINESTAR TV ACTION AND THRILLER
-http://mytv-extra.com:88/3530943489/9761432288/121419
-#EXTINF:-1 tvg-id="" tvg-name="MK - HTV 1" tvg-logo="https://lo1.in/us/nhl.png" group-title="?EXYU | CROATIA",MK - HTV 1
-http://mytv-extra.com:88/3530943489/9761432288/121409
-#EXTINF:-1 tvg-id="" tvg-name="MK - HTV 2" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",MK - HTV 2
-http://mytv-extra.com:88/3530943489/9761432288/121408
-#EXTINF:-1 tvg-id="" tvg-name="MK - HTV 3" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",MK - HTV 3
-http://mytv-extra.com:88/3530943489/9761432288/121407
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - NOVA FAMILY HD" tvg-logo="https://lo1.in/exyu/nov.png" group-title="?EXYU | CROATIA",EXYU - NOVA FAMILY HD
-http://mytv-extra.com:88/3530943489/9761432288/32159
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - NOVA WORLD HD" tvg-logo="https://lo1.in/exyu/nov.png" group-title="?EXYU | CROATIA",EXYU - NOVA WORLD HD
-http://mytv-extra.com:88/3530943489/9761432288/32155
-#EXTINF:-1 tvg-id="" tvg-name="HR - RTL DOCUMENTARY HD" tvg-logo="https://lo1.in/exyu/rtl.png" group-title="?EXYU | CROATIA",HR - RTL DOCUMENTARY HD
-http://mytv-extra.com:88/3530943489/9761432288/37105
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - SB TV HD" tvg-logo="https://lo1.in/exyu/sbtv.png" group-title="?EXYU | CROATIA",EXYU - SB TV HD
-http://mytv-extra.com:88/3530943489/9761432288/33842
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - PRIGORSKA TV HD" tvg-logo="https://lo1.in/exyu/zelina.png" group-title="?EXYU | CROATIA",EXYU - PRIGORSKA TV HD
-http://mytv-extra.com:88/3530943489/9761432288/33812
-#EXTINF:-1 tvg-id="" tvg-name="#### EXYU - SPORT ####" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | SPORT",#### EXYU - SPORT ####
-http://45.95.114.34:195/EXTRA/EXTRA2.mp4
-#EXTINF:-1 tvg-id="novasport.rs" tvg-name="EXYU| NOVA SPORT SR HD" tvg-logo="https://lo1.in/exyu/novsp.png" group-title="?EXYU | SPORT",EXYU| NOVA SPORT SR HD
-http://mytv-extra.com:88/3530943489/9761432288/375645
-#EXTINF:-1 tvg-id="sportklubhd.hr" tvg-name="EXYU| SPORT KLUB HD" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB HD
-http://mytv-extra.com:88/3530943489/9761432288/174278
-#EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="EXYU| SPORT KLUB 1 HD SR [???? ??????? ?????]" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 1 HD SR [???? ??????? ?????]
-http://mytv-extra.com:88/3530943489/9761432288/116020
-#EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="EXYU| SPORT KLUB 2 HD SR [???? ??????? ?????]" tvg-logo="https://lo1.in/exyu/spkl2.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 2 HD SR [???? ??????? ?????]
-http://mytv-extra.com:88/3530943489/9761432288/116021
-#EXTINF:-1 tvg-id="sportklub3.rs" tvg-name="EXYU| SPORT KLUB 3 HD SR [???? ??????? ?????]" tvg-logo="https://lo1.in/exyu/spkl3.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 3 HD SR [???? ??????? ?????]
-http://mytv-extra.com:88/3530943489/9761432288/116022
-#EXTINF:-1 tvg-id="sportklub1.si" tvg-name="EXYU| SPORT KLUB 1 HD HR" tvg-logo="https://lo1.in/exyu/spkl1.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 1 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/374716
-#EXTINF:-1 tvg-id="sportklub2.si" tvg-name="EXYU| SPORT KLUB 2 HD HR" tvg-logo="https://lo1.in/exyu/spkl2.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 2 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/374717
-#EXTINF:-1 tvg-id="sportklub3.si" tvg-name="EXYU| SPORT KLUB 3 4K HR" tvg-logo="https://lo1.in/exyu/spkl3.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 3 4K HR
-http://mytv-extra.com:88/3530943489/9761432288/374718
-#EXTINF:-1 tvg-id="sportklub4.si" tvg-name="EXYU| SPORT KLUB 4 HD HR" tvg-logo="https://lo1.in/exyu/spkl4.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 4 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/374719
-#EXTINF:-1 tvg-id="sportklub5.si" tvg-name="EXYU| SPORT KLUB 5 HD HR  [SAMO DOGA?AJ Uï¿½IVO]" tvg-logo="https://lo1.in/exyu/spkl5.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 5 HD HR  [SAMO DOGA?AJ Uï¿½IVO]
-http://mytv-extra.com:88/3530943489/9761432288/374721
-#EXTINF:-1 tvg-id="sportklub6.si" tvg-name="EXYU| SPORT KLUB 6 HD HR [SAMO DOGA?AJ Uï¿½IVO]" tvg-logo="https://lo1.in/exyu/spkl6.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 6 HD HR [SAMO DOGA?AJ Uï¿½IVO]
-http://mytv-extra.com:88/3530943489/9761432288/374725
-#EXTINF:-1 tvg-id="sportklub7.rs" tvg-name="EXYU| SPORT KLUB 7 HD HR [SAMO DOGA?AJ Uï¿½IVO]" tvg-logo="https://lo1.in/exyu/spkl7.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 7 HD HR [SAMO DOGA?AJ Uï¿½IVO]
-http://mytv-extra.com:88/3530943489/9761432288/174275
-#EXTINF:-1 tvg-id="sportklub8.rs" tvg-name="EXYU| SPORT KLUB 8 HD HR [SAMO DOGAĐAJ UŽIVO]" tvg-logo="https://lo1.in/exyu/spkl8.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB 8 HD HR [SAMO DOGAĐAJ UŽIVO]
-http://mytv-extra.com:88/3530943489/9761432288/174276
-#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="EXYU - ARENA 1 PREMIUM HD SR" tvg-logo="https://lo1.in/exyu/aren1pr.png" group-title="?EXYU | SPORT",EXYU - ARENA 1 PREMIUM HD SR
-http://mytv-extra.com:88/3530943489/9761432288/400269009
-#EXTINF:-1 tvg-id="arenapremium2.rs" tvg-name="EXYU - ARENA 2 PREMIUM HD SR" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",EXYU - ARENA 2 PREMIUM HD SR
-http://mytv-extra.com:88/3530943489/9761432288/400269008
-#EXTINF:-1 tvg-id="arenapremium3.rs" tvg-name="EXYU - ARENA 3 PREMIUM HD SR" tvg-logo="https://lo1.in/exyu/aren3pr.png" group-title="?EXYU | SPORT",EXYU - ARENA 3 PREMIUM HD SR
-http://mytv-extra.com:88/3530943489/9761432288/400269007
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| ARENA SPORT 1 HD BIH" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 1 HD BIH
-http://mytv-extra.com:88/3530943489/9761432288/373771
-#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="EXYU| ARENA SPORT 1 HD SR" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 1 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/174081
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD SR" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 2 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/174082
-#EXTINF:-1 tvg-id="arenasport3.rs" tvg-name="EXYU| ARENA SPORT 3 HD SR" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 3 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/174083
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU| ARENA SPORT 4 HD SR" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 4 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/174084
-#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="EXYU| ARENA SPORT 5 HD SR" tvg-logo="https://lo1.in/exyu/arensp5.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 5 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/174085
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="EXYU| ARENA SPORT 1 HD HR" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 1 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/373283
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="EXYU| ARENA SPORT 2 HD HR" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 2 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/373284
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="EXYU| ARENA SPORT 3 HD HR" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 3 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/373366
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="EXYU|ARENA SPORT 4 HD HR" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="?EXYU | SPORT",EXYU|ARENA SPORT 4 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/373367
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="EXYU| ARENA SPORT 5 HD HR" tvg-logo="https://lo1.in/exyu/arensp5.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 5 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/373368
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="EXYU| ARENA SPORT 6 HD HR" tvg-logo="https://lo1.in/exyu/arensp6.png" group-title="?EXYU | SPORT",EXYU| ARENA SPORT 6 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/373389
-#EXTINF:-1 tvg-id="arenasport7.rs" tvg-name="EXYU - ARENA SPORT 7 HD HR" tvg-logo="https://lo1.in/exyu/arenasp7.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 7 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/400269199
-#EXTINF:-1 tvg-id="arenasport8.rs" tvg-name="EXYU - ARENA SPORT 8 HD HR" tvg-logo="https://lo1.in/exyu/arensp8.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 8 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/400269198
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 9 HD HR" tvg-logo="https://lo1.in/exyu/arensp9.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 9 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/400269197
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 10 HD HR" tvg-logo="https://lo1.in/exyu/arenasp10.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 10 HD HR
-http://mytv-extra.com:88/3530943489/9761432288/400269196
-#EXTINF:-1 tvg-id="eurosport1.rs" tvg-name="EXYU| EUROSPORT 1 HD" tvg-logo="https://lo1.in/exyu/eursp1.png" group-title="?EXYU | SPORT",EXYU| EUROSPORT 1 HD
-http://mytv-extra.com:88/3530943489/9761432288/174135
-#EXTINF:-1 tvg-id="eurosport2.rs" tvg-name="EXYU| EUROSPORT 2 HD" tvg-logo="https://lo1.in/exyu/eursp2.png" group-title="?EXYU | SPORT",EXYU| EUROSPORT 2 HD
-http://mytv-extra.com:88/3530943489/9761432288/174136
-#EXTINF:-1 tvg-id="sportskatv.hr" tvg-name="EXYU| SPORTSKA HD" tvg-logo="https://lo1.in/exyu/spsk0.png" group-title="?EXYU | SPORT",EXYU| SPORTSKA HD
-http://mytv-extra.com:88/3530943489/9761432288/174124
-#EXTINF:-1 tvg-id="arenafight.rs" tvg-name="EXYU - ARENA FIGHT HD" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",EXYU - ARENA FIGHT HD
-http://mytv-extra.com:88/3530943489/9761432288/400269255
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| FIGHT CHANNEL HD" tvg-logo="https://lo1.in/exyu/fighch.png" group-title="?EXYU | SPORT",EXYU| FIGHT CHANNEL HD
-http://mytv-extra.com:88/3530943489/9761432288/174140
-#EXTINF:-1 tvg-id="arenaesport.rs" tvg-name="EXYU - ARENA ESPORT HD" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",EXYU - ARENA ESPORT HD
-http://mytv-extra.com:88/3530943489/9761432288/400269254
-#EXTINF:-1 tvg-id="sporttv1.si" tvg-name="EXYU| SPORT TV 1 HD SLO" tvg-logo="https://lo1.in/exyu/sp1slov.png" group-title="?EXYU | SPORT",EXYU| SPORT TV 1 HD SLO
-http://mytv-extra.com:88/3530943489/9761432288/174279
-#EXTINF:-1 tvg-id="sporttv2.si" tvg-name="EXYU| SPORT TV 2 HD SLO" tvg-logo="https://lo1.in/exyu/sp2slov.png" group-title="?EXYU | SPORT",EXYU| SPORT TV 2 HD SLO
-http://mytv-extra.com:88/3530943489/9761432288/174280
-#EXTINF:-1 tvg-id="sporttv3.si" tvg-name="EXYU| SPORT TV 3 HD SLO" tvg-logo="https://lo1.in/exyu/sp3slov.png" group-title="?EXYU | SPORT",EXYU| SPORT TV 3 HD SLO
-http://mytv-extra.com:88/3530943489/9761432288/174281
-#EXTINF:-1 tvg-id="sportklubgolf.si" tvg-name="EXYU| SPORT KLUB GOLF HD" tvg-logo="https://lo1.in/exyu/spklglf.png" group-title="?EXYU | SPORT",EXYU| SPORT KLUB GOLF HD
-http://mytv-extra.com:88/3530943489/9761432288/174277
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| KREATOR TV" tvg-logo="https://lo1.in/exyu/kreat.png" group-title="?EXYU | SPORT",EXYU| KREATOR TV
-http://mytv-extra.com:88/3530943489/9761432288/375646
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| TV DOBRA SPORTSKA HD" tvg-logo="https://lo1.in/exyu/dobsp.png" group-title="?EXYU | SPORT",EXYU| TV DOBRA SPORTSKA HD
-http://mytv-extra.com:88/3530943489/9761432288/400154439
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - MAX SPORT 1 HD (HR)" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="?EXYU | SPORT",EXYU - MAX SPORT 1 HD (HR)
-http://mytv-extra.com:88/3530943489/9761432288/99811
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - MAX SPORT 2 HD (HR)" tvg-logo="https://lo1.in/exyu/MAXSPORT.png" group-title="?EXYU | SPORT",EXYU - MAX SPORT 2 HD (HR)
-http://mytv-extra.com:88/3530943489/9761432288/99810
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| MOJA SPORT HD" tvg-logo="https://lo1.in/exyu/mojsp.png" group-title="?EXYU | SPORT",EXYU| MOJA SPORT HD
-http://mytv-extra.com:88/3530943489/9761432288/174495
-#EXTINF:-1 tvg-id="" tvg-name="EXYU| PARTIZAN TV HD" tvg-logo="https://lo1.in/exyu/partz.png" group-title="?EXYU | SPORT",EXYU| PARTIZAN TV HD
-http://mytv-extra.com:88/3530943489/9761432288/174246
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - FK CRVENA ZVEZDA TV HD" tvg-logo="https://lo1.in/exyu/fkcnaz.png" group-title="?EXYU | SPORT",EXYU - FK CRVENA ZVEZDA TV HD
-http://mytv-extra.com:88/3530943489/9761432288/113475
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - M:NET SPORT HD" tvg-logo="https://lo1.in/exyu/MNET.png" group-title="?EXYU | SPORT",EXYU - M:NET SPORT HD
-http://mytv-extra.com:88/3530943489/9761432288/32164
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - FIGHT NETWORK HD" tvg-logo="https://lo1.in/us/fghn.png" group-title="?EXYU | SPORT",EXYU - FIGHT NETWORK HD
-http://mytv-extra.com:88/3530943489/9761432288/42840
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 6 HD SR" tvg-logo="https://lo1.in/exyu/arensp6.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 6 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/42843
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 1X2 HD SR" tvg-logo="https://lo1.in/exyu/arensp12.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 1X2 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/42844
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - SPORT KLUB 4 HD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl4.png" group-title="?EXYU | SPORT",EXYU - SPORT KLUB 4 HD SR [ LIVE EVENTS ]
-http://mytv-extra.com:88/3530943489/9761432288/42847
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - SPORT KLUB 5 HD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl5.png" group-title="?EXYU | SPORT",EXYU - SPORT KLUB 5 HD SR [ LIVE EVENTS ]
-http://mytv-extra.com:88/3530943489/9761432288/42846
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - SPORT KLUB 6 HD SR [ LIVE EVENTS ]" tvg-logo="https://lo1.in/exyu/spkl6.png" group-title="?EXYU | SPORT",EXYU - SPORT KLUB 6 HD SR [ LIVE EVENTS ]
-http://mytv-extra.com:88/3530943489/9761432288/42845
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - SPORT KLUB ESPORT HD SR" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="?EXYU | SPORT",EXYU - SPORT KLUB ESPORT HD SR
-http://mytv-extra.com:88/3530943489/9761432288/42848
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - SPORT KLUB FIGHT HD HR" tvg-logo="https://lo1.in/exyu/spkl.png" group-title="?EXYU | SPORT",EXYU - SPORT KLUB FIGHT HD HR
-http://mytv-extra.com:88/3530943489/9761432288/42849
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 2 HD BIH" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 2 HD BIH
-http://mytv-extra.com:88/3530943489/9761432288/46572
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 3 HD BIH" tvg-logo="https://lo1.in/exyu/arensp3.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 3 HD BIH
-http://mytv-extra.com:88/3530943489/9761432288/46571
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 4 HD BIH" tvg-logo="https://lo1.in/exyu/arensp4.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 4 HD BIH
-http://mytv-extra.com:88/3530943489/9761432288/46570
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA 1 PREMIUM FHD SR [BK]" tvg-logo="https://lo1.in/exyu/aren1pr.png" group-title="?EXYU | SPORT",EXYU - ARENA 1 PREMIUM FHD SR [BK]
-http://mytv-extra.com:88/3530943489/9761432288/400451874
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA 2 PREMIUM FHD SR [BK]" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",EXYU - ARENA 2 PREMIUM FHD SR [BK]
-http://mytv-extra.com:88/3530943489/9761432288/400451873
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA 3 PREMIUM FHD SR [BK]" tvg-logo="https://lo1.in/exyu/aren3pr.png" group-title="?EXYU | SPORT",EXYU - ARENA 3 PREMIUM FHD SR [BK]
-http://mytv-extra.com:88/3530943489/9761432288/400451872
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458769
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401458765
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401436902
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401436901
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401436894
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/arensp1.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401436888
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/exyu/aren1pr.png" group-title="?EXYU | SPORT",
-http://mytv-extra.com:88/3530943489/9761432288/401436882
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 1 HD SI" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 1 HD SI
-http://mytv-extra.com:88/3530943489/9761432288/121434
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 2 HD SI" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 2 HD SI
-http://mytv-extra.com:88/3530943489/9761432288/121433
-#EXTINF:-1 tvg-id="" tvg-name="US - Big Brother 2023 3 FHD" tvg-logo="https://lo1.in/exyu/aren3pr.png" group-title="?EXYU | SPORT",US - Big Brother 2023 3 FHD
-http://mytv-extra.com:88/3530943489/9761432288/47350
-#EXTINF:-1 tvg-id="" tvg-name="US - Big Brother 2023 2 FHD" tvg-logo="https://lo1.in/exyu/arensp2.png" group-title="?EXYU | SPORT",US - Big Brother 2023 2 FHD
-http://mytv-extra.com:88/3530943489/9761432288/47349
-#EXTINF:-1 tvg-id="" tvg-name="US - Big Brother 2023 1 FHD" tvg-logo="https://lo1.in/exyu/aren1pr.png" group-title="?EXYU | SPORT",US - Big Brother 2023 1 FHD
-http://mytv-extra.com:88/3530943489/9761432288/47348
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 7 HD SR" tvg-logo="https://lo1.in/exyu/arenasp7.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 7 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/38030
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 8 HD SR" tvg-logo="https://lo1.in/exyu/arensp8.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 8 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/38029
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 9 HD SR" tvg-logo="https://lo1.in/exyu/arensp9.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 9 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/38028
-#EXTINF:-1 tvg-id="" tvg-name="EXYU - ARENA SPORT 10 HD SR" tvg-logo="https://lo1.in/exyu/arenasp10.png" group-title="?EXYU | SPORT",EXYU - ARENA SPORT 10 HD SR
-http://mytv-extra.com:88/3530943489/9761432288/38027
-#EXTINF:-1 tvg-id="" tvg-name="#### EXYU ARENA SPORT ####" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | SPORT",#### EXYU ARENA SPORT ####
-http://mytv-extra.com:88/3530943489/9761432288/10485
+#EXTINF:-1,EX-YU: Arena Sport 1 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80309
+#EXTINF:-1,EX-YU: Arena Sport 2 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80310
+#EXTINF:-1,EX-YU: Arena Sport 3 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80311
+#EXTINF:-1,EX-YU: Arena Sport 4 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80312
+#EXTINF:-1,EX-YU: Arena Sport 5 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80313
+#EXTINF:-1,EX-YU: Arena Sport 6 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80314
+#EXTINF:-1,EX-YU: Arena Sport 7 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80315
+#EXTINF:-1,EX-YU: Arena Sport 8 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80316
+#EXTINF:-1,EX-YU: Arena Sport 9 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80317
+#EXTINF:-1,EX-YU: Arena Sport 10 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80318
+#EXTINF:-1,EX-YU: Sport Klub Fight Croatia  ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80333
+#EXTINF:-1,EX-YU: Sport Klub 1 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80336
+#EXTINF:-1,EX-YU: Sport Klub 2 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80337
+#EXTINF:-1,EX-YU: Sport Klub 3 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80338
+#EXTINF:-1,EX-YU: Sport Klub 4 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80339
+#EXTINF:-1,EX-YU: Sport Klub 4 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80340
+#EXTINF:-1,EX-YU: Sport Klub 5 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80341
+#EXTINF:-1,EX-YU: Sport Klub 6 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80342
+#EXTINF:-1,EX-YU: Arena Sport 1 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80349
+#EXTINF:-1,EX-YU: Arena Sport 2 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80350
+#EXTINF:-1,EX-YU: Arena Sport 3 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80351
+#EXTINF:-1,EX-YU: Arena Sport 4 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80352
+#EXTINF:-1,EX-YU: Arena Sport 5 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80353
+#EXTINF:-1,EX-YU: Arena Sport 6 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80354
+#EXTINF:-1,EX-YU: Arena Sport 7 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80355
+#EXTINF:-1,EX-YU: Arena Sport 8 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80356
+#EXTINF:-1,EX-YU: Arena Sport 1x2 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80322
+#EXTINF:-1,EX-YU: Arena Fight SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80323
+#EXTINF:-1,EX-YU: Arena ESports SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80324
+#EXTINF:-1,EX-YU: Sport Klub 1 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80325
+#EXTINF:-1,EX-YU: Sport Klub 2 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80326
+#EXTINF:-1,EX-YU: Sport Klub 3 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80327
+#EXTINF:-1,EX-YU: Sport Klub 4 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80328
+#EXTINF:-1,EX-YU: Sport Klub 5 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80329
+#EXTINF:-1,EX-YU: Sport Klub 6 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80330
+#EXTINF:-1,EX-YU: Sport Klub 7 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80331
+#EXTINF:-1,EX-YU: Sport Klub 8 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80332
+#EXTINF:-1,EX-YU: Sport Klub Golf SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80335
+#EXTINF:-1,EX-YU: Sport Klub ESport SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/80334
+#EXTINF:-1,EX-YU: Arena Sport 5 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1458
+#EXTINF:-1,EX-YU: Sport Klub 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1718
+#EXTINF:-1,EX-YU: Sport Klub 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1719
+#EXTINF:-1,EX-YU: Sport Klub 3 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1720
+#EXTINF:-1,EX-YU: Sport Klub 5 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2934
+#EXTINF:-1,EX-YU: Sport Klub 6 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2935
+#EXTINF:-1,EX-YU: Sport Klub Golf ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/11028
+#EXTINF:-1,SLO: SPORT KLUB 1 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/59569
+#EXTINF:-1,SLO: SPORT KLUB 2 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/59570
+#EXTINF:-1,SLO: SPORT KLUB 3 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/59571
+#EXTINF:-1,SLO: SPORT KLUB 4 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/59572
+#EXTINF:-1,CRO: ======== CROATIAN ========
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13935
+#EXTINF:-1,CRO: HRT 1 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1618
+#EXTINF:-1,CRO: HRT 2 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1619
+#EXTINF:-1,CRO: HRT 3 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1620
+#EXTINF:-1,CRO: HRT 4 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1621
+#EXTINF:-1,CRO: HRT  International HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13250
+#EXTINF:-1,CRO: NOVA TV
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2801
+#EXTINF:-1,CRO: NOVA TV HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1622
+#EXTINF:-1,CRO: NOVA HR HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22144
+#EXTINF:-1,CRO: RTL
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/10859
+#EXTINF:-1,CRO: RTL 2
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1636
+#EXTINF:-1,CRO: RTL Living
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1637
+#EXTINF:-1,CRO: RTL Passion
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13936
+#EXTINF:-1,CRO: RTL CRIME
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2804
+#EXTINF:-1,CRO: RTL KOCKICA
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2920
+#EXTINF:-1,CRO: CINESTAR TV 1
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2882
+#EXTINF:-1,CRO: CINESTAR ACTION
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1609
+#EXTINF:-1,CRO: Cinestar Premier 1
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1610
+#EXTINF:-1,CRO: Cinestar Premier 2
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1611
+#EXTINF:-1,CRO: CINESTAR FANTASY
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/7929
+#EXTINF:-1,CRO: CINEMAX-1
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2885
+#EXTINF:-1,CRO: CINEMAX-2
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2886
+#EXTINF:-1,CRO: Doma TV HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1613
+#EXTINF:-1,CRO: DIVA
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2795
+#EXTINF:-1,CRO: TV Banovina
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2806
+#EXTINF:-1,CRO: CMC
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2861
+#EXTINF:-1,CRO: FilmBox Plus
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2877
+#EXTINF:-1,CRO: HBO Adria
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2879
+#EXTINF:-1,CRO: FilmBox Extra
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2893
+#EXTINF:-1,CRO: Viasat Nature
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2906
+#EXTINF:-1,CRO: Viasat History
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13933
+#EXTINF:-1,CRO: Viasat Explorer
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13934
+#EXTINF:-1,CRO: MAX SPORT 2
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22178
+#EXTINF:-1,CRO: Aurora Tv
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/60727
+#EXTINF:-1,CRO: Kreator TV
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22177
+#EXTINF:-1,CRO: SPORTSKA TV SPTV
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22176
+#EXTINF:-1,CRO: DOKU TV ADRIA
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22170
+#EXTINF:-1,CRO: Travel Channel Adria
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22169
+#EXTINF:-1,CRO: AXN Adria
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2891
+#EXTINF:-1,CRO: AXN SPIN
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2813
+#EXTINF:-1,CRO: AXN SPIN Adria
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/21720
+#EXTINF:-1,CRO: N1 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13667
+#EXTINF:-1,EX-YU: Balkanika ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1721
+#EXTINF:-1,EX-YU: Cinemania ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/21012
+#EXTINF:-1,EX-YU: Crime & Investigation ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2910
+#EXTINF:-1,EX-YU: Da Vinci Learning ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2911
+#EXTINF:-1,EX-YU: Discovery Science ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/21721
+#EXTINF:-1,EX-YU: DM Sat ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1612
+#EXTINF:-1,EX-YU: Docubox
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2916
+#EXTINF:-1,EX-YU: E! ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2907
+#EXTINF:-1,EX-YU: Eurosport 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2948
+#EXTINF:-1,EX-YU: Eurosport 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2949
+#EXTINF:-1,EX-YU: Fightbox ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2950
+#EXTINF:-1,EX-YU: Filmbox ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/25411
+#EXTINF:-1,EX-YU: Fox Crime ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2889
+#EXTINF:-1,EX-YU: FOX ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22146
+#EXTINF:-1,EX-YU: Fox Life ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1615
+#EXTINF:-1,EX-YU: Fox Movies ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2888
+#EXTINF:-1,EX-YU: Fox Movies ᶠᴴᴰ (HR SUB)
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/13759
+#EXTINF:-1,EX-YU: Grand TV ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2859
+#EXTINF:-1,EX-YU: Happy ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2756
+#EXTINF:-1,EX-YU: Happy Parovi 24/7 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/9594
+#EXTINF:-1,EX-YU: HBO ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2743
+#EXTINF:-1,EX-YU: HBO 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2880
+#EXTINF:-1,EX-YU: HBO 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2744
+#EXTINF:-1,EX-YU: HBO 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/954
+#EXTINF:-1,EX-YU: HBO 3 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2881
+#EXTINF:-1,EX-YU: History 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2901
+#EXTINF:-1,EX-YU: History Channel ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2900
+#EXTINF:-1,EX-YU: IDJ Tv ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22660
+#EXTINF:-1,EX-YU: Izvorna TV ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2860
+#EXTINF:-1,EX-YU: KCN 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2850
+#EXTINF:-1,EX-YU: KCN 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2851
+#EXTINF:-1,EX-YU: KCN 3 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2852
+#EXTINF:-1,EX-YU: Kino Tv ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/21013
+#EXTINF:-1,EX-YU: Klasik Tv ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2875
+#EXTINF:-1,EX-YU: Lov Ribolov ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2898
+#EXTINF:-1,EX-YU: M1 Film ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/21679
+#EXTINF:-1,EX-YU: M1 Gold ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/23649
+#EXTINF:-1,EX-YU: Mini TV ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2925
+#EXTINF:-1,EX-YU: Mini TV HR ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2926
+#EXTINF:-1,EX-YU: Minimax ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2922
+#EXTINF:-1,EX-YU: Nasa Tv ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/25447
+#EXTINF:-1,EX-YU: NAT Geo Wild ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22919
+#EXTINF:-1,EX-YU: National Geographic ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2902
+#EXTINF:-1,EX-YU: National Geographic ᶠᴴᴰ(HR)
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22058
+#EXTINF:-1,EX-YU: O2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2753
+#EXTINF:-1,EX-YU: PAROVI 24 Sata ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/25434
+#EXTINF:-1,EX-YU: Partizan ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/9398
+#EXTINF:-1,EX-YU: Pikaboo ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/22665
+#EXTINF:-1,EX-YU: Pink ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1004
+#EXTINF:-1,EX-YU: Pink 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2759
+#EXTINF:-1,EX-YU: Pink 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1005
+#EXTINF:-1,EX-YU: Pink 3 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2761
+#EXTINF:-1,EX-YU: Pink M ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/34396
+#EXTINF:-1,EX-YU: Pink Action ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1006
+#EXTINF:-1,EX-YU: Pink Classic ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14326
+#EXTINF:-1,EX-YU: Pink Comedy ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1008
+#EXTINF:-1,EX-YU: Pink Crime & Mystery ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1684
+#EXTINF:-1,EX-YU: Pink Extra ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1009
+#EXTINF:-1,EX-YU: Pink Family ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14328
+#EXTINF:-1,EX-YU: Pink Film ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1011
+#EXTINF:-1,EX-YU: Pink Folk ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2869
+#EXTINF:-1,EX-YU: Pink Folk 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2870
+#EXTINF:-1,EX-YU: Pink HaHa ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14324
+#EXTINF:-1,EX-YU: Pink Hits 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2866
+#EXTINF:-1,EX-YU: Pink Horror ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1012
+#EXTINF:-1,EX-YU: Pink Kids ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2919
+#EXTINF:-1,EX-YU: Pink Koncert ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2865
+#EXTINF:-1,EX-YU: Pink Kuvar ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2913
+#EXTINF:-1,EX-YU: Pink LoL ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14325
+#EXTINF:-1,EX-YU: Pink Media ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/21697
+#EXTINF:-1,EX-YU: Pink Movies ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1013
+#EXTINF:-1,EX-YU: Pink Music ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2867
+#EXTINF:-1,EX-YU: Pink Pedia ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1014
+#EXTINF:-1,EX-YU: Pink Plus TV ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2772
+#EXTINF:-1,EX-YU: Pink Premium ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1626
+#EXTINF:-1,EX-YU: Pink Reality ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/11452
+#EXTINF:-1,EX-YU: Pink Romance ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1628
+#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1629
+#EXTINF:-1,EX-YU: Pink Serije ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1630
+#EXTINF:-1,EX-YU: Pink Show ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2872
+#EXTINF:-1,EX-YU: Pink Soap ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2894
+#EXTINF:-1,EX-YU: Pink Super Kids ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2918
+#EXTINF:-1,EX-YU: Pink Thriller ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1631
+#EXTINF:-1,EX-YU: Pink Western ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1632
+#EXTINF:-1,EX-YU: Pink World ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2914
+#EXTINF:-1,EX-YU: Pink World Cinema ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14327
+#EXTINF:-1,EX-YU: Pink Zabava ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2912
+#EXTINF:-1,SLO: Planet Tv ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/9306
+#EXTINF:-1,EX-YU: Pop Oto ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2843
+#EXTINF:-1,EX-YU: Roma Tv ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/4120
+#EXTINF:-1,EX-YU: RT Vojvodina 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2763
+#EXTINF:-1,EX-YU: RTS Trezor ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14353
+#EXTINF:-1,EX-YU: RTS Zivot ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/14354
+#EXTINF:-1,EX-YU: RTV Bor ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/23098
+#EXTINF:-1,EX-YU: RTV Novi Pazar ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2768
+#EXTINF:-1,EX-YU: Sobraniski Kanal ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2828
+#EXTINF:-1,EX-YU: SOS ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2929
+#EXTINF:-1,EX-YU: Studio B ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2762
+#EXTINF:-1,EX-YU: TLC (local) ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2908
+#EXTINF:-1,EX-YU: TV 1000 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2876
+#EXTINF:-1,EX-YU: TV Nasha ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2831
+#EXTINF:-1,EX-YU: Z1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2807
+#EXTINF:-1,EX-YU: Nova Sport ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/53499
+#EXTINF:-1,EX-YU: Maxcro Select 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29958
+#EXTINF:-1,EX-YU: Maxcro Select 2 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29959
+#EXTINF:-1,EX-YU:  Maxcro Select 3 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29960
+#EXTINF:-1,EX-YU: Maxcro Select 4 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29961
+#EXTINF:-1,EX-YU: Maxcro Select 5 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29962
+#EXTINF:-1,EX-YU:  Maxcro Select 6 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29963
+#EXTINF:-1,EX-YU: Maxcro Select 8 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29965
+#EXTINF:-1,EX-YU: Maxcro Select 9 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29966
+#EXTINF:-1,EX-YU: Maxcro Select 10 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/29967
+#EXTINF:-1,MNE: TV Vijesti ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/7746
+#EXTINF:-1,MK: Sportska TV
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/10713
+#EXTINF:-1,EX-YU: Pop Brio ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/2844
+#EXTINF:-1,CRO: TV Nova Pula HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/60731
+#EXTINF:-1,CRO: TV Jadran
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/60732
+#EXTINF:-1,CRO: TV Zapad HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/60729
+#EXTINF:-1,EX-YU: RTS 1 ᶠᴴᴰ
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/77137
+#EXTINF:-1,BH: BN
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1606
+#EXTINF:-1,UK: TNT SPORTS 10 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88650
+#EXTINF:-1,UK: TNT SPORTS 9 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88649
+#EXTINF:-1,UK: TNT SPORTS 8 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88648
+#EXTINF:-1,UK: TNT SPORTS 7 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88647
+#EXTINF:-1,UK: TNT SPORTS 6 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88646
+#EXTINF:-1,UK: TNT SPORTS 5 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88645
+#EXTINF:-1,UK: TNT SPORTS 4 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88644
+#EXTINF:-1,UK: TNT SPORTS 3 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88643
+#EXTINF:-1,UK: TNT SPORTS 2 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88642
+#EXTINF:-1,UK: TNT SPORTS 1 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/88641
+#EXTINF:-1,UK: PICK TV
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/77887
+#EXTINF:-1,UK: BBC one FHD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1838
+#EXTINF:-1,UK: BBC two HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1839
+#EXTINF:-1,UK: BBC FOUR HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1745
+#EXTINF:-1,UK: BBC World News FHD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1841
+#EXTINF:-1,UK: SKY Nature
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/878
+#EXTINF:-1,UK:  DOCUMENTARIES HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1783
+#EXTINF:-1,UK: BBC CBeebies HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/23027
+#EXTINF:-1,UK: ITV 1 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1267
+#EXTINF:-1,UK: ITV 2 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1266
+#EXTINF:-1,UK: ITV 3 HD
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1265
+#EXTINF:-1,UK: ITV 4
+http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1264
