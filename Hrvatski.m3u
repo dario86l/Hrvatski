@@ -265,3 +265,241 @@ http://mytv-extra.com:88/3530943489/9761432288/161153
 http://mytv-extra.com:88/3530943489/9761432288/161149
 #EXTINF:-1 tvg-id="" tvg-name="HR - LIBERTAS TV" tvg-logo="https://lo1.in/exyu/liber.png" group-title="?EXYU | CROATIA",HR - LIBERTAS TV
 http://mytv-extra.com:88/3530943489/9761432288/161154
+#EXTINF:-1 tvg-id="35" tvg-name="HRT 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA" ,HRT 1
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/35
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA" ,HRT 1 (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28283
+#EXTINF:-1 tvg-id="33" tvg-name="HRT 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA" ,HRT 2
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/33
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/htv2-logo.png" group-title="HRVATSKA" ,HRT 2 (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28284
+#EXTINF:-1 tvg-id="31" tvg-name="HRT 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA" ,HRT 3
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/31
+#EXTINF:-1 tvg-id="htv3" tvg-name="HRT 3 (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRT3_logo.png" group-title="HRVATSKA" ,HRT 3 (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28285
+#EXTINF:-1 tvg-id="30" tvg-name="HRT 4 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA" ,HRT 4 HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/30
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRT4-logo.png" group-title="HRVATSKA" ,HRT 4 (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29129
+#EXTINF:-1 tvg-id="29" tvg-name="HRT Int." tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/HRTint_logo.png" group-title="HRVATSKA" ,HRT Int.
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29
+#EXTINF:-1 tvg-id="" tvg-name="HRT DOCUMENTARY" tvg-logo="http://tv.luzer.org:8080/images/6561ab0e65b95504341ac54555fc334a.png" group-title="HRVATSKA" ,HRT DOCUMENTARY
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29228
+#EXTINF:-1 tvg-id="24" tvg-name="DOMA TV HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/doma.png" group-title="HRVATSKA" ,DOMA TV HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/24
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/doma.png" group-title="HRVATSKA" ,DOMA TV (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28212
+#EXTINF:-1 tvg-id="27" tvg-name="NOVA TV HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA" ,NOVA TV HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/27
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA" ,NOVA TV (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28286
+#EXTINF:-1 tvg-id="29066" tvg-name="NOVA CINEMA HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Nova_Cinema_logo.png" group-title="HRVATSKA" ,NOVA CINEMA HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29066
+#EXTINF:-1 tvg-id="29171" tvg-name="NOVA PREMIUM" tvg-logo="http://tv.luzer.org:8080/images/1a76a8849d298c77b6ca301575710903.png" group-title="HRVATSKA" ,NOVA PREMIUM
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29171
+#EXTINF:-1 tvg-id="29106" tvg-name="NOVA FAMILY HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Nova_Family_logo.png" group-title="HRVATSKA" ,NOVA FAMILY HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29106
+#EXTINF:-1 tvg-id="29364" tvg-name="NOVA PLUS HD" tvg-logo="" group-title="HRVATSKA" ,NOVA PLUS HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29364
+#EXTINF:-1 tvg-id="29107" tvg-name="NOVA WORLD HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/nova-world_logo.png" group-title="HRVATSKA" ,NOVA WORLD HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29107
+#EXTINF:-1 tvg-id="" tvg-name="NOVA DOCUMENTARY" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA" ,NOVA DOCUMENTARY
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29182
+#EXTINF:-1 tvg-id="" tvg-name="NOVA DOCUMENTARY 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA" ,NOVA DOCUMENTARY 2
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29183
+#EXTINF:-1 tvg-id="28" tvg-name="N1 HR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/n1-logo.png" group-title="HRVATSKA" ,N1 HR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28
+#EXTINF:-1 tvg-id="21" tvg-name="RTL" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL.png" group-title="HRVATSKA" ,RTL
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/21
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL HD (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL.png" group-title="HRVATSKA" ,RTL HD (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28272
+#EXTINF:-1 tvg-id="20" tvg-name="RTL 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA" ,RTL 2
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/20
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA" ,RTL 2 (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28287
+#EXTINF:-1 tvg-id="17" tvg-name="RTL LIVING HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA" ,RTL LIVING HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/17
+#EXTINF:-1 tvg-id="16" tvg-name="RTL PASSION HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA" ,RTL PASSION HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/16
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA" ,RTL PASSION (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28312
+#EXTINF:-1 tvg-id="18" tvg-name="RTL CRIME HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA" ,RTL CRIME HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/18
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Crime_logo.png" group-title="HRVATSKA" ,RTL CRIME (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28503
+#EXTINF:-1 tvg-id="19" tvg-name="RTL ADRIA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Adria_2020.png" group-title="HRVATSKA" ,RTL ADRIA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/19
+#EXTINF:-1 tvg-id="28095" tvg-name="RTL CROATIA WORLD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTL_Croatia_World_logo.png" group-title="HRVATSKA" ,RTL CROATIA WORLD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28095
+#EXTINF:-1 tvg-id="29173" tvg-name="RTL PLAY PREMIUM" tvg-logo="http://tv.luzer.org:8080/images/0fec99f662358fb495ad92e88134208c.png" group-title="HRVATSKA" ,RTL PLAY PREMIUM
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29173
+#EXTINF:-1 tvg-id="7" tvg-name="JABUKA TV" tvg-logo="http://tv.luzer.org:8080/images/fb8474ec1653161d327ac8e888646b5b.png" group-title="HRVATSKA" ,JABUKA TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/7
+#EXTINF:-1 tvg-id="28102" tvg-name="KANAL RI" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA" ,KANAL RI
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28102
+#EXTINF:-1 tvg-id="29103" tvg-name="TV NOVA PULA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tv-nova-logo.png" group-title="HRVATSKA" ,TV NOVA PULA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29103
+#EXTINF:-1 tvg-id="28160" tvg-name="LAUDATO TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LaudatoTV_logo.png" group-title="HRVATSKA" ,LAUDATO TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28160
+#EXTINF:-1 tvg-id="12" tvg-name="LIBERTAS TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA" ,LIBERTAS TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/12
+#EXTINF:-1 tvg-id="6" tvg-name="OSJECKA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/ostv-logo.png" group-title="HRVATSKA" ,OSJECKA TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/6
+#EXTINF:-1 tvg-id="" tvg-name="SAMOBOR TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/samobortv.png" group-title="HRVATSKA" ,SAMOBOR TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29445
+#EXTINF:-1 tvg-id="28898" tvg-name="SB TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sbtv.jpg" group-title="HRVATSKA" ,SB TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28898
+#EXTINF:-1 tvg-id="8" tvg-name="POLJOPRIVREDNA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA" ,POLJOPRIVREDNA TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/8
+#EXTINF:-1 tvg-id="5" tvg-name="RTV BANOVINA" tvg-logo="http://tv.luzer.org:8080/images/564a0ea3063f1ca425da62c36a2f00c4.png" group-title="HRVATSKA" ,RTV BANOVINA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/5
+#EXTINF:-1 tvg-id="28097" tvg-name="SLAVONSKA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/stv-logo.png" group-title="HRVATSKA" ,SLAVONSKA TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28097
+#EXTINF:-1 tvg-id="28098" tvg-name="TREND TV KARLOVAC" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA" ,TREND TV KARLOVAC
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28098
+#EXTINF:-1 tvg-id="28100" tvg-name="TV JADRAN" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA" ,TV JADRAN
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28100
+#EXTINF:-1 tvg-id="28973" tvg-name="TV DALMACIJA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MrezaST_HR_logo.png" group-title="HRVATSKA" ,TV DALMACIJA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28973
+#EXTINF:-1 tvg-id="28161" tvg-name="TV MEDJUGORJE" tvg-logo="http://tv.luzer.org:8080/images/0b80b52c367bf1dd8f1b2abda23825e5.jpg" group-title="HRVATSKA" ,TV MEDJUGORJE
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28161
+#EXTINF:-1 tvg-id="28101" tvg-name="VINKOVACKA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="HRVATSKA" ,VINKOVACKA TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28101
+#EXTINF:-1 tvg-id="" tvg-name="MARY TV VISION" tvg-logo="http://tv.luzer.org:8080/images/0b80b52c367bf1dd8f1b2abda23825e5.jpg" group-title="HRVATSKA" ,MARY TV VISION
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29624
+#EXTINF:-1 tvg-id="13" tvg-name="DUBROVNIK TV DUTV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA" ,DUBROVNIK TV DUTV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/13
+#EXTINF:-1 tvg-id="4" tvg-name="VTV VARAZDIN" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/vtv-logo.png" group-title="HRVATSKA" ,VTV VARAZDIN
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/4
+#EXTINF:-1 tvg-id="28564" tvg-name="MREZA ZAGREB" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MrezaZG_logo.png" group-title="HRVATSKA" ,MREZA ZAGREB
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28564
+#EXTINF:-1 tvg-id="28090" tvg-name="Z1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/z1-logo.png" group-title="HRVATSKA" ,Z1
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28090
+#EXTINF:-1 tvg-id="28096" tvg-name="ZDRAVA TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA" ,ZDRAVA TV
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28096
+#EXTINF:-1 tvg-id="29014" tvg-name="CRO TV HD" tvg-logo="http://tv.luzer.org:8080/images/7c9425de8b5c584e8a3b23d1c4aca2fc.png" group-title="HRVATSKA" ,CRO TV HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29014
+#EXTINF:-1 tvg-id="" tvg-name="TELEVIZIJA ZELINA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/TV_Zelina_HR_logo.png" group-title="HRVATSKA" ,TELEVIZIJA ZELINA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29446
+#EXTINF:-1 tvg-id="29234" tvg-name="M-AX SPORT 1 FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/max_sport1_BG_logo.png" group-title="SPORT EXYU" ,M-AX SPORT 1 FHD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29234
+#EXTINF:-1 tvg-id="maxsport-1" tvg-name="M-AX SPORT 1 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/max_sport1_BG_logo.png" group-title="SPORT EXYU" ,M-AX SPORT 1 HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29288
+#EXTINF:-1 tvg-id="29235" tvg-name="M-AX SPORT 2 FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png" group-title="SPORT EXYU" ,M-AX SPORT 2 FHD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29235
+#EXTINF:-1 tvg-id="maxsport-2" tvg-name="M-AX SPORT 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/MAX_Sport_2_BG_logo.png" group-title="SPORT EXYU" ,M-AX SPORT 2 HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29289
+#EXTINF:-1 tvg-id="26689" tvg-name="MOJA TV PREMIER LIGA" tvg-logo="http://tv.luzer.org:8080/images/76a5dd322eeb5637ee0b0efeb7015434.jpg" group-title="SPORT EXYU" ,MOJA TV PREMIER LIGA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/26689
+#EXTINF:-1 tvg-id="29065" tvg-name="AS 1X2 FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_1x2_RS_logo.png" group-title="SPORT EXYU" ,AS 1X2 FHD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29065
+#EXTINF:-1 tvg-id="28974" tvg-name="AS PREMIUM 1 FHD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT EXYU" ,AS PREMIUM 1 FHD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28974
+#EXTINF:-1 tvg-id="arena-sport-1-premium" tvg-name="AS PREMIUM 1 FHD BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png" group-title="SPORT EXYU" ,AS PREMIUM 1 FHD BA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29140
+#EXTINF:-1 tvg-id="28975" tvg-name="AS PREMIUM 2 FHD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT EXYU" ,AS PREMIUM 2 FHD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28975
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="AS PREMIUM 2 FHD BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_Premium_RS_logo.png" group-title="SPORT EXYU" ,AS PREMIUM 2 FHD BA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29141
+#EXTINF:-1 tvg-id="28976" tvg-name="AS PREMIUM 3 FHD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="SPORT EXYU" ,AS PREMIUM 3 FHD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28976
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="AS PREMIUM 3 FHD BA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="SPORT EXYU" ,AS PREMIUM 3 FHD BA
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29142
+#EXTINF:-1 tvg-id="1217" tvg-name="AS 1 BH HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo.png" group-title="SPORT EXYU" ,AS 1 BH HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1217
+#EXTINF:-1 tvg-id="arena-sport-1-bih.sport" tvg-name="AS 1 BIH (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo.png" group-title="SPORT EXYU" ,AS 1 BIH (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28302
+#EXTINF:-1 tvg-id="29634" tvg-name="AS 2 BH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT EXYU" ,AS 2 BH
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29634
+#EXTINF:-1 tvg-id="29635" tvg-name="AS 3 BH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="SPORT EXYU" ,AS 3 BH
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29635
+#EXTINF:-1 tvg-id="29636" tvg-name="AS 4 BH" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="SPORT EXYU" ,AS 4 BH
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29636
+#EXTINF:-1 tvg-id="1223" tvg-name="AS 1 HR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT EXYU" ,AS 1 HR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1223
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr" tvg-name="AS 1 HR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORT EXYU" ,AS 1 HR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28307
+#EXTINF:-1 tvg-id="1221" tvg-name="AS 2 HR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT EXYU" ,AS 2 HR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1221
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="AS 2 HR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORT EXYU" ,AS 2 HR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28308
+#EXTINF:-1 tvg-id="1222" tvg-name="AS 3 HR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT EXYU" ,AS 3 HR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1222
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="AS 3 HR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORT EXYU" ,AS 3 HR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28309
+#EXTINF:-1 tvg-id="1220" tvg-name="AS 4 HR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORT EXYU" ,AS 4 HR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1220
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="AS 4 HR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORT EXYU" ,AS 4 HR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28310
+#EXTINF:-1 tvg-id="1219" tvg-name="AS 5 HR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT EXYU" ,AS 5 HR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1219
+#EXTINF:-1 tvg-id="arena-sport-5-hr" tvg-name="AS 5 HR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORT EXYU" ,AS 5 HR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28311
+#EXTINF:-1 tvg-id="28520" tvg-name="AS 6 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="SPORT EXYU" ,AS 6 HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28520
+#EXTINF:-1 tvg-id="28516" tvg-name="AS 7 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORT EXYU" ,AS 7 HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28516
+#EXTINF:-1 tvg-id="28517" tvg-name="AS 8 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORT EXYU" ,AS 8 HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28517
+#EXTINF:-1 tvg-id="28518" tvg-name="AS 9 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT EXYU" ,AS 9 HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28518
+#EXTINF:-1 tvg-id="28519" tvg-name="AS 10 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT EXYU" ,AS 10 HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28519
+#EXTINF:-1 tvg-id="1216" tvg-name="AS 1 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="SPORT EXYU" ,AS 1 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1216
+#EXTINF:-1 tvg-id="tv-arena-sport-1" tvg-name="AS 1 SR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="SPORT EXYU" ,AS 1 SR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28271
+#EXTINF:-1 tvg-id="1215" tvg-name="AS 2 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SPORT EXYU" ,AS 2 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1215
+#EXTINF:-1 tvg-id="tv-arena-sport-2" tvg-name="AS 2 SR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SPORT EXYU" ,AS 2 SR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28303
+#EXTINF:-1 tvg-id="1214" tvg-name="AS 3 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="SPORT EXYU" ,AS 3 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1214
+#EXTINF:-1 tvg-id="tv-arena-sport-3" tvg-name="AS 3 SR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="SPORT EXYU" ,AS 3 SR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28304
+#EXTINF:-1 tvg-id="1213" tvg-name="AS 4 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="SPORT EXYU" ,AS 4 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1213
+#EXTINF:-1 tvg-id="" tvg-name="AS 4 SR (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="SPORT EXYU" ,AS 4 SR (L2)
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28305
+#EXTINF:-1 tvg-id="1208" tvg-name="AS 5 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_5_RS_logo.png" group-title="SPORT EXYU" ,AS 5 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1208
+#EXTINF:-1 tvg-id="29205" tvg-name="AS 6 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_6_RS_logo.png" group-title="SPORT EXYU" ,AS 6 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29205
+#EXTINF:-1 tvg-id="29206" tvg-name="AS 7 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_7_RS_logo.png" group-title="SPORT EXYU" ,AS 7 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29206
+#EXTINF:-1 tvg-id="29207" tvg-name="AS 8 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_RS_logo.png" group-title="SPORT EXYU" ,AS 8 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29207
+#EXTINF:-1 tvg-id="29338" tvg-name="AS 9 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORT EXYU" ,AS 9 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29338
+#EXTINF:-1 tvg-id="29339" tvg-name="AS 10 SR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORT EXYU" ,AS 10 SR HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/29339
+#EXTINF:-1 tvg-id="1206" tvg-name="SK HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="SPORT EXYU" ,SK HD
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1206
+#EXTINF:-1 tvg-id="1205" tvg-name="SK 1 HD HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="SPORT EXYU" ,SK 1 HD HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1205
+#EXTINF:-1 tvg-id="1204" tvg-name="SK 2 HD HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="SPORT EXYU" ,SK 2 HD HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1204
+#EXTINF:-1 tvg-id="1203" tvg-name="SK 3 HD HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK3_HR_logo.png" group-title="SPORT EXYU" ,SK 3 HD HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1203
+#EXTINF:-1 tvg-id="1202" tvg-name="SK 4 HD HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK4_HR_logo.png" group-title="SPORT EXYU" ,SK 4 HD HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1202
+#EXTINF:-1 tvg-id="28249" tvg-name="SK 5 HR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK5_HR_logo.png" group-title="SPORT EXYU" ,SK 5 HR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28249
+#EXTINF:-1 tvg-id="1200" tvg-name="SK 1 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="SPORT EXYU" ,SK 1 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1200
+#EXTINF:-1 tvg-id="1199" tvg-name="SK 2 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="SPORT EXYU" ,SK 2 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1199
+#EXTINF:-1 tvg-id="1198" tvg-name="SK 3 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK3_HR_logo.png" group-title="SPORT EXYU" ,SK 3 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1198
+#EXTINF:-1 tvg-id="1197" tvg-name="SK 4 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK4_HR_logo.png" group-title="SPORT EXYU" ,SK 4 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1197
+#EXTINF:-1 tvg-id="1196" tvg-name="SK 5 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK5_HR_logo.png" group-title="SPORT EXYU" ,SK 5 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/1196
+#EXTINF:-1 tvg-id="28824" tvg-name="SK 6 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_6.png" group-title="SPORT EXYU" ,SK 6 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28824
+#EXTINF:-1 tvg-id="28825" tvg-name="SK 7 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_7.png" group-title="SPORT EXYU" ,SK 7 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28825
+#EXTINF:-1 tvg-id="28826" tvg-name="SK 8 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_8.png" group-title="SPORT EXYU" ,SK 8 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28826
+#EXTINF:-1 tvg-id="28827" tvg-name="SK 9 HD SR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/sk_9.png" group-title="SPORT EXYU" ,SK 9 HD SR
+http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/28827
