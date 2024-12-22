@@ -235,10 +235,6 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT 1 HEVC" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v1-NipABtG2YwHtCSWlQv9ElS3PDAYVjuVv0anjwjelwbFwhz5lXT5IQQg-aDsYz4.png" group-title="SVIP SPORTS",DE | SKY SPORT 1 HEVC
-http://445756402471935334.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935334.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 6 HD" tvg-logo="" group-title="SVIP SPORTS",DE: MAGENTA SPORT 6 HD
-http://445756402471935355.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935355.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA ESPORT (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4MnzmVJdUmItQOH5PeCCvap7B_bvaFQa16vgxVke_DoV_jfE1vDv1n9-9Ytqv3Gw54.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA ESPORT (SRB) FHD
 http://445756402471935406.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935406.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA FIGHT (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGyJGxO2yHOkwmjHPNLpE41_R6pvZDrwLcBr0hyGpKa5o.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA FIGHT (SRB) FHD
