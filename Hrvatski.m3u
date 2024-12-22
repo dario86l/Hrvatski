@@ -235,48 +235,6 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="##### EXYU -  CROATIA#####" tvg-logo="https://lo1.in/exyu/flg.png" group-title="?EXYU | CROATIA",##### EXYU -  CROATIA#####
-http://mytv-extra.com:88/3530943489/9761432288/400158917
-#EXTINF:-1 tvg-id="htvinternational.hr" tvg-name="HR - HRT INT" tvg-logo="https://lo1.in/exyu/hrtint.png" group-title="?EXYU | CROATIA",HR - HRT INT
-http://mytv-extra.com:88/3530943489/9761432288/161145
-#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HR - HRT 1 HD" tvg-logo="https://lo1.in/exyu/hrt1.png" group-title="?EXYU | CROATIA",HR - HRT 1 HD
-http://mytv-extra.com:88/3530943489/9761432288/161140
-#EXTINF:-1 tvg-id="htv2.hr" tvg-name="HR - HRT 2" tvg-logo="https://lo1.in/exyu/hrt2.png" group-title="?EXYU | CROATIA",HR - HRT 2
-http://mytv-extra.com:88/3530943489/9761432288/161141
-#EXTINF:-1 tvg-id="htv3.hr" tvg-name="HR - HRT 3" tvg-logo="https://lo1.in/exyu/hrt3.png" group-title="?EXYU | CROATIA",HR - HRT 3
-http://mytv-extra.com:88/3530943489/9761432288/161142
-#EXTINF:-1 tvg-id="htv4.hr" tvg-name="HR - HRT 4" tvg-logo="https://lo1.in/exyu/htr40.png" group-title="?EXYU | CROATIA",HR - HRT 4
-http://mytv-extra.com:88/3530943489/9761432288/161143
-#EXTINF:-1 tvg-id="novahd.hr" tvg-name="HR - NOVA 4K" tvg-logo="https://lo1.in/exyu/nov.png" group-title="?EXYU | CROATIA",HR - NOVA 4K
-http://mytv-extra.com:88/3530943489/9761432288/161178
-#EXTINF:-1 tvg-id="" tvg-name="HR - DOMA TV FHD" tvg-logo="https://lo1.in/exyu/domat.png" group-title="?EXYU | CROATIA",HR - DOMA TV FHD
-http://mytv-extra.com:88/3530943489/9761432288/400260633
-#EXTINF:-1 tvg-id="rtl.hr" tvg-name="HR - RTL" tvg-logo="https://lo1.in/exyu/rtl.png" group-title="?EXYU | CROATIA",HR - RTL
-http://mytv-extra.com:88/3530943489/9761432288/160787
-#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="HR - RTL 2 HD" tvg-logo="https://lo1.in/exyu/rtl2.png" group-title="?EXYU | CROATIA",HR - RTL 2 HD
-http://mytv-extra.com:88/3530943489/9761432288/161193
-#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-name="HR - RTL CRIME 4K" tvg-logo="https://lo1.in/exyu/rtlcri.png" group-title="?EXYU | CROATIA",HR - RTL CRIME 4K
-http://mytv-extra.com:88/3530943489/9761432288/161195
-#EXTINF:-1 tvg-id="rtlliving.hr" tvg-name="HR - RTL LIVING HD" tvg-logo="https://lo1.in/exyu/rtllv.png" group-title="?EXYU | CROATIA",HR - RTL LIVING HD
-http://mytv-extra.com:88/3530943489/9761432288/161197
-#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="HR - RTL PASSION HD" tvg-logo="https://lo1.in/exyu/rtlpas.png" group-title="?EXYU | CROATIA",HR - RTL PASSION HD
-http://mytv-extra.com:88/3530943489/9761432288/161198
-#EXTINF:-1 tvg-id="n1.hr" tvg-name="HR - N1 HD" tvg-logo="https://lo1.in/exyu/n1.png" group-title="?EXYU | CROATIA",HR - N1 HD
-http://mytv-extra.com:88/3530943489/9761432288/379698
-#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-name="HR - OSJECKA TV" tvg-logo="https://lo1.in/exyu/osjc.png" group-title="?EXYU | CROATIA",HR - OSJECKA TV
-http://mytv-extra.com:88/3530943489/9761432288/161182
-#EXTINF:-1 tvg-id="vinkovackatv.hr" tvg-name="HR - VINKOVACKA TV" tvg-logo="https://lo1.in/exyu/vinko1.png" group-title="?EXYU | CROATIA",HR - VINKOVACKA TV
-http://mytv-extra.com:88/3530943489/9761432288/161231
-#EXTINF:-1 tvg-id="" tvg-name="HR - BANOVINA TV" tvg-logo="https://lo1.in/exyu/banv0.png" group-title="?EXYU | CROATIA",HR - BANOVINA TV
-http://mytv-extra.com:88/3530943489/9761432288/174471
-#EXTINF:-1 tvg-id="z1.hr" tvg-name="HR - Z1 TV" tvg-logo="https://lo1.in/exyu/z1.png" group-title="?EXYU | CROATIA",HR - Z1 TV
-http://mytv-extra.com:88/3530943489/9761432288/174333
-#EXTINF:-1 tvg-id="laudatotv.hr" tvg-name="HR - LAUDATO TV" tvg-logo="https://lo1.in/exyu/laud.png" group-title="?EXYU | CROATIA",HR - LAUDATO TV
-http://mytv-extra.com:88/3530943489/9761432288/161153
-#EXTINF:-1 tvg-id="jabuka.hr" tvg-name="HR - JABUKA TV" tvg-logo="https://lo1.in/exyu/jabuk0.png" group-title="?EXYU | CROATIA",HR - JABUKA TV
-http://mytv-extra.com:88/3530943489/9761432288/161149
-#EXTINF:-1 tvg-id="" tvg-name="HR - LIBERTAS TV" tvg-logo="https://lo1.in/exyu/liber.png" group-title="?EXYU | CROATIA",HR - LIBERTAS TV
-http://mytv-extra.com:88/3530943489/9761432288/161154
 #EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT 1 HEVC" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v1-NipABtG2YwHtCSWlQv9ElS3PDAYVjuVv0anjwjelwbFwhz5lXT5IQQg-aDsYz4.png" group-title="SVIP SPORTS",DE | SKY SPORT 1 HEVC
 http://445756402471935334.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935334.ts
 #EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 6 HD" tvg-logo="" group-title="SVIP SPORTS",DE: MAGENTA SPORT 6 HD
