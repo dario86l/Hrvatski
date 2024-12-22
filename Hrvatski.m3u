@@ -79,7 +79,20 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/chunklist_b1428000.m3u8
 #EXTINF:-1,(BIH) BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png" group-title="No group" tvg-id="" tvg-name="", RTL HR
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png" group-title="No group" tvg-id="" tvg-name="", HRT 1
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png" group-title="No group" tvg-id="" tvg-name="", HRT 2
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnkDGpc/hrthr.png" group-title="No group" tvg-id="" tvg-name="", HRT 3
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" group-title="No group" tvg-id="" tvg-name="", RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" group-title="No group" tvg-id="" tvg-name="", RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJB71LL/pinktvrs.png" group-title="No group" tvg-id="" tvg-name="", PINK
+https://live.rednet.rs/providus/pink1.m3u8#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
