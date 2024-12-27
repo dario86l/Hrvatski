@@ -235,46 +235,6 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA ESPORT (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4MnzmVJdUmItQOH5PeCCvap7B_bvaFQa16vgxVke_DoV_jfE1vDv1n9-9Ytqv3Gw54.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA ESPORT (SRB) FHD
-http://445756402471935406.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935406.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA FIGHT (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGyJGxO2yHOkwmjHPNLpE41_R6pvZDrwLcBr0hyGpKa5o.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA FIGHT (SRB) FHD
-http://445756402471935407.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935407.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT (BIH) FHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT (BIH) FHD
-http://445756402471935408.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935408.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 1 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGC8BcyazGwKVhRXQ0WwaalNeKtor17HTq7qruPdT4T9M.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 1 (CRO) FHD
-http://445756402471935409.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935409.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 10 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGRVJ2egEW1XhhbzYMwMA7yYV-AGC6bJOX4AnKirnSfV0.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 10 (CRO) FHD
-http://445756402471935410.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935410.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 2 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGIi3FzwXQ31TrlDSJ2AooGoZS23B2S7o2A5Y51YqxSdU.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 2 (CRO) FHD
-http://445756402471935412.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935412.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 2 (SRB) FHD" tvg-logo="http://astrill.today:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63HWIAZj2-D2ActxrTyUeZII1Fg-8bWDvK5AI7lvD23s6oYMzeHgCnmvKJ6kkYkUX2n2oBokObza9b3wfecJkO7rBzX6jo8IQ8SzEOEneX6Rgw.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 2 (SRB) FHD
-http://445756402471935413.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935413.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 3 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGFwqgghp3qHOm2wPxp06eHt-DC9ltlGji2B3EJ6i-BGI.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 3 (CRO) FHD
-http://445756402471935414.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935414.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 3 (SRB) FHD" tvg-logo="http://astrill.today:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63HWIAZj2-D2ActxrTyUeZIIte1jsXNFuV-Rh2AFDmIZHVlGh3aTk9ex4OpiCtCOioZT51xDzXaviDJXMq0VmS7T4TUvLKg-vA95NBmynCXiCQ.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 3 (SRB) FHD
-http://445756402471935415.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935415.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 4 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGv4PYhz3vi9TZfl1xCX06XvVZJi7hDheeXccI0btH_E4.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 4 (CRO) FHD
-http://445756402471935416.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935416.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 4 (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG8SYrjMoL3JK6C4ts7PWdASv5c5CDM_j_CLKGq4oVmnA.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 4 (SRB) FHD
-http://445756402471935417.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935417.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 5 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG9r0AsyUVNu3121MtFjYxxdhYpapX5vwUgnb9oNf9-t8.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 5 (CRO) FHD
-http://445756402471935418.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935418.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 5 (SRB) FHD" tvg-logo="http://astrill.today:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKjUUTEH1v11aNZ8ZbJxbLUbclKeqTnIqdCQ0UlXUkAgeYtfepjrAQo4PvTfp-PW63HWIAZj2-D2ActxrTyUeZIIGkxvyWsYlePNvE5pefprJHxbezAX_iAkc2ZHGvEsQ0JvG7tqsrKmpfXf7BSextbqB_bAf8V-Ih9p2T6o1T9OhQ.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 5 (SRB) FHD
-http://445756402471935419.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935419.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 6 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGWyZSoyevPA8uFO5rpoBl2D4mo32xZTS73WVZweXGhiQ.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 6 (CRO) FHD
-http://445756402471935420.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935420.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 6 (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGQRH-Gb29QLNkmG3hw1Y9z30Z5wsx-CTmtjpGpDjBAuc.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 6 (SRB) FHD
-http://445756402471935421.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935421.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 7 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG60osn5t0u32V3NM3ftppjNI0IeQFtuPOgJFUy-_gaYA.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 7 (CRO) FHD
-http://445756402471935422.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935422.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 7 (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGy1TGgfpBSptvCRlgP81A2A9Zt8g_BojveQEsJW6bR2k.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 7 (SRB) FHD
-http://445756402471935423.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935423.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 8 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqG02hlQsturFgx3ylI0L31bJ6w-uyiGzhfhYpxWoViIpY.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 8 (CRO) FHD
-http://445756402471935424.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935424.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 8 (SRB) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGGkGN5m9-CtanMf0YFiYfpM2A9T4UBkEjNIpi6QJXkes.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 8 (SRB) FHD
-http://445756402471935425.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935425.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXYU :SPORT | ARENA SPORT 9 (CRO) FHD" tvg-logo="http://astrill.today:80/images/6o8hUvtvg1LrtDEKnzdmNzkh3gg-4h-L91Tym8zHV4Pb_o_waRXzCT5Fx_BD_dqGGAz-Ka8jQ2KTO03U9Adl5JFos180sCCBIxIxCtTWtvc.png" group-title="SVIP SPORTS",EXYU :SPORT | ARENA SPORT 9 (CRO) FHD
-http://445756402471935426.ofds1114.xyz:80/live/94EX7E5X46/Yef99GTBcvX/935426.ts
 #EXTINF:-1 tvg-id="35" tvg-name="HRT 1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA" ,HRT 1
 http://vodafone4.com:8000/BojanBarnjak12/DzzXiafrjB/35
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 (L2)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA" ,HRT 1 (L2)
