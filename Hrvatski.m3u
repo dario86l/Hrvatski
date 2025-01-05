@@ -90,7 +90,7 @@ https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xHMT7Jz/rtsrs.png" group-title="No group" tvg-id="" tvg-name="", RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvcat.com
+https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
@@ -234,8 +234,8 @@ http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 #EXTINF:-1,(HR) MAX SPORT 1
-https://love2live.wideiptv.top/MAXSPORT1HR/tracks-v1/index.fmp4.m3u8?token=38ffaae134c42ae2485b47598a11ed040c40aa2b-ed0a2e13606cfaa3ae992b1a744d2466-1736114197-1736103397
-#EXTINF:-1,(HR) MAX SPORT 1
+https://love2live.wideiptv.top/MAXSPORT1HR/tracks-v1/index.fmp4.m3u8?token=de2da96742472cc881ded034b6c4ba5e123543ff-e576d71ea18020307e5e3432bb64127d-1736115327-1736104527
+#EXTINF:-1,(HR) MAX SPORT 2
 https://love2live.wideiptv.top/MAXSPORT2HR/tracks-v1/index.fmp4.m3u8?token=e5756abe932b5fb0798ee4f84abd48d8243d51ce-12c04291a5eeb6656caf4188563b5a07-1736115112-1736104312
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦ HRVATSKA ✦●✦" tvg-logo="https://cdn.countryflags.com/thumbs/croatia/flag-button-round-250.png" group-title="HRVATSKA" ,✦●✦ HRVATSKA ✦●✦
 http://client.nodomain.vip:80/cc:6e:a4:b2:76:e3/fx3O7NoHtOQq6wzBToJF/1114
