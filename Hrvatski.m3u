@@ -333,42 +333,6 @@ http://nl.iptvsolution.info:80/SciFi/mpegts?username=slavica&token=0e8de6bf0596e
 http://nl.iptvsolution.info/RTCG/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Prva.png" group-title="CRNA GORA" tvg-id="PRVA CG (SN)" tvg-name="PRVA CG (SN)", PRVA (CG)
 http://nl.iptvsolution.info:8080/kanalM/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", OPŠTINA NOVI BEOGRAD
-https://streamer.devnet.rs/hls/opstinanbg.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", ŽELEZNIČKA
-https://streamer.devnet.rs/hls/zeleznicka.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", JURIJA GAGARINA
-https://streamer.devnet.rs/hls/gagarina.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", PANČEVAC
-https://streamer.devnet.rs/hls/pancevac.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", GAZELA
-https://streamer.devnet.rs/hls/gazela.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", TAKOVSKA
-https://streamer.devnet.rs/hls/takovska.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", MIHAJLA PUPINA
-https://streamer.devnet.rs/hls/pupina.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", AUTOKOMANDA
-https://streamer.devnet.rs/hls/autokomanda.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", TRG REPUBLIKE
-https://streamer.devnet.rs/hls/trgrepublike.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", SLAVIJA
-https://streamer.devnet.rs/hls/slavija.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", MOST NA ADI
-https://streamer.devnet.rs/hls/ada.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", DESPOTA STEFANA
-https://streamer.devnet.rs/hls/despotastefana.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", BOGOSLOVIJA
-https://streamer.devnet.rs/hls/bogoslovija.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", GENEX
-https://streamer.devnet.rs/hls/genex.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", NEMANJINA
-https://streamer.devnet.rs/hls/nemanjina.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", TRG NIKOLE PAŠIĆA
-https://streamer.devnet.rs/hls/trgnikole.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", VUKOV SPOMENIK
-https://streamer.devnet.rs/hls/vuk.m3u8
-#EXTINF:-1 tvg-logo="noimage.png" group-title="KAMERE" tvg-id="" tvg-name="", BRANKOV MOST
-https://streamer.devnet.rs/hls/brankov.m3u8
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20Beograd%201.png" group-title="RADIO" tvg-id="Radio Beograd 1 (SN)" tvg-name="Radio Beograd 1 (SN)", Radio Beograd 1
 https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Radio%20Beograd%202.png" group-title="RADIO" tvg-id="Radio Beograd 2 (SN)" tvg-name="Radio Beograd 2 (SN)", Radio Beograd 2
