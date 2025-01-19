@@ -74,7 +74,7 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1,(HR) Trend TV (480p)
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1, (HR) María+Visión Medjugorje 
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:PALMIAMI/chunklist_b1428000.m3u8
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Italiacinque/chunklist.m3u8
 #EXTINF:-1,(BIH) BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNxvwRc/rtlhr.png" group-title="No group" tvg-id="" tvg-name="", RTL HR
