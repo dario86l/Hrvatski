@@ -65,6 +65,10 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1,(HR) Televizija Banovina (720p)
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR
+#EXTINF:-1, MTV Music
+http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=80054&extension=ts&play_token=Oud4m3KZDx
+#EXTINF:-1, MTV 80s ULTRA
+http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=1370531&extension=ts&play_token=V1n7HD8oEK
 #EXTINF:-1, (HR) TV Zapad (1080p)
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
 #EXTINF:-1,(HR) RTL Croatia (1080p)
