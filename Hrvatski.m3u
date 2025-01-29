@@ -167,7 +167,8 @@ http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154558&extensi
 #EXTINF:-1, NO| VIASPORT 3
 http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154559&extension=ts&play_token=xw8Qv6o9eG
 #EXTINF:-1, NO| VIASPORT 3 HD
-http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154560&extension=ts&play_token=ZBf7uYeq7b#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154560&extension=ts&play_token=ZBf7uYeq7b
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
 https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
