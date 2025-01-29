@@ -156,6 +156,8 @@ http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154558&extensi
 http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154559&extension=ts&play_token=xw8Qv6o9eG
 #EXTINF:-1, NO| VIASPORT 3 HD
 http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154560&extension=ts&play_token=ZBf7uYeq7b
+#EXTINF:-1, KURIR TV
+https://static.am.mediaoutcast.com//storage//nQJnjJkO//nQJnjJkO//stream//O68x4o8g//720p/720p.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 HRVATSKA
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
