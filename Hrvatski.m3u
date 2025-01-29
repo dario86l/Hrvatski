@@ -1,24 +1,10 @@
 #EXTM3U
 #EXTINF:-1,(HR) HRT 1
-http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,(HR) HRT 1 HD
-http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8
+https://list.iptvcat.com/my_list/s/a3a692cad1cd61f05126e67c1494d5ac.m3u8
 #EXTINF:-1,(HR) HRT 2
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1,(HR) HRT 3 
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+https://list.iptvcat.com/my_list/s/6837b817e926f80a0b8e15f5b1049245.m3u8
 #EXTINF:-1,(HR) HRT 3 (Kodi) 1
-http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8
-#EXTINF:-1,(HR) HRT 3 (Kodi) 2
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1,(HR) HRT 3 (Kodi) 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
-#EXTINF:-1,(HR) HRT 4
-http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1,(HR) HRT 4 HD
-http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
-#EXTINF:-1 ,RTL TV 720p
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+https://list.iptvcat.com/my_list/s/05ae0fd2d2760995b6ce0d8b4420ae8d.m3u8
 #EXTINF:-1,(HR) RTL HD
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1,(HR) RTL 2
@@ -54,7 +40,7 @@ https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8
 #EXTINF:-1,(HR) HRT 3 (GledajTV)
 https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8
 #EXTINF:-1,(HR) KLASIK
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/22731
+https://list.iptvcat.com/my_list/s/56ce7922e7847bca5bc9f15d63cd6af5.m3u8
 #EXTINF:-1,(HR) TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1,(HR) Z1
@@ -168,88 +154,8 @@ http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154558&extensi
 http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154559&extension=ts&play_token=xw8Qv6o9eG
 #EXTINF:-1, NO| VIASPORT 3 HD
 http://exprestv.win:80/play/live.php?mac=00:1A:79:40:CF:D5&stream=154560&extension=ts&play_token=ZBf7uYeq7b
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/02.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226140/01.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226280/01.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226281/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226281/01.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="HR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 HRVATSKA
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
-http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvsat.com&checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="News" tvg-id="OTV.hr" tvg-name="OTV.hr", OTV (720p) [Not 24/7]
@@ -328,19 +234,19 @@ http://nl.iptvsolution.info/n1/mpegts?username=slavica&token=0e8de6bf0596e8b389e
 http://nl.iptvsolution.info/AlJazeeraBalkans/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20History.png" group-title="DOKUMENTARNI" tvg-id="Viasat History HD" tvg-name="Viasat History HD", Viasat History HD
 http://nl.iptvsolution.info:80/viasathistory/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20Nature.png" group-title="DOKUMENTARNI" tvg-id="Viasat Nature HD" tvg-name="Viasat Nature HD", Viasat Nature HD
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20Nature.png" group-title="DOKUMENTARNI MAX" tvg-id="Viasat Nature HD" tvg-name="Viasat Nature HD", Viasat Nature HD
 http://nl.iptvsolution.info:80/visatnature/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/History%20Channel.png" group-title="DOKUMENTARNI" tvg-id="History" tvg-name="History", History
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/History%20Channel.png" group-title="DOKUMENTARNI MAX" tvg-id="History" tvg-name="History", History
 http://nl.iptvsolution.info/HistoryChannel/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Discovery%20Channel.png" group-title="DOKUMENTARNI" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Discovery%20Channel.png" group-title="DOKUMENTARNI MAX" tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD", Discovery Channel HD
 http://nl.iptvsolution.info/discovery/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Lov%20I%20Ribolov.png" group-title="DOKUMENTARNI" tvg-id="Lov i Ribolov" tvg-name="Lov i Ribolov", Lov i Ribolov
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Lov%20I%20Ribolov.png" group-title="DOKUMENTARNI MAX" tvg-id="Lov i Ribolov" tvg-name="Lov i Ribolov", Lov i Ribolov
 http://nl.iptvsolution.info/loviribolov/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_3/TLC.png" group-title="DOKUMENTARNI" tvg-id="TLC" tvg-name="TLC", TLC
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_3/TLC.png" group-title="DOKUMENTARNI MAX" tvg-id="TLC" tvg-name="TLC", TLC
 http://nl.iptvsolution.info/tlc/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Crime%20&%20Investigation.png" group-title="DOKUMENTARNI" tvg-id="Crime&amp;Investigation" tvg-name="Crime&amp;Investigation", Crime  Investigation
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Crime%20&%20Investigation.png" group-title="DOKUMENTARNI MAX" tvg-id="Crime&amp;Investigation" tvg-name="Crime&amp;Investigation", Crime  Investigation
 http://nl.iptvsolution.info:80/Crime&InvestigationNetwork/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/investigation%20discovery.png" group-title="DOKUMENTARNI" tvg-id="Investigation Discovery" tvg-name="Investigation Discovery", Investigation Discovery
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/investigation%20discovery.png" group-title="DOKUMENTARNI MAX" tvg-id="Investigation Discovery" tvg-name="Investigation Discovery", Investigation Discovery
 http://nl.iptvsolution.info:80/discaveryid/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/BHT%201.png" group-title="BOSNA MAX" tvg-id="BHT 1_max" tvg-name="BHT 1_max", BHT 1
 http://nl.iptvsolution.info/bht1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
