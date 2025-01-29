@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,(HR) HRT 1
-https://list.iptvcat.com/my_list/s/a3a692cad1cd61f05126e67c1494d5ac.m3u8
+https://webtvstream.bhtelecom.ba/hls16/hrt1.m3u8
 #EXTINF:-1,(HR) HRT 2
-https://list.iptvcat.com/my_list/s/6837b817e926f80a0b8e15f5b1049245.m3u8
-#EXTINF:-1,(HR) HRT 3 (Kodi) 1
+https://webtvstream.bhtelecom.ba/hls16/hrt2.m3u8
+#EXTINF:-1,(HR) HRT 3 
 https://list.iptvcat.com/my_list/s/05ae0fd2d2760995b6ce0d8b4420ae8d.m3u8
 #EXTINF:-1,(HR) RTL HD
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
@@ -17,6 +17,8 @@ https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 #EXTINF:-1,(HR) CMC
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1,RT BALKAN
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist_800Kb.m3u8
 #EXTINF:-1,(HR) NOVA TV
 http://client.newsborntvs.info:80/KujtimKrasniqii/jndEA1ytp/1622
 #EXTINF:-1,(HR) DOMA TV
