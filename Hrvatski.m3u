@@ -240,7 +240,7 @@ http://nl.iptvsolution.info:80/n1/mpegts?username=milinkovic.mara&token=d90f6ec6
 http://nl.iptvsolution.info/n1/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Al%20Jazeera%20Balkans.png" group-title="VJESTI MAX" tvg-id="Al Jazeera Balkans HD" tvg-name="Al Jazeera Balkans HD", Al Jazeera Balkans HD
 http://nl.iptvsolution.info/AlJazeeraBalkans/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20History.png" group-title="DOKUMENTARNI" tvg-id="Viasat History HD" tvg-name="Viasat History HD", Viasat History HD
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20History.png" group-title="DOKUMENTARNI MAX" tvg-id="Viasat History HD" tvg-name="Viasat History HD", Viasat History HD
 http://nl.iptvsolution.info:80/viasathistory/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Viasat%20Nature.png" group-title="DOKUMENTARNI MAX" tvg-id="Viasat Nature HD" tvg-name="Viasat Nature HD", Viasat Nature HD
 http://nl.iptvsolution.info:80/visatnature/mpegts?username=slavica&token=0e8de6bf0596e8b389edbe517255748b
