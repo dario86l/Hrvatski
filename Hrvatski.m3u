@@ -449,6 +449,28 @@ http://nl.iptvsolution.info/Eurosport2/mpegts?username=slavica&token=0e8de6bf059
 http://nl.iptvsolution.info/Eurosport1/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Eurosport%202.png" group-title="SPORT MAX" tvg-id="Eurosport 2 (SR)" tvg-name="Eurosport 2 (SR)", EUROSPORT 2 HD
 http://nl.iptvsolution.info/Eurosport2/mpegts?username=milinkovic.mara&token=d90f6ec602a20e2b2c9f79380e688df6
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: ARENA SPORT 2 (Serbisch)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/186742.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: ARENA SPORT 2  HR (Kroatisch)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/186743.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/6894.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/6895.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/6896.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: Arena Sport 1 (EXYU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/76094.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: Arena Sport 2 (EXYU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/6892.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: Arena Sport 3 (EXYU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/76095.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: Arena Sport 4 (EXYU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/6893.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: Arena Sport 5 (EXYU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/76096.m3u
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", VIP SPORT: Arena Sport 6 (EXYU)
+http://lionking.proxvip.xyz:2095/live/nnc2903/rkgfEMd9Am6j/76097.m3u
 #EXTINF:-1,▬ ex-Yu Countries [ex-Yu] ▬
 http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/16534
 #EXTINF:-1,HRT 1 FHD HR
