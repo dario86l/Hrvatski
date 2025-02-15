@@ -87,8 +87,10 @@ https://webtvstream.bhtelecom.ba/rts1.m3u8
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1, KURIR TV
 https://static.am.mediaoutcast.com//storage//nQJnjJkO//nQJnjJkO//stream//O68x4o8g//720p/720p.m3u8
-#EXTINF:-1, INFORMER TV
-https://53be5ef2d13aa.streamlock.net/informertv-secure/web/chunklist_w1178878497.m3u8
+#EXTINF:-1, INFORMER TV 
+https://6069699a9e3f3.streamlock.net/informertv-secure/web/media_w1612920172_178666.ts
+#EXTINF:-1, INFORMER TV (2)
+https://6069699a9e3f3.streamlock.net/informertv-secure/web/chunklist_w1612920172.m3u8
 #EXTINF:-1, BLIC TV
 https://6069699a9e3f3.streamlock.net/blictv-secure/smil:blictv-secure.smil/chunklist_w1924244461_b3628000_sleng.m3u8
 #EXTINF:-1,EURONEWS SRB
