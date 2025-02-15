@@ -88,7 +88,7 @@ https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1, KURIR TV
 https://static.am.mediaoutcast.com//storage//nQJnjJkO//nQJnjJkO//stream//O68x4o8g//720p/720p.m3u8
 #EXTINF:-1, INFORMER TV 
-https://6069699a9e3f3.streamlock.net/informertv-secure/web/media_w1612920172_178666.ts
+http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/139328
 #EXTINF:-1, INFORMER TV (2)
 https://6069699a9e3f3.streamlock.net/informertv-secure/web/chunklist_w1612920172.m3u8
 #EXTINF:-1, BLIC TV
@@ -567,8 +567,6 @@ http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/17262
 http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/91880
 #EXTINF:-1,Tanjug TV RS
 http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/133165
-#EXTINF:-1,Informer TV RS
-http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/139328
 #EXTINF:-1,Kurir TV RS
 http://tv.topsmart.iptv.uno:80/RxXu6zA34/drZpob39/93202
 #EXTINF:-1,Blic TV HD RS
